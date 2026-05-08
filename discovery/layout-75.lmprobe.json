@@ -1,0 +1,69 @@
+{
+  "layoutmanager": {
+    "methods": [
+      "bound",
+      "clear",
+      "constructor",
+      "emit",
+      "init",
+      "location",
+      "nolocation",
+      "off",
+      "on",
+      "refresh",
+      "removeElement",
+      "resize",
+      "setOptions",
+      "singles",
+      "start",
+      "stop",
+      "stopAnimation",
+      "updatePendingChanges"
+    ],
+    "optionKeys": [
+      "delegate",
+      "droppables",
+      "exclude",
+      "resize_handles",
+      "builder",
+      "history",
+      "savestate"
+    ],
+    "historyType": "object"
+  },
+  "builderTryCalls": {
+    "try0": {
+      "args": [],
+      "ok": false,
+      "err": "Cannot read properties of undefined (reading 'id')"
+    },
+    "try1": {
+      "args": [
+        "particle"
+      ],
+      "ok": false,
+      "err": "block.isNew is not a function"
+    },
+    "try2": {
+      "args": [
+        {
+          "type": "particle",
+          "subtype": "branding"
+        }
+      ],
+      "ok": false,
+      "err": "block.isNew is not a function"
+    },
+    "try3": {
+      "args": [
+        "expanded",
+        {
+          "type": "particle",
+          "subtype": "branding"
+        }
+      ],
+      "ok": false,
+      "err": "block.isNew is not a function"
+    }
+  }
+}

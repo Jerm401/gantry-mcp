@@ -1,0 +1,1265 @@
+{
+  "methods": [],
+  "properties": [
+    "$",
+    "builder",
+    "layoutmanager",
+    "history",
+    "savestate"
+  ],
+  "shape": {
+    "$": "[function]",
+    "builder": {
+      "map": {
+        "container-top": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "container-top",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "extra": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-6731": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-6731",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-4505": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-4505",
+          "attributes": {
+            "size": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "top": {
+          "grid": {
+            "options": "[depth-limit]",
+            "fresh": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "block": "[depth-limit]",
+            "_bound": "[depth-limit]",
+            "_listeners": "[depth-limit]"
+          },
+          "options": {
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "type": "[depth-limit]",
+            "layout": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "top",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onDone": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "done": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-4140": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-4140",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-8000": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-8000",
+          "attributes": {
+            "size": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "system-messages-3742": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "system-messages-3742",
+          "attributes": {
+            "enabled": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]",
+            "particle": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onParentResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-2300": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-2300",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-7499": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-7499",
+          "attributes": {
+            "size": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "navigation": {
+          "grid": {
+            "options": "[depth-limit]",
+            "fresh": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "block": "[depth-limit]",
+            "_bound": "[depth-limit]",
+            "_listeners": "[depth-limit]"
+          },
+          "options": {
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "type": "[depth-limit]",
+            "layout": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "navigation",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onDone": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "done": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-5610": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-5610",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-2649": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-2649",
+          "attributes": {
+            "size": "[depth-limit]",
+            "class": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "logo-7708": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "logo-7708",
+          "attributes": {
+            "enabled": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]",
+            "particle": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onParentResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-5647": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-5647",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-4675": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-4675",
+          "attributes": {
+            "size": "[depth-limit]",
+            "class": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "logo-5495": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "logo-5495",
+          "attributes": {
+            "enabled": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]",
+            "particle": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onParentResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-6180": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-6180",
+          "attributes": {
+            "size": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "spacer-1623": {
+          "options": {
+            "type": "[depth-limit]",
+            "title": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "spacer-1623",
+          "attributes": {
+            "enabled": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]",
+            "particle": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onParentResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-8310": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-8310",
+          "attributes": {
+            "size": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "blockcontent-8725": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "blockcontent-8725",
+          "attributes": {
+            "source": "[depth-limit]",
+            "class": "[depth-limit]",
+            "title": "[depth-limit]",
+            "icon": "[depth-limit]",
+            "image": "[depth-limit]",
+            "headline": "[depth-limit]",
+            "description": "[depth-limit]",
+            "linktext": "[depth-limit]",
+            "link": "[depth-limit]",
+            "linkclass": "[depth-limit]",
+            "linktarget": "[depth-limit]",
+            "subcontents": "[depth-limit]",
+            "article": "[depth-limit]",
+            "enabled": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]",
+            "particle": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onParentResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-7403": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-7403",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-8146": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-8146",
+          "attributes": {
+            "size": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "menu-6881": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "menu-6881",
+          "attributes": {
+            "enabled": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]",
+            "particle": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onParentResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-4999": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-4999",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-1297": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-1297",
+          "attributes": {
+            "size": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "slideshow": {
+          "grid": {
+            "options": "[depth-limit]",
+            "fresh": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "block": "[depth-limit]",
+            "_bound": "[depth-limit]",
+            "_listeners": "[depth-limit]"
+          },
+          "options": {
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "type": "[depth-limit]",
+            "layout": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "slideshow",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onDone": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "done": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "header": {
+          "grid": {
+            "options": "[depth-limit]",
+            "fresh": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "block": "[depth-limit]",
+            "_bound": "[depth-limit]",
+            "_listeners": "[depth-limit]"
+          },
+          "options": {
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]",
+            "type": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "header",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onDone": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "done": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "grid-4429": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "grid-4429",
+          "attributes": {},
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        },
+        "block-3292": {
+          "options": {
+            "type": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "id": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "layout": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "block-3292",
+          "attributes": {
+            "size": "[depth-limit]",
+            "id": "[depth-limit]",
+            "class": "[depth-limit]"
+          },
+          "inherit": {},
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]",
+            "resized": "[depth-limit]"
+          }
+        },
+        "position-position-3182": {
+          "options": {
+            "type": "[depth-limit]",
+            "id": "[depth-limit]",
+            "attributes": "[depth-limit]",
+            "inherit": "[depth-limit]",
+            "subtype": "[depth-limit]",
+            "builder": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "fresh": false,
+          "id": "position-position-3182",
+          "attributes": {
+            "key": "[depth-limit]",
+            "enabled": "[depth-limit]",
+            "title": "[depth-limit]"
+          },
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]",
+            "particle": "[depth-limit]"
+          },
+          "block": {
+            "0": "[depth-limit]",
+            "length": "[depth-limit]"
+          },
+          "_bound": {
+            "onRendered": "[depth-limit]",
+            "onParentResize": "[depth-limit]"
+          },
+          "_listeners": {
+            "rendered": "[depth-limit]",
+            "changed": "[depth-limit]"
+          }
+        }
+      },
+      "structure": [
+        {
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "extra": "[depth-limit]"
+          },
+          "id": "container-top",
+          "layout": true,
+          "type": "container",
+          "subtype": "container",
+          "title": "Container-top",
+          "children": [
+            "[depth-limit]",
+            "[depth-limit]",
+            "[depth-limit]"
+          ]
+        },
+        {
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "id": "header",
+          "layout": true,
+          "type": "section",
+          "subtype": "header",
+          "title": "Header",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "children": [
+            "[depth-limit]"
+          ]
+        },
+        {
+          "type": "section",
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "id": "above",
+          "layout": true,
+          "subtype": "section",
+          "title": "Above",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "children": []
+        },
+        {
+          "type": "section",
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "id": "feature",
+          "layout": true,
+          "subtype": "section",
+          "title": "Feature",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "children": []
+        },
+        {
+          "type": "section",
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "id": "showcase",
+          "layout": true,
+          "subtype": "section",
+          "title": "Showcase",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "children": []
+        },
+        {
+          "type": "section",
+          "inherit": {
+            "outline": "[depth-limit]",
+            "include": "[depth-limit]"
+          },
+          "id": "utility",
+          "layout": true,
+          "subtype": "section",
+          "title": "Utility",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "children": []
+        },
+        {
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "extra": "[depth-limit]"
+          },
+          "id": "container-main",
+          "layout": true,
+          "type": "container",
+          "subtype": "container",
+          "title": "Container-main",
+          "children": [
+            "[depth-limit]"
+          ]
+        },
+        {
+          "type": "section",
+          "attributes": {
+            "boxed": "[depth-limit]",
+            "class": "[depth-limit]",
+            "variations": "[depth-limit]"
+          },
+          "id": "expanded",
+          "layout": true,
+          "subtype": "section",
+          "title": "Expanded",
+          "children": [
+            "[depth-limit]"
+          ]
+        }
+      ]
+    },
+    "layoutmanager": {
+      "options": {
+        "delegate": "[data-lm-root] .g-grid > .g-block > [data-lm-blocktype]:not([data-lm-nodrag]) !> .g-block, .g5-lm-particles-picker [data-lm-blocktype], [data-lm-root] [data-lm-blocktype=\"section\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"section\"] > [data-lm-blocktype=\"container\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"offcanvas\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"offcanvas\"] > [data-lm-blocktype=\"container\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag])",
+        "droppables": "[data-lm-dropzone]",
+        "exclude": ".section-header .button, .section-header .fa, .lm-newblocks .float-right .button, [data-lm-nodrag], [data-lm-disabled]",
+        "resize_handles": "[data-lm-root] .g-grid > .g-block:not(:last-child)",
+        "builder": "[circular]",
+        "history": {
+          "index": 0,
+          "session": [
+            "[depth-limit]"
+          ],
+          "_listeners": {
+            "push": "[depth-limit]",
+            "undo": "[depth-limit]",
+            "redo": "[depth-limit]"
+          }
+        },
+        "savestate": {
+          "session": {
+            "time": "[depth-limit]",
+            "data": "[depth-limit]"
+          }
+        }
+      },
+      "refElement": "[data-lm-container]",
+      "dragdrop": {
+        "container": {
+          "0": {
+            "uid:0": "[depth-limit]"
+          },
+          "length": 1,
+          "_delegation": {
+            "pointerdown": "[depth-limit]",
+            "mousedown": "[depth-limit]"
+          },
+          "_listeners": {
+            "pointerdown": "[depth-limit]",
+            "mousedown": "[depth-limit]"
+          },
+          "_domListeners": {
+            "pointerdown": "[depth-limit]",
+            "mousedown": "[depth-limit]"
+          }
+        },
+        "options": {
+          "delegate": "[data-lm-root] .g-grid > .g-block > [data-lm-blocktype]:not([data-lm-nodrag]) !> .g-block, .g5-lm-particles-picker [data-lm-blocktype], [data-lm-root] [data-lm-blocktype=\"section\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"section\"] > [data-lm-blocktype=\"container\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"offcanvas\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"offcanvas\"] > [data-lm-blocktype=\"container\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag])",
+          "droppables": "[data-lm-dropzone]",
+          "catchClick": false,
+          "exclude": ".section-header .button, .section-header .fa, .lm-newblocks .float-right .button, [data-lm-nodrag], [data-lm-disabled]",
+          "resize_handles": "[data-lm-root] .g-grid > .g-block:not(:last-child)",
+          "builder": "[circular]",
+          "history": "[circular]",
+          "savestate": "[circular]"
+        },
+        "element": null,
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "transform": null,
+          "offset": {
+            "x": "[depth-limit]",
+            "y": "[depth-limit]"
+          }
+        },
+        "matched": false,
+        "lastMatched": false,
+        "lastOvered": null,
+        "_bound": {
+          "start": "[function]"
+        },
+        "_listeners": {
+          "dragdrop:start": [
+            "[depth-limit]"
+          ],
+          "dragdrop:location": [
+            "[depth-limit]"
+          ],
+          "dragdrop:nolocation": [
+            "[depth-limit]"
+          ],
+          "dragdrop:resize": [
+            "[depth-limit]"
+          ],
+          "dragdrop:stop:erase": [
+            "[depth-limit]"
+          ],
+          "dragdrop:stop": [
+            "[depth-limit]"
+          ],
+          "dragdrop:stop:animation": [
+            "[depth-limit]"
+          ]
+        }
+      },
+      "resizer": {
+        "options": {
+          "minSize": 5,
+          "delegate": "[data-lm-root] .g-grid > .g-block > [data-lm-blocktype]:not([data-lm-nodrag]) !> .g-block, .g5-lm-particles-picker [data-lm-blocktype], [data-lm-root] [data-lm-blocktype=\"section\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"section\"] > [data-lm-blocktype=\"container\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"offcanvas\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag]), [data-lm-root] [data-lm-blocktype=\"offcanvas\"] > [data-lm-blocktype=\"container\"] > [data-lm-blocktype=\"grid\"]:not(:empty):not(.no-move):not([data-lm-nodrag])",
+          "droppables": "[data-lm-dropzone]",
+          "exclude": ".section-header .button, .section-header .fa, .lm-newblocks .float-right .button, [data-lm-nodrag], [data-lm-disabled]",
+          "resize_handles": "[data-lm-root] .g-grid > .g-block:not(:last-child)",
+          "builder": "[circular]",
+          "history": "[circular]",
+          "savestate": "[circular]"
+        },
+        "history": "[circular]",
+        "builder": "[circular]",
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "transform": null,
+          "offset": {
+            "x": "[depth-limit]",
+            "y": "[depth-limit]"
+          }
+        }
+      },
+      "eraser": {
+        "options": {},
+        "element": {
+          "0": {
+            "uid:0": "[depth-limit]",
+            "uniqueNumber": "[depth-limit]"
+          },
+          "length": 1
+        },
+        "top": 0,
+        "left": 0
+      },
+      "_bound": {
+        "start": "[function]",
+        "location": "[function]",
+        "nolocation": "[function]",
+        "resize": "[function]",
+        "removeElement": "[function]",
+        "stop": "[function]",
+        "stopAnimation": "[function]"
+      },
+      "builder": "[circular]",
+      "history": "[circular]",
+      "savestate": "[circular]"
+    },
+    "history": "[circular]",
+    "savestate": "[circular]"
+  }
+}

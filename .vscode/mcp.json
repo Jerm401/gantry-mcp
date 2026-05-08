@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "gantry": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "${workspaceFolder}/mcp-server.js"
+      ],
+      "envFile": "${workspaceFolder}/.env"
+    }
+  }
+}

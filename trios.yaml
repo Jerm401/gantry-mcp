@@ -1,0 +1,1148 @@
+schema: 1
+source:
+  outline: '58'
+  theme: rt_studius
+  host: agent5.forge.solutiosoftware.com
+exportedAt: '2026-05-08T15:30:13.646Z'
+layout:
+  - attributes:
+      boxed: ''
+      class: no-background-image
+      extra: []
+    id: container-top
+    layout: true
+    type: container
+    subtype: container
+    title: Container-top
+    children:
+      - id: grid-8295
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-1557
+            type: block
+            subtype: block
+            layout: true
+            attributes:
+              size: 100
+            children:
+              - type: section
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                    - children
+                id: top
+                layout: true
+                subtype: section
+                title: Top
+                attributes:
+                  boxed: ''
+                  class: ''
+                children:
+                  - id: grid-4994
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-1018
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - id: system-messages-3742
+                            title: System Messages
+                            type: system
+                            subtype: messages
+                            attributes:
+                              enabled: 1
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: system-messages-5394
+                        attributes:
+                          size: 100
+      - id: grid-3979
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-1784
+            type: block
+            subtype: block
+            layout: true
+            attributes:
+              size: 100
+            children:
+              - type: section
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                    - children
+                id: navigation
+                layout: true
+                subtype: section
+                title: Navigation
+                attributes:
+                  boxed: '2'
+                  class: crawl-space stock
+                  variations: ''
+                children:
+                  - id: grid-8223
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-4762
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Mobile Logo
+                            id: logo-7708
+                            type: particle
+                            subtype: logo
+                            attributes:
+                              enabled: 1
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: logo-4067
+                        attributes:
+                          class: show-mobile
+                          size: 100
+                  - id: grid-3967
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-3116
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Logo / Image
+                            id: logo-5495
+                            type: particle
+                            subtype: logo
+                            attributes:
+                              enabled: 1
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: logo-9955
+                        attributes:
+                          class: hidden-phone
+                          size: 65
+                      - id: block-4395
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - id: spacer-1623
+                            title: Spacer
+                            type: spacer
+                            subtype: spacer
+                            attributes:
+                              enabled: 1
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: spacer-6691
+                        attributes:
+                          size: 10
+                      - id: block-5406
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Toplinks
+                            attributes:
+                              source: particle
+                              class: ''
+                              title: ''
+                              icon: ''
+                              image: ''
+                              headline: ''
+                              description: ''
+                              linktext: ''
+                              link: ''
+                              linkclass: ''
+                              linktarget: _self
+                              subcontents:
+                                - accent: none
+                                  icon: fas fa-newspaper
+                                  img: ''
+                                  rokboximage: ''
+                                  rokboxcaption: ''
+                                  subtitle: ''
+                                  description: ''
+                                  class: ''
+                                  button: Bulletin
+                                  buttonlink: '#'
+                                  buttonclass: ''
+                                  buttontarget: _self
+                                  name: Bulletin
+                                - accent: none
+                                  icon: fas fa-hand-holding-heart
+                                  img: ''
+                                  rokboximage: ''
+                                  rokboxcaption: ''
+                                  subtitle: ''
+                                  description: ''
+                                  class: ''
+                                  button: Online Giving
+                                  buttonlink: '#'
+                                  buttonclass: ''
+                                  buttontarget: _self
+                                  name: Online Giving
+                                - accent: none
+                                  icon: fas fa-phone
+                                  img: ''
+                                  rokboximage: ''
+                                  rokboxcaption: ''
+                                  subtitle: ''
+                                  description: ''
+                                  class: ''
+                                  button: Contact Us
+                                  buttonlink: '#'
+                                  buttonclass: ''
+                                  buttontarget: _self
+                                  name: Contact Us
+                              article:
+                                filter:
+                                  categories: ''
+                                  articles: ''
+                                  featured: include
+                                limit:
+                                  total: '5'
+                                  start: '0'
+                                sort:
+                                  orderby: publish_up
+                                  ordering: ASC
+                                display:
+                                  image:
+                                    enabled: intro
+                                  title:
+                                    enabled: show
+                                    limit: ''
+                                  text:
+                                    type: intro
+                                    limit: ''
+                                    formatting: text
+                                  link:
+                                    enabled: show
+                                    label: ''
+                                    target: _self
+                              enabled: 1
+                            id: blockcontent-8725
+                            type: particle
+                            subtype: blockcontent
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: blockcontent-7363
+                        attributes:
+                          class: ql-toplinks-studius
+                          variations: align-right
+                          size: 25
+                  - id: grid-1927
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-3980
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - id: menu-6881
+                            title: Menu
+                            type: particle
+                            subtype: menu
+                            attributes:
+                              enabled: 1
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: menu-2477
+                        attributes:
+                          size: 100
+      - id: grid-9849
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-1512
+            type: block
+            subtype: block
+            layout: true
+            attributes:
+              size: 100
+            children:
+              - type: section
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                    - children
+                id: slideshow
+                layout: true
+                subtype: section
+                title: Slideshow
+                attributes:
+                  boxed: ''
+                  class: ''
+                  variations: section-vertical-paddings section-horizontal-paddings
+                children: []
+  - inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+    id: header
+    layout: true
+    type: section
+    subtype: header
+    title: Header
+    attributes:
+      boxed: '2'
+      class: ''
+      variations: ''
+    children:
+      - id: grid-1631
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-2636
+            type: block
+            subtype: block
+            layout: true
+            children:
+              - title: Hero
+                attributes:
+                  key: hero
+                  enabled: 1
+                id: position-position-3182
+                type: position
+                subtype: position
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                  particle: position-position-8212
+            attributes:
+              id: hero
+              class: hero
+              size: 100
+  - type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+    id: above
+    layout: true
+    subtype: section
+    title: Above
+    attributes:
+      boxed: ''
+      class: ''
+      variations: section-horizontal-paddings
+    children: []
+  - type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+    id: feature
+    layout: true
+    subtype: section
+    title: Feature
+    attributes:
+      boxed: ''
+      class: ''
+      variations: section-horizontal-paddings-large
+    children: []
+  - type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+    id: showcase
+    layout: true
+    subtype: section
+    title: Showcase
+    attributes:
+      boxed: ''
+      class: ''
+      variations: section-horizontal-paddings
+    children: []
+  - type: section
+    inherit:
+      outline: default
+      include:
+        - children
+        - attributes
+    id: utility
+    layout: true
+    subtype: section
+    title: Utility
+    attributes:
+      boxed: ''
+      class: ''
+      variations: section-horizontal-paddings section-vertical-paddings
+    children: []
+  - attributes:
+      boxed: ''
+      class: ''
+      extra: []
+    id: container-main
+    layout: true
+    type: container
+    subtype: container
+    title: Container-main
+    children:
+      - id: grid-1653
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-2381
+            type: block
+            subtype: block
+            layout: true
+            attributes:
+              size: 5
+            children:
+              - type: section
+                subtype: aside
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                    - children
+                id: sidebar
+                layout: true
+                title: Sidebar
+                attributes:
+                  class: ''
+                children: []
+          - id: block-4102
+            type: block
+            subtype: block
+            layout: true
+            attributes:
+              size: 75
+            children:
+              - type: section
+                subtype: main
+                title: Main
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                    - children
+                id: mainbar
+                layout: true
+                attributes:
+                  class: section-padding-5
+                  variations: ''
+                children:
+                  - id: grid-8671
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-6307
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Content Top A
+                            attributes:
+                              key: content-top-a
+                              enabled: 1
+                            id: position-position-1969
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-4050
+                        attributes:
+                          size: 33.3
+                      - id: block-7006
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Content Top B
+                            attributes:
+                              key: content-top-b
+                              enabled: 1
+                            id: position-position-9709
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-8477
+                        attributes:
+                          size: 33.3
+                      - id: block-4048
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Content Top C
+                            attributes:
+                              key: content-top-c
+                              enabled: 1
+                            id: position-position-8411
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-7142
+                        attributes:
+                          size: 33.3
+                  - id: grid-1154
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-4003
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - id: system-content-2725
+                            title: Page Content
+                            type: system
+                            subtype: content
+                            attributes:
+                              enabled: 1
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: system-content-6931
+                        attributes:
+                          size: 100
+                  - id: grid-9339
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-4651
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Content Bottom A
+                            attributes:
+                              key: content-bottom-a
+                              enabled: 1
+                            id: position-position-8504
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-8185
+                        attributes:
+                          size: 33.3
+                      - id: block-6033
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Content Bottom B
+                            attributes:
+                              key: content-bottom-b
+                              enabled: 1
+                            id: position-position-2031
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-5878
+                        attributes:
+                          size: 33.3
+                      - id: block-4323
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Content Bottom C
+                            attributes:
+                              key: content-bottom-c
+                              enabled: 1
+                            id: position-position-7558
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-4715
+                        attributes:
+                          size: 33.3
+          - id: block-8040
+            type: block
+            subtype: block
+            layout: true
+            attributes:
+              size: 20
+            children:
+              - inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                    - children
+                id: aside
+                layout: true
+                type: section
+                subtype: aside
+                title: Aside
+                attributes:
+                  class: ''
+                children:
+                  - id: grid-5243
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-6889
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Side Menu
+                            attributes:
+                              module_id: '82'
+                              key: side-menu
+                              enabled: 1
+                            id: position-module-2230
+                            type: position
+                            subtype: module
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-module-7043
+                        attributes:
+                          size: 100
+                  - id: grid-8704
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-9952
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: SideBar A
+                            attributes:
+                              key: sidebar-a
+                              enabled: 1
+                            id: position-position-3831
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-9918
+                        attributes:
+                          size: 100
+                  - id: grid-7949
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-9258
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Side Ads
+                            attributes:
+                              module_id: '105'
+                              key: side-ads
+                              enabled: 1
+                            id: position-module-2267
+                            type: position
+                            subtype: module
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-module-2271
+                        attributes:
+                          size: 100
+  - type: section
+    attributes:
+      boxed: '2'
+      class: widget-parthenon
+      variations: ''
+    id: expanded
+    layout: true
+    subtype: section
+    title: Expanded
+    children:
+      - id: grid-2845
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-7202
+            type: block
+            subtype: block
+            layout: true
+            children:
+              - title: Facebook
+                attributes:
+                  article:
+                    filter:
+                      categories: ''
+                      articles: '76'
+                      featured: include
+                    limit:
+                      total: '1'
+                      columns: '1'
+                      start: '0'
+                    display:
+                      pagination_buttons: ''
+                    sort:
+                      orderby: ordering
+                      ordering: ASC
+                  enabled: 1
+                id: contentarray-6583
+                type: particle
+                subtype: contentarray
+            attributes:
+              class: facebook-widget-container widget-container
+              size: 33.3
+          - id: block-6647
+            type: block
+            subtype: block
+            layout: true
+            children:
+              - title: Flocknote
+                attributes:
+                  article:
+                    filter:
+                      categories: ''
+                      articles: '78'
+                      featured: include
+                    limit:
+                      total: '1'
+                      columns: '1'
+                      start: '0'
+                    display:
+                      pagination_buttons: ''
+                    sort:
+                      orderby: ordering
+                      ordering: ASC
+                  enabled: 1
+                id: contentarray-3150
+                type: particle
+                subtype: contentarray
+            attributes:
+              class: flocknote-widget-container widget-container
+              size: 33.3
+          - id: block-4720
+            type: block
+            subtype: block
+            layout: true
+            children:
+              - title: Calendar
+                attributes:
+                  article:
+                    filter:
+                      categories: ''
+                      articles: '74'
+                      featured: include
+                    limit:
+                      total: '1'
+                      columns: '1'
+                      start: '0'
+                    display:
+                      pagination_buttons: ''
+                    sort:
+                      orderby: ordering
+                      ordering: ASC
+                  enabled: 1
+                id: contentarray-7651
+                type: particle
+                subtype: contentarray
+            attributes:
+              class: calendar-widget-container widget-container
+              size: 33.3
+  - type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+    id: extension
+    layout: true
+    subtype: section
+    title: Extension
+    attributes:
+      boxed: ''
+      class: ''
+      variations: section-horizontal-paddings section-vertical-paddings
+    children: []
+  - type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+    id: bottom
+    layout: true
+    subtype: section
+    title: Bottom
+    attributes:
+      boxed: '2'
+      class: s-vertical-padding-2
+      variations: ''
+    children:
+      - id: grid-1005
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-6030
+            type: block
+            subtype: block
+            layout: true
+            children:
+              - title: Bottom Ads
+                attributes:
+                  module_id: '103'
+                  key: bottom-ads
+                  enabled: 1
+                id: position-module-1334
+                type: position
+                subtype: module
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                  particle: position-module-3229
+            attributes:
+              size: 100
+  - attributes:
+      boxed: '2'
+      class: ''
+      extra: []
+    id: container-footer
+    layout: true
+    type: container
+    subtype: container
+    title: Container-footer
+    children:
+      - id: grid-1249
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-5767
+            type: block
+            subtype: block
+            layout: true
+            attributes:
+              size: 100
+            children:
+              - inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                    - children
+                id: footer
+                layout: true
+                type: section
+                subtype: footer
+                title: Footer
+                attributes:
+                  boxed: '2'
+                  class: s-padding-2
+                  variations: ''
+                children:
+                  - id: grid-6398
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-1406
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Footer A
+                            attributes:
+                              key: footer-a
+                              enabled: 1
+                            id: position-position-3203
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-6270
+                        attributes:
+                          size: 33.3
+                      - id: block-8673
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Footer B
+                            attributes:
+                              key: footer-b
+                              enabled: 1
+                            id: position-position-6498
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-3317
+                        attributes:
+                          size: 33.3
+                      - id: block-7517
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Footer C
+                            attributes:
+                              key: footer-c
+                              enabled: 1
+                            id: position-position-8217
+                            type: position
+                            subtype: position
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: position-position-5668
+                        attributes:
+                          size: 33.3
+                  - id: grid-6008
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-8658
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Footer
+                            attributes:
+                              article:
+                                filter:
+                                  categories: ''
+                                  articles: '36'
+                                  featured: include
+                                limit:
+                                  total: '1'
+                                  columns: '1'
+                                  start: '0'
+                                display:
+                                  pagination_buttons: ''
+                                sort:
+                                  orderby: ordering
+                                  ordering: ASC
+                              enabled: 1
+                            id: contentarray-5045
+                            type: particle
+                            subtype: contentarray
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: contentarray-5536
+                        attributes:
+                          size: 100
+              - type: section
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - children
+                    - block
+                id: copyright
+                layout: true
+                subtype: section
+                title: Copyright
+                attributes:
+                  boxed: ''
+                  class: ''
+                  variations: ''
+                children:
+                  - id: grid-9222
+                    type: grid
+                    subtype: grid
+                    layout: true
+                    attributes: {}
+                    children:
+                      - id: block-5237
+                        type: block
+                        subtype: block
+                        layout: true
+                        children:
+                          - title: Admin Footer
+                            attributes:
+                              html: "<div class=\"adminfootericon\" style=\"font-size: x-small; line-height: 1.3; text-shadow: 2px 2px #000000; \">\n\t<a  style=\"font-size: large;\" href=\"https://SITECODE.solutiosoftware.com/administrator/\" target=\"_blank\">\n\t<i class=\"fa fa-lock\"></i></a>\n\t<br><br><a style=\"color: #ffffff;\" href=\"http://solutiosoftware.com/\" target=\"_blank\">Site by Solutio</a>\n<br><a  style=\"color: #ffffff;\"  href=\"https://solutiosoftware.com/web-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Analytics Privacy Policy</a>\n</div>"
+                              enabled: 1
+                            id: custom-4673
+                            type: particle
+                            subtype: custom
+                            inherit:
+                              outline: default
+                              include:
+                                - attributes
+                                - block
+                              particle: custom-6467
+                        attributes:
+                          size: 100
+  - inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+    id: offcanvas
+    layout: true
+    type: offcanvas
+    subtype: offcanvas
+    title: Offcanvas
+    attributes:
+      swipe: '0'
+    children:
+      - id: grid-4754
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-7099
+            type: block
+            subtype: block
+            layout: true
+            children:
+              - title: Mobile Menu
+                id: mobile-menu-6647
+                type: particle
+                subtype: mobile-menu
+                attributes:
+                  enabled: 1
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                  particle: mobile-menu-4309
+            attributes:
+              size: 100
+      - id: grid-1037
+        type: grid
+        subtype: grid
+        layout: true
+        attributes: {}
+        children:
+          - id: block-9517
+            type: block
+            subtype: block
+            layout: true
+            children:
+              - title: Subsite Navigation
+                attributes:
+                  html: <div class="ql-toplinks-studius"><jdoc:include type="modules" name="subsite-navigation" /></div>
+                  enabled: 1
+                id: custom-8590
+                type: particle
+                subtype: custom
+                inherit:
+                  outline: default
+                  include:
+                    - attributes
+                    - block
+                  particle: custom-7345
+            attributes:
+              size: 100

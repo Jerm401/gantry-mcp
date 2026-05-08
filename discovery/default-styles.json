@@ -1,0 +1,1352 @@
+{
+  "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/styles&theme=rt_studius",
+  "title": "Site Name - Administration",
+  "links": [
+    {
+      "text": "Toggle Navigation",
+      "href": "#",
+      "cls": "btn btn-navbar collapsed"
+    },
+    {
+      "text": "Skip to Main Content",
+      "href": "#skiptarget",
+      "cls": "element-invisible"
+    },
+    {
+      "text": "Control Panel",
+      "href": "/administrator/index.php",
+      "cls": "admin-logo "
+    },
+    {
+      "text": "Site Name",
+      "href": "https://defaults-agent.forge.solutiosoftware.com/",
+      "cls": "brand hidden-desktop hidden-tablet"
+    },
+    {
+      "text": "System",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Control Panel",
+      "href": "index.php",
+      "cls": "no-dropdown menu-cpanel"
+    },
+    {
+      "text": "Global Check-in",
+      "href": "index.php?option=com_checkin",
+      "cls": "no-dropdown menu-checkin"
+    },
+    {
+      "text": "Clear Cache",
+      "href": "index.php?option=com_cache",
+      "cls": "no-dropdown menu-clear"
+    },
+    {
+      "text": "Clear Expired Cache",
+      "href": "index.php?option=com_cache&view=purge",
+      "cls": "no-dropdown menu-purge"
+    },
+    {
+      "text": "Users",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Manage",
+      "href": "index.php?option=com_users&view=users",
+      "cls": "dropdown-toggle menu-user"
+    },
+    {
+      "text": "Add New User",
+      "href": "index.php?option=com_users&task=user.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Groups",
+      "href": "index.php?option=com_users&view=groups",
+      "cls": "dropdown-toggle menu-groups"
+    },
+    {
+      "text": "Add New Group",
+      "href": "index.php?option=com_users&task=group.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Access Levels",
+      "href": "index.php?option=com_users&view=levels",
+      "cls": "dropdown-toggle menu-levels"
+    },
+    {
+      "text": "Add New Access Level",
+      "href": "index.php?option=com_users&task=level.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "User Actions Log",
+      "href": "index.php?option=com_actionlogs",
+      "cls": "no-dropdown menu-userlogs"
+    },
+    {
+      "text": "Menus",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Manage",
+      "href": "index.php?option=com_menus&view=menus",
+      "cls": "dropdown-toggle menu-menumgr"
+    },
+    {
+      "text": "Add New Menu",
+      "href": "index.php?option=com_menus&view=menu&layout=edit",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "All Menu Items",
+      "href": "index.php?option=com_menus&view=items&menutype=",
+      "cls": "no-dropdown menu-allmenu"
+    },
+    {
+      "text": "Hidden Menu",
+      "href": "index.php?option=com_menus&view=items&menutype=hidden-menu",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=hidden-menu",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Main Menu",
+      "href": "index.php?option=com_menus&view=items&menutype=mainmenu",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=mainmenu",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Solutio Stuff",
+      "href": "index.php?option=com_menus&view=items&menutype=solutio-stuff",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=solutio-stuff",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Content",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Articles",
+      "href": "index.php?option=com_content",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Add New Article",
+      "href": "index.php?option=com_content&task=article.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_content",
+      "cls": "dropdown-toggle menu-category"
+    },
+    {
+      "text": "Add New Category",
+      "href": "index.php?option=com_categories&task=category.add&extension=com_content",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Featured Articles",
+      "href": "index.php?option=com_content&view=featured",
+      "cls": "no-dropdown menu-featured"
+    },
+    {
+      "text": "Fields",
+      "href": "index.php?option=com_fields&context=com_content.article",
+      "cls": "no-dropdown menu-fields"
+    },
+    {
+      "text": "Field Groups",
+      "href": "index.php?option=com_fields&view=groups&context=com_content.article",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Media",
+      "href": "index.php?option=com_media",
+      "cls": "no-dropdown menu-media"
+    },
+    {
+      "text": "Components",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "CMS Admin Tools",
+      "href": "index.php?option=com_cat",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Contacts",
+      "href": "index.php?option=com_contact",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Contacts",
+      "href": "index.php?option=com_contact",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_contact",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "DOCman",
+      "href": "index.php?option=com_docman",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Documents",
+      "href": "index.php?option=com_docman",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_docman&view=categories",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Tags",
+      "href": "index.php?option=com_docman&view=tags",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Files",
+      "href": "index.php?option=com_docman&view=files",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Users",
+      "href": "index.php?option=com_docman&view=users",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Email Router",
+      "href": "index.php?option=com_erouter",
+      "cls": "dropdown-toggle menu-category"
+    },
+    {
+      "text": "SNS",
+      "href": "index.php?option=com_erouter&view=sns",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Routes",
+      "href": "index.php?option=com_erouter&view=routes",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Incoming",
+      "href": "index.php?option=com_erouter&view=jwts",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Deliveries",
+      "href": "index.php?option=com_erouter&view=deliveries",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Domain Manager",
+      "href": "index.php?option=com_domains",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "FILEman",
+      "href": "index.php?option=com_fileman",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Gantry 5 Themes",
+      "href": "index.php?option=com_gantry5&view=themes",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Icon Panel Manager",
+      "href": "index.php?option=com_iconpanel",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Imports",
+      "href": "index.php?option=com_imports",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Media Version",
+      "href": "index.php?option=com_mversion",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Multilingual Associations",
+      "href": "index.php?option=com_associations",
+      "cls": "no-dropdown menu-featured"
+    },
+    {
+      "text": "News Feeds",
+      "href": "index.php?option=com_newsfeeds",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Feeds",
+      "href": "index.php?option=com_newsfeeds",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_newsfeeds",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Permissions",
+      "href": "index.php?option=com_permissions",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Podcasts",
+      "href": "index.php?option=com_podcasts",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Quick Gallery",
+      "href": "index.php?option=com_quickgallery",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Redirects",
+      "href": "index.php?option=com_redir",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Site Config",
+      "href": "index.php?option=com_siteconfig",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Sponsors",
+      "href": "index.php?option=com_sponsors",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Sponsors",
+      "href": "index.php?option=com_sponsors&view=sponsors",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Template",
+      "href": "index.php?option=com_sponsors&view=template&id=1&layout=edit",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Subsite Manager",
+      "href": "index.php?option=com_subsites",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Tags",
+      "href": "index.php?option=com_tags",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Template Manager",
+      "href": "index.php?option=com_tman",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Web Links",
+      "href": "index.php?option=com_weblinks",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Extensions",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Modules",
+      "href": "index.php?option=com_modules",
+      "cls": "no-dropdown menu-module"
+    },
+    {
+      "text": "Help",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Solutio University",
+      "href": "https://solutiosupport.com/",
+      "cls": "no-dropdown menu-help-dev"
+    },
+    {
+      "text": "User Menu",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Edit Account",
+      "href": "index.php?option=com_admin&task=profile.edit&id=932",
+      "cls": ""
+    },
+    {
+      "text": "Logout",
+      "href": "/administrator/index.php?option=com_login&task=logout&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Site Name",
+      "href": "https://defaults-agent.forge.solutiosoftware.com/",
+      "cls": "brand visible-desktop visible-tablet"
+    },
+    {
+      "text": "Outlines",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Menu",
+      "href": "/administrator/index.php?option=com_gantry5&view=menu&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "About",
+      "href": "/administrator/index.php?option=com_gantry5&view=about&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Extras",
+      "href": "#",
+      "cls": ""
+    },
+    {
+      "text": "Clear Cache",
+      "href": "/administrator/index.php?option=com_gantry5&view=cache&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Layout",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/layout&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Styles",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/styles&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Page Settings",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Particle Defaults",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/settings&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "",
+      "href": "/administrator/index.php?option=com_gantry5&view=themes",
+      "cls": ""
+    },
+    {
+      "text": "",
+      "href": "#",
+      "cls": "swatch"
+    },
+    {
+      "text": "",
+      "href": "#",
+      "cls": "swatch"
+    },
+    {
+      "text": "",
+      "href": "#",
+      "cls": "swatch"
+    },
+    {
+      "text": "",
+      "href": "#",
+      "cls": "swatch"
+    },
+    {
+      "text": "Top Level",
+      "href": "#",
+      "cls": ""
+    },
+    {
+      "text": "Sub Level",
+      "href": "#",
+      "cls": ""
+    },
+    {
+      "text": "Gantry Administration",
+      "href": "http://gantry.org",
+      "cls": ""
+    },
+    {
+      "text": "RocketTheme",
+      "href": "http://www.rockettheme.com",
+      "cls": ""
+    },
+    {
+      "text": "View Site",
+      "href": "https://defaults-agent.forge.solutiosoftware.com/",
+      "cls": ""
+    },
+    {
+      "text": "0Messages",
+      "href": "/administrator/index.php?option=com_messages",
+      "cls": ""
+    },
+    {
+      "text": "Log out",
+      "href": "/administrator/index.php?option=com_login&task=logout&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Save Styles",
+      "cls": "button button-primary button-save",
+      "id": "",
+      "type": "submit",
+      "dataAttrs": {
+        "data-save": "Styles"
+      }
+    },
+    {
+      "text": "",
+      "cls": "swatch-preview",
+      "id": "",
+      "type": "",
+      "dataAttrs": {}
+    },
+    {
+      "text": "",
+      "cls": "swatch-preview",
+      "id": "",
+      "type": "",
+      "dataAttrs": {}
+    },
+    {
+      "text": "",
+      "cls": "swatch-preview",
+      "id": "",
+      "type": "",
+      "dataAttrs": {}
+    },
+    {
+      "text": "",
+      "cls": "swatch-preview",
+      "id": "",
+      "type": "",
+      "dataAttrs": {}
+    },
+    {
+      "text": "Collapse All",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g-collapse-all": "true"
+      }
+    },
+    {
+      "text": "Expand All",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g-collapse-all": "false"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[base][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-fontpicker": "{\"field\":\"input[name=\\\"styles[font][family-title]\\\"]\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-fontpicker": "{\"field\":\"input[name=\\\"styles[font][family-default]\\\"]\"}"
+      }
+    },
+    {
+      "text": "Collapse All",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g-collapse-all": "true"
+      }
+    },
+    {
+      "text": "Expand All",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g-collapse-all": "false"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[header][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[above][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[showcase][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[slideshow][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[utility][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[expanded][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"styles[extension][background-image]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|webp)$\"}"
+      }
+    },
+    {
+      "text": "Collapse All",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g-collapse-all": "true"
+      }
+    },
+    {
+      "text": "Expand All",
+      "cls": "button",
+      "id": "",
+      "type": "button",
+      "dataAttrs": {
+        "data-g-collapse-all": "false"
+      }
+    },
+    {
+      "text": "Save Styles",
+      "cls": "button button-primary button-save",
+      "id": "",
+      "type": "submit",
+      "dataAttrs": {
+        "data-save": "Styles"
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "",
+      "name": "",
+      "id": "configuration-selector",
+      "cls": "config-select selectized",
+      "value": "default"
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "styles[preset]",
+      "id": "",
+      "cls": "",
+      "value": "preset1"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[base][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[base][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "styles[base][background-clipping]",
+      "id": "",
+      "cls": "",
+      "value": "0"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[base][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[accent][color-1]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[accent][color-2]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[accent][color-3]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[font][family-title]",
+      "id": "",
+      "cls": "",
+      "value": "poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[font][family-default]",
+      "id": "",
+      "cls": "",
+      "value": "poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[menustyle][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[menustyle][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[menustyle][text-color-active]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[menustyle][sublevel-text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[menustyle][sublevel-text-color-active]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[menustyle][sublevel-background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[menustyle][sublevel-background-active]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[top][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[top][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[navigation][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[navigation][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[header][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[header][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[header][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[above][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[above][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[above][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[main][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[main][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[showcase][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[showcase][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[showcase][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[slideshow][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[slideshow][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[slideshow][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[utility][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[utility][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[utility][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[feature][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[feature][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[expanded][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[expanded][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[expanded][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[extension][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[extension][background-image]",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[extension][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[bottom][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[bottom][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[footer][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[footer][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[copyright][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[copyright][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#000000"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[offcanvas][background]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[offcanvas][text-color]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[offcanvas][toggle-color]",
+      "id": "",
+      "cls": "",
+      "value": "#ffffff"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[offcanvas][width]",
+      "id": "",
+      "cls": "",
+      "value": "14rem"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "",
+      "name": "styles[offcanvas][toggle-visibility]",
+      "id": "",
+      "cls": "selectized",
+      "value": "1"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[breakpoints][large-desktop-container]",
+      "id": "",
+      "cls": "",
+      "value": "88rem"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[breakpoints][desktop-container]",
+      "id": "",
+      "cls": "",
+      "value": "76rem"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[breakpoints][tablet-container]",
+      "id": "",
+      "cls": "",
+      "value": "51rem"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[breakpoints][large-mobile-container]",
+      "id": "",
+      "cls": "",
+      "value": "30rem"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "styles[breakpoints][mobile-menu-breakpoint]",
+      "id": "",
+      "cls": "",
+      "value": "51rem"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "",
+      "name": "styles[menu][animation]",
+      "id": "",
+      "cls": "selectized",
+      "value": "g-fade"
+    }
+  ],
+  "iframes": [],
+  "classes": [
+    "g-block",
+    "g-collapse",
+    "g-colorpicker",
+    "g-content",
+    "g-filepicker",
+    "g-filter-actions",
+    "g-fonts",
+    "g-footer-actions",
+    "g-full",
+    "g-grid",
+    "g-has-items",
+    "g-has-options",
+    "g-item",
+    "g-items",
+    "g-pane",
+    "g-panel-filters",
+    "g-panes",
+    "g-reset-field",
+    "g-selectize-control",
+    "g-selectize-dropdown",
+    "g-selectize-dropdown-content",
+    "g-selectize-input",
+    "g-single",
+    "g-tabs",
+    "g-title",
+    "g5-tabs-container",
+    "theme-title"
+  ],
+  "dataAttrs": [
+    "data-ajax-action",
+    "data-ajax-action-indicator",
+    "data-ajax-action-method",
+    "data-basepath",
+    "data-g-collapse",
+    "data-g-collapse-all",
+    "data-g-collapse-filter",
+    "data-g-collapse-id",
+    "data-g-extras",
+    "data-g-global-filter",
+    "data-g-popover",
+    "data-g-popover-follow",
+    "data-g-popover-style",
+    "data-g-reset-field",
+    "data-g-styles",
+    "data-g5-ajaxify",
+    "data-g5-ajaxify-params",
+    "data-g5-ajaxify-target",
+    "data-g5-content",
+    "data-g5-content-wrapper",
+    "data-g5-filepicker",
+    "data-g5-fontpicker",
+    "data-g5-nav",
+    "data-mode-indicator",
+    "data-popover-content",
+    "data-save",
+    "data-selectize",
+    "data-selectize-ajaxify",
+    "data-target",
+    "data-tip",
+    "data-tip-place",
+    "data-tip-spacing",
+    "data-title",
+    "data-tmpl-offset",
+    "data-tmpl-sticky",
+    "data-toggle",
+    "data-value"
+  ],
+  "globals": {
+    "hasG5": true,
+    "hasGantry": false,
+    "title": "Site Name - Administration",
+    "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/styles&theme=rt_studius"
+  },
+  "htmlLength": 157779,
+  "html": "<html lang=\"en-gb\" dir=\"ltr\"><head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta charset=\"utf-8\">\n\t<meta name=\"generator\" content=\"Joomla! - Open Source Content Management\">\n\t<title>Site Name - Administration</title>\n\t\n\t<link href=\"/administrator/templates/isis/favicon.ico\" rel=\"shortcut icon\" type=\"image/vnd.microsoft.icon\">\n\t<link href=\"/administrator/components/com_gantry5/css-compiled/g-admin.css\" rel=\"stylesheet\">\n\t<link href=\"/media/gantry5/assets/css/font-awesome6-all.min.css\" rel=\"stylesheet\">\n\t<link href=\"/media/gantry5/assets/css/font-awesome6-shim.min.css\" rel=\"stylesheet\">\n\t<link href=\"/administrator/components/com_gantry5/css-compiled/joomla-g-admin.css\" rel=\"stylesheet\">\n\t<link href=\"/administrator/templates/isis/css/template.css?3898005374c01f06b15d849886e7d96f\" rel=\"stylesheet\">\n\t<link href=\"/administrator/templates/isis/css/cms.css?3898005374c01f06b15d849886e7d96f\" rel=\"stylesheet\">\n\t<script type=\"application/json\" class=\"joomla-script-options loaded\">{\"csrf.token\":\"cbbee79b5120e7a4824d59e1ab11cc3c\",\"system.paths\":{\"root\":\"\",\"base\":\"\\/administrator\"},\"system.keepalive\":{\"interval\":3540000,\"uri\":\"\\/administrator\\/index.php?option=com_ajax&amp;format=json\"}}</script>\n\t<script src=\"/media/system/js/core.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<!--[if lt IE 9]><script src=\"/media/system/js/polyfill.event.js?3898005374c01f06b15d849886e7d96f\"></script><![endif]-->\n\t<script src=\"/media/system/js/keepalive.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/administrator/components/com_gantry5/js/main.js\" async=\"\"></script>\n\t<script src=\"/media/jui/js/jquery.min.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/media/jui/js/jquery-noconflict.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/media/jui/js/jquery-migrate.min.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/media/jui/js/bootstrap.min.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<!--[if lte IE 9]><script src=\"/media/system/js/polyfill.filter.js?3898005374c01f06b15d849886e7d96f\"></script><![endif]-->\n\t<script src=\"/administrator/templates/isis/js/template.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/administrator/templates/isis/js/usage.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<!--[if lt IE 9]><script src=\"/media/jui/js/html5.js?3898005374c01f06b15d849886e7d96f\"></script><![endif]-->\n\t<script>\n\n    var G5T = function(key, fallback) {\n        var map = {\n            GANTRY5_PLATFORM_INHERITING_FROM_X: \"Inheriting from %s\",\n            GANTRY5_PLATFORM_JS_LOADING: \"Loading...\",\n            GANTRY5_PLATFORM_JS_PROCESSING: \"Processing...\",\n            GANTRY5_PLATFORM_JS_LM_SETTINGS: \"%s Settings\",\n            GANTRY5_PLATFORM_JS_LM_CONFIGURE_SETTINGS: \"Configure %s Settings\",\n            GANTRY5_PLATFORM_JS_LM_ADD_ROW: \"Add new row in %s\",\n            GANTRY5_PLATFORM_JS_LM_DISABLED_PARTICLE: \"This %s has been disabled and it will not be rendered on front-end. You can still configure, move and delete.\",\n            GANTRY5_PLATFORM_JS_LM_GRID_EQUALIZE: \"Equalize the width of blocks in this grid\",\n            GANTRY5_PLATFORM_JS_LM_GRID_SORT_MOVE: \"Sort or Move the Grid\",\n            GANTRY5_PLATFORM_JS_LM_SIZE_LIMITS_RANGE: \"You need to stay in between the min and max range\",\n            GANTRY5_PLATFORM_JS_REVIEW_FIELDS: \"Please review the fields in the modal and ensure you correct any invalid one.\",\n            GANTRY5_PLATFORM_JS_INVALID_FIELDS: \"Invalid Fields\",\n            GANTRY5_PLATFORM_JS_PARTICLE_SETTINGS_APPLIED: \"The Particle \\\"%s\\\" settings have been applied to the Layout. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_MENU_SETTINGS_APPLIED: \"The Menu Item settings have been applied to the Main Menu. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_GENERIC_SETTINGS_APPLIED: \"The %s settings have been applied. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_SETTINGS_APPLIED: \"Settings Applied\",\n            GANTRY5_PLATFORM_JS_POSITIONS_SETTINGS_APPLIED: \"GANTRY5_PLATFORM_JS_POSITIONS_SETTINGS_APPLIED\",\n            GANTRY5_PLATFORM_JS_FILTER_MISMATCH: \"does not match the filter\",\n            GANTRY5_PLATFORM_JUST_NOW: \"just now\",\n            GANTRY5_PLATFORM_JS_KEYVALUE_DUPLICATE: \"The key \\\"%s\\\" is a duplicate\",\n            GANTRY5_PLATFORM_JS_KEYVALUE_EXCLUDED: \"The key \\\"%s\\\" has been excluded and cannot be used\",\n            GANTRY5_PLATFORM_JS_NO_SAVE_DETECTED: \"You haven't saved your changes and by leaving the page they will be lost. Do you want to leave without saving?\",\n            GANTRY5_PLATFORM_SAVED: \"Saved\",\n            GANTRY5_PLATFORM_LAST_SAVED: \"Last Saved\",\n            GANTRY5_PLATFORM_JS_CSS_COMPILED: \"The CSS was successfully compiled!\",\n            GANTRY5_PLATFORM_JS_SAVE_SUCCESS: \"The {{type}} {{verb}} been successfully saved! {{extras}}\",\n        };\n\n        return map[key] || fallback || key;\n    };\n\n            var GANTRY_AJAX_SUFFIX = '&format=json';\n            var GANTRY_AJAX_URL = '/administrator/index.php?option=com_gantry5&amp;view=%ajax%&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1';\n            var GANTRY_AJAX_CONF_URL = '/administrator/index.php?option=com_gantry5&amp;view=configurations/%ajax%&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1';\n            var GANTRY_AJAX_NONCE = null;\n            var GANTRY_PLATFORM = 'joomla';\n        \n\t</script>\n\n</head>\n<body class=\"admin com_gantry5 view-configurationsdefaultstyles layout- task- itemid-0\" data-basepath=\"\">\n<!-- Top Navigation -->\n<nav class=\"navbar navbar-inverse navbar-fixed-top\">\n    <div class=\"navbar-inner\">\n        <div class=\"container-fluid\">\n                            <a href=\"#\" class=\"btn btn-navbar collapsed\" data-toggle=\"collapse\" data-target=\".nav-collapse\">\n                    <span class=\"element-invisible\">Toggle Navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </a>\n            \n            <!-- skip to content -->\n            <a class=\"element-invisible\" href=\"#skiptarget\">Skip to Main Content</a>\n\n            <a class=\"admin-logo \" href=\"/administrator/index.php\">\n                <span class=\"icon-joomla\"></span>\n                <div class=\"element-invisible\">\n                    Control Panel                </div>\n            </a>\n\n            <a class=\"brand hidden-desktop hidden-tablet\" href=\"https://defaults-agent.forge.solutiosoftware.com/\" title=\"Preview Site Name\" target=\"_blank\">Site Name                <span class=\"icon-out-2 small\"></span></a>\n\n            <div class=\"nav-collapse collapse\">\n                <ul id=\"menu\" class=\"nav \">\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">System <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-cpanel\" href=\"index.php\">Control Panel</a></li>\n<li><a class=\"no-dropdown menu-checkin\" href=\"index.php?option=com_checkin\">Global Check-in</a></li>\n<li><a class=\"no-dropdown menu-clear\" href=\"index.php?option=com_cache\">Clear Cache</a></li>\n<li><a class=\"no-dropdown menu-purge\" href=\"index.php?option=com_cache&amp;view=purge\">Clear Expired Cache</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Users <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-user\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=users\">Manage</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=user.add\">Add New User</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-groups\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=groups\">Groups</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=group.add\">Add New Group</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-levels\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=levels\">Access Levels</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=level.add\">Add New Access Level</a></li>\n</ul>\n</li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-userlogs\" href=\"index.php?option=com_actionlogs\">User Actions Log</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Menus <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menumgr\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=menus\">Manage</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_menus&amp;view=menu&amp;layout=edit\">Add New Menu</a></li>\n</ul>\n</li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-allmenu\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=\">All Menu Items</a></li>\n<li class=\"menuitem-group\"><span>Site</span></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=hidden-menu\">Hidden Menu </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=hidden-menu\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=mainmenu\">Main Menu <span class=\"icon-home\"></span></a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=mainmenu\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=solutio-stuff\">Solutio Stuff </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=solutio-stuff\">Add New Menu Item</a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Content <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_content\">Articles</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_content&amp;task=article.add\">Add New Article</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-category\" data-toggle=\"dropdown\" href=\"index.php?option=com_categories&amp;extension=com_content\">Categories</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;task=category.add&amp;extension=com_content\">Add New Category</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-featured\" href=\"index.php?option=com_content&amp;view=featured\">Featured Articles</a></li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-fields\" href=\"index.php?option=com_fields&amp;context=com_content.article\">Fields</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_fields&amp;view=groups&amp;context=com_content.article\">Field Groups</a></li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-media\" href=\"index.php?option=com_media\">Media</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Components <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_cat\">CMS Admin Tools</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_contact\">Contacts</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_contact\">Contacts</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;extension=com_contact\">Categories</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_docman\">DOCman</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman\">Documents</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=categories\">Categories</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=tags\">Tags</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=files\">Files</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=users\">Users</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-category\" data-toggle=\"dropdown\" href=\"index.php?option=com_erouter\">Email Router</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=sns\">SNS</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=routes\">Routes</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=jwts\">Incoming</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=deliveries\">Deliveries</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_domains\">Domain Manager</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_fileman\">FILEman</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_gantry5&amp;view=themes\">Gantry 5 Themes</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_iconpanel\">Icon Panel Manager</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_imports\">Imports</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_mversion\">Media Version</a></li>\n<li><a class=\"no-dropdown menu-featured\" href=\"index.php?option=com_associations\">Multilingual Associations</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_newsfeeds\">News Feeds</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_newsfeeds\">Feeds</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;extension=com_newsfeeds\">Categories</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_permissions\">Permissions</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_podcasts\">Podcasts</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_quickgallery\">Quick Gallery</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_redir\">Redirects</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_siteconfig\">Site Config</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_sponsors\">Sponsors</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_sponsors&amp;view=sponsors\">Sponsors</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_sponsors&amp;view=template&amp;id=1&amp;layout=edit\">Template</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_subsites\">Subsite Manager</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_tags\">Tags</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_tman\">Template Manager</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_weblinks\">Web Links</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Extensions <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-module\" href=\"index.php?option=com_modules\">Modules</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Help <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-help-dev\" href=\"https://solutiosupport.com/\" target=\"_blank\">Solutio University</a></li>\n</ul>\n</li>\n</ul>\n<ul id=\"nav-empty\" class=\"dropdown-menu nav-empty hidden-phone\"></ul>\n                <ul class=\"nav nav-user pull-right\">\n                    <li class=\"dropdown\">\n                        <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\"><span class=\"icon-user\"></span>\n                            <span class=\"caret\"></span>\n                            <div class=\"element-invisible\">\n                                User Menu                            </div>\n                        </a>\n                        <ul class=\"dropdown-menu\">\n                                                            <li>\n\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"icon-user\"></span>\n\t\t\t\t\t\t\t\t\t\t<strong>Joel Padgett</strong>\n\t\t\t\t\t\t\t\t\t</span>\n                                </li>\n                                <li class=\"divider\"></li>\n                                <li>\n                                    <a href=\"index.php?option=com_admin&amp;task=profile.edit&amp;id=932\">Edit Account</a>\n                                </li>\n                                <li class=\"divider\"></li>\n                                <li class=\"\">\n                                    <a href=\"/administrator/index.php?option=com_login&amp;task=logout&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">Logout</a>\n                                </li>\n                                                    </ul>\n                    </li>\n                </ul>\n                <a class=\"brand visible-desktop visible-tablet\" href=\"https://defaults-agent.forge.solutiosoftware.com/\" title=\"Preview Site Name\" target=\"_blank\">Site Name                    <span class=\"icon-out-2 small\"></span></a>\n            </div>\n            <!--/.nav-collapse -->\n        </div>\n    </div>\n    <script>\n        let isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);\n        if (isSafari) {\n            const safariMatch = navigator.userAgent.match(/Version\\/([\\d.]+)/);\n            const safariVersion = safariMatch[1];\n            if (safariVersion >= 17) {\n                const el = document.getElementsByClassName('brand visible-desktop visible-tablet')[0];\n                el.style.float = \"none\";\n                setTimeout(() => {\n                    el.style.float = \"right\";\n                }, 10)\n            }\n        }\n    </script>\n</nav>\n<!-- Header -->\n    <header class=\"header\">\n        <div class=\"container-logo\">\n                        <img src=\"/administrator/templates/isis/images/logo-solutio.svg\" width=\"100\" height=\"100\" alt=\"Site Name\">\n                    </div>\n        <div class=\"container-title\">\n            \n        </div>\n    </header>\n    <!-- Subheader -->\n    <a class=\"btn btn-subhead\" data-toggle=\"collapse\" data-target=\".subhead-collapse\">Toolbar        <span class=\"icon-wrench\"></span></a>\n    <div class=\"subhead-collapse collapse\" id=\"isisJsData\" data-tmpl-sticky=\"true\" data-tmpl-offset=\"30\" style=\"height: 0px;\">\n        <div class=\"subhead subhead-fixed\" style=\"\">\n            <div class=\"container-fluid\">\n                <div id=\"container-collapse\" class=\"container-collapse\"></div>\n                <div class=\"row-fluid\">\n                    <div class=\"span12\">\n                        <!-- target for skip to content link -->\n                        <a id=\"skiptarget\" class=\"element-invisible\">Main content begins here</a>\n                        <div class=\"btn-toolbar\" role=\"toolbar\" aria-label=\"Toolbar\" id=\"toolbar\">\n</div>\n\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n<!-- container-fluid -->\n<div class=\"container-fluid container-main\" style=\"top: 30px;\">\n    <section id=\"content\">\n        <!-- Begin Content -->\n        \n        <div class=\"row-fluid\">\n                            <div class=\"span12\">\n                                        <div id=\"system-message-container\">\n\t</div>\n\n                    <div id=\"g5-container\">\n        <div id=\"main-header\" data-mode-indicator=\"production\">\n        \n        <div class=\"g-grid\">\n    <div class=\"g-block\">\n        <div class=\"g-content clearfix\">\n            <span class=\"theme-title\">\n                <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n                Theme: Studius\n                <small>(v1.1.0 / rt_studius)</small>\n            </span>\n\n                                    <ul class=\"float-right\">\n                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                        <i class=\"fa fa-fw fa-th\" aria-hidden=\"true\"></i> Outlines\n                    </a>\n                </li>\n                                                                                                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=menu&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                        <i class=\"fa fa-fw fa-bars\" aria-hidden=\"true\"></i> <span>Menu</span>\n                    </a>\n                </li>\n                                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=about&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                        <i class=\"fa fa-fw fa-question-circle\" aria-hidden=\"true\"></i> <span>About</span>\n                    </a>\n                </li>\n                <li data-g-extras=\"\" data-g-popover=\"\" data-g-popover-style=\"extras\" aria-haspopup=\"true\" aria-expanded=\"false\" role=\"presentation\">\n                    <a href=\"#\"><i class=\"fa fa-fw fa-cog\" aria-hidden=\"true\"></i> Extras <i class=\"font-small fa fa-fw fa-chevron-down\" aria-hidden=\"true\"></i></a>\n                    <ul data-popover-content=\"\" class=\"hidden\" tabindex=\"0\">\n                                                <li data-g-popover-follow=\"\">\n                            <a tabindex=\"0\" href=\"/administrator/index.php?option=com_gantry5&amp;view=cache&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\" data-ajax-action=\"\" data-ajax-action-method=\"get\" data-ajax-action-indicator=\"li[data-g-extras]\"><i class=\"fa fa-fw fa-recycle\" aria-hidden=\"true\"></i> Clear Cache\n                            </a>\n                        </li>\n                    </ul>\n                </li>\n            </ul>\n        </div>\n    </div>\n</div>\n    </div>\n    <div class=\"inner-container\">\n                            <div data-g5-content-wrapper=\"\">\n                <div class=\"g-grid\">\n    <div class=\"g-block navbar-block\">\n        <nav id=\"gantry\">\n                        <section id=\"navbar\">\n                <ul>\n                    <li class=\"config-select-wrap\">\n                <div class=\"config-select g-selectize-control g-single\" aria-expanded=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-labelledby=\"selectize-id-ugyker0k-default\" style=\"width: 256px;\"><div class=\"g-full g-has-items g-has-options g-items g-selectize-input\"><div class=\"g-item\" title=\"default\" data-value=\"default\" id=\"selectize-id-ugyker0k-default\" role=\"treeitem\" aria-label=\"Base Outline\" aria-selected=\"false\">\n        Base Outline\n    </div><input type=\"text\" autocomplete=\"off\" role=\"textbox\" tabindex=\"\" style=\"width: 4px;\"></div><div class=\"config-select g-selectize-dropdown g-single\" style=\"display: none; width: 256px; top: 38px; left: 0px;\"><div id=\"selectize-id-ugyker0k\" class=\"g-selectize-dropdown-content\" aria-expanded=\"false\" aria-hidden=\"true\" role=\"tree\"></div></div></div><select id=\"configuration-selector\" class=\"config-select selectized\" data-selectize-ajaxify=\"\" data-selectize=\"{&quot;allowEmptyOption&quot;:true}\" tabindex=\"-1\" aria-hidden=\"true\" style=\"display: none;\"><option value=\"default\" selected=\"selected\">\n        Base Outline\n    </option></select>\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \n    </li>\n                                            <li>\n                            <a data-g5-ajaxify=\"\" data-g5-nav=\"layout\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/layout&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                                <i class=\"fa fa-fw fa-columns\" aria-hidden=\"true\"></i> <span>Layout</span>\n                            </a>\n                        </li>\n                                        <li class=\"active\">\n                        <a data-g5-ajaxify=\"\" data-g5-nav=\"styles\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/styles&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                            <i class=\"fa fa-fw fa-adjust\" aria-hidden=\"true\"></i> <span>Styles</span>\n                        </a>\n                    </li>\n                    <li>\n                        <a href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                            <i class=\"fa fa-fw fa-list-alt\" aria-hidden=\"true\"></i> <span>Page Settings</span>\n                        </a>\n                    </li>\n                                                                <li>\n                            <a data-g5-ajaxify=\"\" data-g5-nav=\"settings\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/settings&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                                <i class=\"fa fa-fw fa-wrench\" aria-hidden=\"true\"></i> <span>Particle Defaults</span>\n                            </a>\n                        </li>\n                                    </ul>\n                <a href=\"/administrator/index.php?option=com_gantry5&amp;view=themes\" aria-hidden=\"true\" tabindex=\"-1\">\n                    <svg version=\"1.1\" id=\"gantry-logo\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"81px\" height=\"28.239px\" viewBox=\"0 0 81 28.239\" style=\"enable-background:new 0 0 81 28.239;\" xml:space=\"preserve\">\n                <g>\n                    <path style=\"fill:#a0a0a0;\" d=\"M8.101,26.332c2.639-0.358,4.636-2.603,4.672-5.311l0.008-1.451l-1.184,0.847\n                        c-1.255,0.903-2.734,1.38-4.27,1.38C3.288,21.797,0,18.511,0,14.471c0-4.039,3.286-7.325,7.325-7.325\n                        c1.633,0,3.182,0.483,4.481,1.491l0.198,0.104h2.694V20.95c0,3.792-2.969,6.92-6.597,7.289V26.332z M7.325,9.039\n                        c-2.995,0-5.432,2.437-5.432,5.432c0,2.996,2.437,5.433,5.432,5.433s5.432-2.437,5.432-5.433\n                        C12.757,11.476,10.32,9.039,7.325,9.039 M74.403,26.332c2.639-0.358,4.683-2.603,4.719-5.311l0.032-1.451l-1.172,0.847\n                        c-1.256,0.903-2.725,1.38-4.26,1.38c-3.914,0-7.07-3.024-7.235-6.938V14.37V8.741H68.3v6.418c0.275,2.577,2.682,4.768,5.413,4.768\n                        c2.692,0,5.331-2.28,5.467-4.589h0.005V8.741H81v12.507l-0.014,0.395c-0.169,1.807-1.016,3.48-2.359,4.711\n                        c-1.171,1.073-2.575,1.728-4.224,1.885V26.332z M24.114,21.797c-4.039,0-7.325-3.286-7.325-7.326c0-4.039,3.286-7.325,7.325-7.325\n                        c4.037,0,7.404,3.282,7.407,7.319v0.014c-0.002,0.033,0,0.838,0,0.838v4.641h-2.683l-0.199,0.212\n                        C27.333,21.198,25.768,21.797,24.114,21.797 M24.114,9.039c-2.996,0-5.433,2.437-5.433,5.432c0,2.996,2.437,5.433,5.433,5.433\n                        s5.432-2.437,5.432-5.433C29.546,11.476,27.109,9.039,24.114,9.039 M57.415,19.957V8.741h2.732l0.167-0.111\n                        c1.099-0.846,2.379-1.313,3.698-1.448v1.906c-2.474,0.332-4.319,2.328-4.598,4.799l-0.015,0.228l-0.005,0.473v5.37H57.415z\n                         M51.808,19.957V7.422h-2.309V5.443h2.309V0h1.979v5.443h2.144v1.979h-2.144v12.535H51.808z M46.695,19.957v-6.103\n                        c-0.16-2.616-2.559-4.816-5.347-4.816c-2.787,0-5.539,2.518-5.539,4.828v0.836v0.74v4.515h-1.814V8.576h2.868l0.192-0.085\n                        c1.261-0.915,2.746-1.372,4.292-1.372c4.037,0,7.32,3.294,7.326,7.329l0.002,0.016c-0.003,0.038-0.002,0.083-0.002,0.124v0.768\n                        v4.602H46.695z\"></path>\n                </g>\n            </svg>\n                </a>\n            </section>\n        </nav>\n    </div>\n</div>\n                <div class=\"g-grid\">\n                    <div class=\"g-block main-block\">\n                        <section id=\"g-main\">\n                            <div class=\"g-content\" data-g5-content=\"\">\n                                \n<div id=\"styles\">\n        <form method=\"post\" action=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/styles&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n        <span class=\"float-right\">\n                        <button type=\"submit\" class=\"button button-primary button-save\" data-save=\"Styles\">\n                <i class=\"fa fa-fw fa-check\" aria-hidden=\"true\"></i> <span>Save Styles</span>\n            </button>\n        </span>\n\n                                <h2 class=\"page-title\" data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;swatches&quot;,&quot;target&quot;:&quot;~ .swatches-container&quot;}\" data-g-collapse-id=\"swatches\">\n            <span class=\"title\">Styles</span>\n            <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\" data-tip-spacing=\"0\">\n                <i class=\"fa fa-fw  fa-caret-up\" aria-hidden=\"true\"></i>\n            </span>\n        </h2>\n\n        <div class=\"swatches-container\">\n            <div class=\"swatches-block\">\n                \n                <ul class=\"g-grid\">\n                                                                                            <li class=\"g-block\">\n                            <a href=\"#\" class=\"swatch\" data-g-styles=\"{&quot;styles[base][background]&quot;:&quot;#ffffff&quot;,&quot;styles[base][text-color]&quot;:&quot;#193564&quot;,&quot;styles[accent][color-1]&quot;:&quot;#193564&quot;,&quot;styles[accent][color-2]&quot;:&quot;#2ec5ce&quot;,&quot;styles[accent][color-3]&quot;:&quot;#324f81&quot;,&quot;styles[menustyle][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[menustyle][text-color]&quot;:&quot;#193564&quot;,&quot;styles[menustyle][text-color-active]&quot;:&quot;#193564&quot;,&quot;styles[menustyle][sublevel-text-color]&quot;:&quot;#193564&quot;,&quot;styles[menustyle][sublevel-text-color-active]&quot;:&quot;#193564&quot;,&quot;styles[menustyle][sublevel-background]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-background-active]&quot;:&quot;#d9e9fb&quot;,&quot;styles[font][family-title]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[font][family-default]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[top][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[top][text-color]&quot;:&quot;#193564&quot;,&quot;styles[navigation][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[navigation][text-color]&quot;:&quot;#193564&quot;,&quot;styles[slideshow][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[slideshow][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/slideshow\\/bg-01.jpg&quot;,&quot;styles[slideshow][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[header][background]&quot;:&quot;#ffffff&quot;,&quot;styles[header][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/header\\/bg-01.svg&quot;,&quot;styles[header][text-color]&quot;:&quot;#193564&quot;,&quot;styles[above][background]&quot;:&quot;#193564&quot;,&quot;styles[above][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/above\\/bg-01.jpg&quot;,&quot;styles[above][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[feature][background]&quot;:&quot;#f6faff&quot;,&quot;styles[feature][text-color]&quot;:&quot;#193564&quot;,&quot;styles[showcase][background]&quot;:&quot;#f6faff&quot;,&quot;styles[showcase][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/showcase\\/bg-01.png&quot;,&quot;styles[showcase][text-color]&quot;:&quot;#193564&quot;,&quot;styles[utility][background]&quot;:&quot;#f2f9fb&quot;,&quot;styles[utility][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/utility\\/bg-01.png&quot;,&quot;styles[utility][text-color]&quot;:&quot;#193564&quot;,&quot;styles[main][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[main][text-color]&quot;:&quot;#193564&quot;,&quot;styles[expanded][background]&quot;:&quot;#ffffff&quot;,&quot;styles[expanded][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/expanded\\/bg-01.svg&quot;,&quot;styles[expanded][text-color]&quot;:&quot;#193564&quot;,&quot;styles[extension][background]&quot;:&quot;#193564&quot;,&quot;styles[extension][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[bottom][background]&quot;:&quot;#091831&quot;,&quot;styles[bottom][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[footer][background]&quot;:&quot;#091831&quot;,&quot;styles[footer][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[copyright][background]&quot;:&quot;#091831&quot;,&quot;styles[copyright][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][background]&quot;:&quot;#193564&quot;,&quot;styles[offcanvas][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][toggle-color]&quot;:&quot;#193564&quot;,&quot;styles[breakpoints][large-desktop-container]&quot;:&quot;88rem&quot;,&quot;styles[breakpoints][desktop-container]&quot;:&quot;76rem&quot;,&quot;styles[breakpoints][tablet-container]&quot;:&quot;51rem&quot;,&quot;styles[breakpoints][large-mobile-container]&quot;:&quot;30rem&quot;,&quot;styles[breakpoints][mobile-menu-breakpoint]&quot;:&quot;51rem&quot;,&quot;styles[preset]&quot;:&quot;preset1&quot;}\">\n                                <img src=\"/templates/rt_studius/admin/images/preset1.png?1738775359\" class=\"swatch-image\" alt=\"Apply Preset 1\">\n                                                                                                        <span class=\"swatch-colors\" style=\"background: linear-gradient(to right\n                                          ,#193564 0%,#193564 50%\n                                          ,#2ec5ce 50%,#2ec5ce 100%\n                                          )\">\n                    </span>\n                                                                <button class=\"swatch-preview\" aria-label=\"Preview Preset 1\"><i class=\"fa fa-fw fa-eye\" aria-hidden=\"true\"></i></button>\n                                <span class=\"swatch-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span>\n                            </a>\n                            <span class=\"swatch-description\"><span class=\"swatch-title-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span> Preset 1</span>\n                        </li>\n                                                                                            <li class=\"g-block\">\n                            <a href=\"#\" class=\"swatch\" data-g-styles=\"{&quot;styles[base][background]&quot;:&quot;#ffffff&quot;,&quot;styles[base][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[accent][color-1]&quot;:&quot;#d34949&quot;,&quot;styles[accent][color-2]&quot;:&quot;#ff8a00&quot;,&quot;styles[accent][color-3]&quot;:&quot;#85170b&quot;,&quot;styles[menustyle][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[menustyle][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][text-color-active]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-text-color]&quot;:&quot;#d34949&quot;,&quot;styles[menustyle][sublevel-text-color-active]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-background]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-background-active]&quot;:&quot;#d34949&quot;,&quot;styles[font][family-title]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[font][family-default]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[top][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[top][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[navigation][background]&quot;:&quot;#85170b&quot;,&quot;styles[navigation][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[slideshow][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[slideshow][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/slideshow\\/bg-01.jpg&quot;,&quot;styles[slideshow][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[header][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[header][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/header\\/bg-02.svg&quot;,&quot;styles[header][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[above][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[above][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/above\\/bg-02.jpg&quot;,&quot;styles[above][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[feature][background]&quot;:&quot;#FFF8F7&quot;,&quot;styles[feature][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[showcase][background]&quot;:&quot;#ffffff&quot;,&quot;styles[showcase][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/showcase\\/bg-01.png&quot;,&quot;styles[showcase][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[utility][background]&quot;:&quot;#FFF8F7&quot;,&quot;styles[utility][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/utility\\/bg-01.png&quot;,&quot;styles[utility][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[main][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[main][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[expanded][background]&quot;:&quot;#ffffff&quot;,&quot;styles[expanded][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/expanded\\/bg-02.svg&quot;,&quot;styles[expanded][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[extension][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[extension][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/extension\\/bg-01.svg&quot;,&quot;styles[extension][text-color]&quot;:&quot;#d34949&quot;,&quot;styles[bottom][background]&quot;:&quot;#4f0e06&quot;,&quot;styles[bottom][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[footer][background]&quot;:&quot;#4f0e06&quot;,&quot;styles[footer][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[copyright][background]&quot;:&quot;#4f0e06&quot;,&quot;styles[copyright][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][background]&quot;:&quot;#d34949&quot;,&quot;styles[offcanvas][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][toggle-color]&quot;:&quot;#ffffff&quot;,&quot;styles[breakpoints][large-desktop-container]&quot;:&quot;88rem&quot;,&quot;styles[breakpoints][desktop-container]&quot;:&quot;76rem&quot;,&quot;styles[breakpoints][tablet-container]&quot;:&quot;51rem&quot;,&quot;styles[breakpoints][large-mobile-container]&quot;:&quot;30rem&quot;,&quot;styles[breakpoints][mobile-menu-breakpoint]&quot;:&quot;51rem&quot;,&quot;styles[preset]&quot;:&quot;preset2&quot;}\">\n                                <img src=\"/templates/rt_studius/admin/images/preset2.png?1738775359\" class=\"swatch-image\" alt=\"Apply Preset 2\">\n                                                                                                        <span class=\"swatch-colors\" style=\"background: linear-gradient(to right\n                                          ,#d34949 0%,#d34949 50%\n                                          ,#ff8a00 50%,#ff8a00 100%\n                                          )\">\n                    </span>\n                                                                <button class=\"swatch-preview\" aria-label=\"Preview Preset 2\"><i class=\"fa fa-fw fa-eye\" aria-hidden=\"true\"></i></button>\n                                <span class=\"swatch-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span>\n                            </a>\n                            <span class=\"swatch-description\"><span class=\"swatch-title-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span> Preset 2</span>\n                        </li>\n                                                                                            <li class=\"g-block\">\n                            <a href=\"#\" class=\"swatch\" data-g-styles=\"{&quot;styles[base][background]&quot;:&quot;#ffffff&quot;,&quot;styles[base][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[accent][color-1]&quot;:&quot;#1f3f0b&quot;,&quot;styles[accent][color-2]&quot;:&quot;#386d17&quot;,&quot;styles[accent][color-3]&quot;:&quot;#526347&quot;,&quot;styles[menustyle][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[menustyle][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][text-color-active]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[menustyle][sublevel-text-color-active]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-background]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-background-active]&quot;:&quot;#1f3f0b&quot;,&quot;styles[font][family-title]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[font][family-default]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[top][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[top][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[navigation][background]&quot;:&quot;#1f3f0b&quot;,&quot;styles[navigation][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[slideshow][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[slideshow][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/slideshow\\/bg-01.jpg&quot;,&quot;styles[slideshow][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[header][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[header][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/header\\/bg-03.svg&quot;,&quot;styles[header][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[above][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[above][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/above\\/bg-03.jpg&quot;,&quot;styles[above][text-color]&quot;:&quot;#f6faff&quot;,&quot;styles[feature][background]&quot;:&quot;#ffffff&quot;,&quot;styles[feature][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[showcase][background]&quot;:&quot;#ffffff&quot;,&quot;styles[showcase][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/showcase\\/bg-01.png&quot;,&quot;styles[showcase][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[utility][background]&quot;:&quot;#F2FBF2&quot;,&quot;styles[utility][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/utility\\/bg-01.png&quot;,&quot;styles[utility][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[main][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[main][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[expanded][background]&quot;:&quot;#ffffff&quot;,&quot;styles[expanded][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/expanded\\/bg-03.svg&quot;,&quot;styles[expanded][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[extension][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[extension][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/extension\\/bg-01.svg&quot;,&quot;styles[extension][text-color]&quot;:&quot;#1f3f0b&quot;,&quot;styles[bottom][background]&quot;:&quot;#0F1E06&quot;,&quot;styles[bottom][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[footer][background]&quot;:&quot;#0F1E06&quot;,&quot;styles[footer][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[copyright][background]&quot;:&quot;#0F1E06&quot;,&quot;styles[copyright][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][background]&quot;:&quot;#1f3f0b&quot;,&quot;styles[offcanvas][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][toggle-color]&quot;:&quot;#ffffff&quot;,&quot;styles[breakpoints][large-desktop-container]&quot;:&quot;88rem&quot;,&quot;styles[breakpoints][desktop-container]&quot;:&quot;76rem&quot;,&quot;styles[breakpoints][tablet-container]&quot;:&quot;51rem&quot;,&quot;styles[breakpoints][large-mobile-container]&quot;:&quot;30rem&quot;,&quot;styles[breakpoints][mobile-menu-breakpoint]&quot;:&quot;51rem&quot;,&quot;styles[preset]&quot;:&quot;preset3&quot;}\">\n                                <img src=\"/templates/rt_studius/admin/images/preset3.png?1738775359\" class=\"swatch-image\" alt=\"Apply Preset 3\">\n                                                                                                        <span class=\"swatch-colors\" style=\"background: linear-gradient(to right\n                                          ,#1f3f0b 0%,#1f3f0b 50%\n                                          ,#386d17 50%,#386d17 100%\n                                          )\">\n                    </span>\n                                                                <button class=\"swatch-preview\" aria-label=\"Preview Preset 3\"><i class=\"fa fa-fw fa-eye\" aria-hidden=\"true\"></i></button>\n                                <span class=\"swatch-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span>\n                            </a>\n                            <span class=\"swatch-description\"><span class=\"swatch-title-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span> Preset 3</span>\n                        </li>\n                                                                                            <li class=\"g-block\">\n                            <a href=\"#\" class=\"swatch\" data-g-styles=\"{&quot;styles[base][background]&quot;:&quot;#111111&quot;,&quot;styles[base][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[accent][color-1]&quot;:&quot;#191919&quot;,&quot;styles[accent][color-2]&quot;:&quot;#ffffff&quot;,&quot;styles[accent][color-3]&quot;:&quot;#303030&quot;,&quot;styles[menustyle][background]&quot;:&quot;rgba(255,255,255,0)&quot;,&quot;styles[menustyle][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][text-color-active]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-text-color]&quot;:&quot;#111111&quot;,&quot;styles[menustyle][sublevel-text-color-active]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-background]&quot;:&quot;#ffffff&quot;,&quot;styles[menustyle][sublevel-background-active]&quot;:&quot;#111111&quot;,&quot;styles[font][family-title]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[font][family-default]&quot;:&quot;poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif&quot;,&quot;styles[top][background]&quot;:&quot;#111111&quot;,&quot;styles[top][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[navigation][background]&quot;:&quot;#000000&quot;,&quot;styles[navigation][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[slideshow][background]&quot;:&quot;#111111&quot;,&quot;styles[slideshow][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/slideshow\\/bg-01.jpg&quot;,&quot;styles[slideshow][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[header][background]&quot;:&quot;#000000&quot;,&quot;styles[header][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/header\\/bg-04.svg&quot;,&quot;styles[header][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[above][background]&quot;:&quot;#111111&quot;,&quot;styles[above][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/above\\/bg-04.jpg&quot;,&quot;styles[above][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[feature][background]&quot;:&quot;#111111&quot;,&quot;styles[feature][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[showcase][background]&quot;:&quot;#000000&quot;,&quot;styles[showcase][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/showcase\\/bg-01.png&quot;,&quot;styles[showcase][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[utility][background]&quot;:&quot;#111111&quot;,&quot;styles[utility][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/utility\\/bg-01.png&quot;,&quot;styles[utility][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[main][background]&quot;:&quot;#111111&quot;,&quot;styles[main][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[expanded][background]&quot;:&quot;#000000&quot;,&quot;styles[expanded][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/expanded\\/bg-04.svg&quot;,&quot;styles[expanded][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[extension][background]&quot;:&quot;#111111&quot;,&quot;styles[extension][background-image]&quot;:&quot;gantry-media:\\/\\/backgrounds\\/extension\\/bg-01.svg&quot;,&quot;styles[extension][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[bottom][background]&quot;:&quot;#000000&quot;,&quot;styles[bottom][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[footer][background]&quot;:&quot;#000000&quot;,&quot;styles[footer][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[copyright][background]&quot;:&quot;#000000&quot;,&quot;styles[copyright][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][background]&quot;:&quot;#111111&quot;,&quot;styles[offcanvas][text-color]&quot;:&quot;#ffffff&quot;,&quot;styles[offcanvas][toggle-color]&quot;:&quot;#ffffff&quot;,&quot;styles[breakpoints][large-desktop-container]&quot;:&quot;88rem&quot;,&quot;styles[breakpoints][desktop-container]&quot;:&quot;76rem&quot;,&quot;styles[breakpoints][tablet-container]&quot;:&quot;51rem&quot;,&quot;styles[breakpoints][large-mobile-container]&quot;:&quot;30rem&quot;,&quot;styles[breakpoints][mobile-menu-breakpoint]&quot;:&quot;51rem&quot;,&quot;styles[preset]&quot;:&quot;preset4&quot;}\">\n                                <img src=\"/templates/rt_studius/admin/images/preset4.png?1738775359\" class=\"swatch-image\" alt=\"Apply Preset 4\">\n                                                                                                        <span class=\"swatch-colors\" style=\"background: linear-gradient(to right\n                                          ,#111111 0%,#111111 50%\n                                          ,#ffffff 50%,#ffffff 100%\n                                          )\">\n                    </span>\n                                                                <button class=\"swatch-preview\" aria-label=\"Preview Preset 4\"><i class=\"fa fa-fw fa-eye\" aria-hidden=\"true\"></i></button>\n                                <span class=\"swatch-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span>\n                            </a>\n                            <span class=\"swatch-description\"><span class=\"swatch-title-matched\"><i class=\"fa fa-fw fa-star\" aria-hidden=\"true\"></i></span> Preset 4</span>\n                        </li>\n                                    </ul>\n            </div>\n        </div>\n\n        <input type=\"hidden\" name=\"styles[preset]\" value=\"preset1\">\n        \n                        <h2>Core Styles</h2>\n\n        <div class=\"g-filter-actions\">\n            <div class=\"g-panel-filters\" data-g-global-filter=\"\">\n                <div class=\"search settings-block\">\n                    <input type=\"text\" data-g-collapse-filter=\"\" placeholder=\"Filter Core...\" aria-label=\"Filter Core...\" role=\"search\">\n                    <i class=\"fa fa-fw fa-search\" aria-hidden=\"true\"></i>\n                </div>\n                <button class=\"button\" type=\"button\" data-g-collapse-all=\"true\"><i class=\"far fa-fw fa-caret-square-up\" aria-hidden=\"true\"></i> Collapse All</button>\n                <button class=\"button\" type=\"button\" data-g-collapse-all=\"false\"><i class=\"far fa-fw fa-caret-square-down\" aria-hidden=\"true\"></i> Expand All</button>\n            </div>\n        </div>\n\n        <div id=\"styles\" class=\"cards-wrapper g-grid\">\n\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.base.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.base.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Base Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Base Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[base][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Base Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[base][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[base][background-image]\" value=\"\" aria-label=\"Styles Base Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[base][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[base][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param enable-enable\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Clipping\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <span class=\"enabler\" role=\"checkbox\" aria-checked=\"false\" tabindex=\"0\" aria-label=\"Enables Styles Base\">\n    <input type=\"hidden\" name=\"styles[base][background-clipping]\" value=\"0\" aria-label=\"Styles Base Background-Clipping\">\n        <span class=\"toggle\"><span class=\"knob\"></span></span>\n    </span>\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Base Text Color\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[base][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Base Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[base][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.accent.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.accent.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Accent Colors</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Accent Color 1\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[accent][color-1]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Accent Color-1\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[accent][color-1]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Accent Color 2\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[accent][color-2]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Accent Color-2\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[accent][color-2]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Accent Color 3\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[accent][color-3]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Accent Color-3\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[accent][color-3]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.font.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.font.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Font Families</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-fonts\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Title Font\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                                                                        \n    <div class=\"g-fonts\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[font][family-title]\" value=\"poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif\" aria-label=\"Styles Font Family-Title\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Title Font\" data-g5-fontpicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[font][family-title]\\&quot;]&quot;}\">\n                    <i class=\"fa fa-font\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n        </div>\n    </div>\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-fonts\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Body Font\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                                                                        \n    <div class=\"g-fonts\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[font][family-default]\" value=\"poppins, Helvetica, Tahoma, Geneva, Arial, sans-serif\" aria-label=\"Styles Font Family-Default\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Body Font\" data-g5-fontpicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[font][family-default]\\&quot;]&quot;}\">\n                    <i class=\"fa fa-font\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n        </div>\n    </div>\n                            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.menustyle.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.menustyle.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Menu Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param container-tabs\">\n                    <div class=\"g5-tabs-container\">\n                                            \n                                                                                                                                                                                                \n            <div class=\"g-tabs\" role=\"tablist\">\n                <ul>\n                                            <li class=\"active\">\n                            <a href=\"#\" id=\"g-tabs-container-_tabs-0-tab\" aria-controls=\"g-tabs-container-_tabs-0-pane\" aria-expanded=\"true\" role=\"presentation\"><span>Top Level</span></a>\n                        </li>\n                                            <li>\n                            <a href=\"#\" id=\"g-tabs-container-_tabs-1-tab\" aria-controls=\"g-tabs-container-_tabs-1-pane\" aria-expanded=\"false\" role=\"presentation\"><span>Sub Level</span></a>\n                        </li>\n                                    </ul>\n            </div>\n\n            <div class=\"g-panes\">\n                                    <div class=\"g-pane clearfix active\" role=\"tabpanel\" id=\"g-tabs-container-_tabs-0-pane\" aria-labelledby=\"g-tabs-container-_tabs-0-tab\" aria-expanded=\"true\">\n                                                                                                                                                                                                                                            \n                                                            \n                                                                        <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[menustyle][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Menustyle Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[menustyle][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                                                                                                                                                                                                                                                                                        \n                                                            \n                                                                        <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[menustyle][text-color]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Menustyle Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[menustyle][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                                                                                                                                                                                                                                                                                        \n                                                            \n                                                                        <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Hover &amp; Active Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[menustyle][text-color-active]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Menustyle Text-Color-Active\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[menustyle][text-color-active]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                                                                                        </div>\n                                    <div class=\"g-pane clearfix \" role=\"tabpanel\" id=\"g-tabs-container-_tabs-1-pane\" aria-labelledby=\"g-tabs-container-_tabs-1-tab\" aria-expanded=\"false\">\n                                                                                                                                                                                                                                            \n                                                            \n                                                                        <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[menustyle][sublevel-text-color]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Menustyle Sublevel-Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[menustyle][sublevel-text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                                                                                                                                                                                                                                                                                        \n                                                            \n                                                                        <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Hover &amp; Active Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[menustyle][sublevel-text-color-active]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Menustyle Sublevel-Text-Color-Active\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[menustyle][sublevel-text-color-active]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                                                                                                                                                                                                                                                                                        \n                                                            \n                                                                        <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[menustyle][sublevel-background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Menustyle Sublevel-Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[menustyle][sublevel-background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                                                                                                                                                                                                                                                                                        \n                                                            \n                                                                        <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Hover &amp; Active Bg\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[menustyle][sublevel-background-active]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Menustyle Sublevel-Background-Active\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[menustyle][sublevel-background-active]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                                                                                        </div>\n                            </div>\n\n            </div>\n    </div>\n                                </div>\n                </div>\n                    </div>\n                                <h2>Section Styles</h2>\n\n        <div class=\"g-filter-actions\">\n            <div class=\"g-panel-filters\" data-g-global-filter=\"\">\n                <div class=\"search settings-block\">\n                    <input type=\"text\" data-g-collapse-filter=\"\" placeholder=\"Filter Section...\" aria-label=\"Filter Section...\" role=\"search\">\n                    <i class=\"fa fa-fw fa-search\" aria-hidden=\"true\"></i>\n                </div>\n                <button class=\"button\" type=\"button\" data-g-collapse-all=\"true\"><i class=\"far fa-fw fa-caret-square-up\" aria-hidden=\"true\"></i> Collapse All</button>\n                <button class=\"button\" type=\"button\" data-g-collapse-all=\"false\"><i class=\"far fa-fw fa-caret-square-down\" aria-hidden=\"true\"></i> Expand All</button>\n            </div>\n        </div>\n\n        <div id=\"styles\" class=\"cards-wrapper g-grid\">\n\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.top.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.top.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Top Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[top][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Top Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[top][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[top][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Top Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[top][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.navigation.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.navigation.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Navigation Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[navigation][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Navigation Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[navigation][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[navigation][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Navigation Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[navigation][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.header.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.header.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Header Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[header][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Header Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[header][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[header][background-image]\" value=\"\" aria-label=\"Styles Header Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[header][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[header][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[header][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Header Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[header][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.above.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.above.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Above Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[above][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Above Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[above][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[above][background-image]\" value=\"\" aria-label=\"Styles Above Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[above][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[above][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[above][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Above Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[above][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.main.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.main.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Main Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[main][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Main Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[main][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[main][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Main Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[main][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.showcase.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.showcase.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Showcase Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[showcase][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Showcase Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[showcase][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[showcase][background-image]\" value=\"\" aria-label=\"Styles Showcase Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[showcase][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[showcase][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[showcase][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Showcase Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[showcase][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.slideshow.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.slideshow.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Slideshow Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[slideshow][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Slideshow Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[slideshow][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[slideshow][background-image]\" value=\"\" aria-label=\"Styles Slideshow Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[slideshow][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[slideshow][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[slideshow][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Slideshow Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[slideshow][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.utility.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.utility.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Utility Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[utility][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Utility Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[utility][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[utility][background-image]\" value=\"\" aria-label=\"Styles Utility Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[utility][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[utility][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[utility][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Utility Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[utility][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.feature.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.feature.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Feature Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[feature][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Feature Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[feature][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[feature][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Feature Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[feature][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.expanded.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.expanded.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Expanded Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[expanded][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Expanded Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[expanded][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[expanded][background-image]\" value=\"\" aria-label=\"Styles Expanded Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[expanded][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[expanded][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[expanded][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Expanded Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[expanded][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.extension.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.extension.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Extension Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[extension][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Extension Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[extension][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background Image\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"styles[extension][background-image]\" value=\"\" aria-label=\"Styles Extension Background-Image\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Background Image\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;styles[extension][background-image]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|webp)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"styles[extension][background-image]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[extension][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Extension Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[extension][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.bottom.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.bottom.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Bottom Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[bottom][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Bottom Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[bottom][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[bottom][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Bottom Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[bottom][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.footer.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.footer.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Footer Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[footer][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Footer Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[footer][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[footer][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Footer Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[footer][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.copyright.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.copyright.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Copyright Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[copyright][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Copyright Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[copyright][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker light-text\">\n        <input type=\"text\" name=\"styles[copyright][text-color]\" value=\"#000000\" style=\"background-color: #000000\" aria-label=\"Styles Copyright Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[copyright][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.offcanvas.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.offcanvas.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Offcanvas Styles</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Background\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[offcanvas][background]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Offcanvas Background\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[offcanvas][background]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Text\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[offcanvas][text-color]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Offcanvas Text-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[offcanvas][text-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-colorpicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Toggle Color\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n                <div class=\"g-colorpicker 1\">\n        <input type=\"text\" name=\"styles[offcanvas][toggle-color]\" value=\"#ffffff\" style=\"background-color: #ffffff\" aria-label=\"Styles Offcanvas Toggle-Color\" pattern=\"^#([a-fA-F0-9]{6})|(rgba\\(\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*(0|[1-9]\\d?|1\\d\\d?|2[0-4]\\d|25[0-5])\\s*,\\s*((0.[0-9]+)|[01])\\s*\\))$\">\n        <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n    </div>\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[offcanvas][toggle-color]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-text\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Set offcanvas size in rem, em, px, or percentage unit values\" data-tip-place=\"top-right\" aria-label=\"Set offcanvas size in rem, em, px, or percentage unit values\" data-title=\"Set offcanvas size in rem, em, px, or percentage unit values\">\n                            Panel Width\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n            <input type=\"text\" name=\"styles[offcanvas][width]\" value=\"14rem\" aria-label=\"Styles Offcanvas Width\" pattern=\"\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)\">\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[offcanvas][width]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param select-selectize\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Choose the OffCanvas Toggle Visibility.\" data-tip-place=\"top-right\" aria-label=\"Choose the OffCanvas Toggle Visibility.\" data-title=\"Choose the OffCanvas Toggle Visibility.\">\n                            Toggle Visibility\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <div class=\"g-selectize-control g-single\" aria-expanded=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-labelledby=\"selectize-id-dr8rbiuk-1\" style=\"width: 286px;\"><div class=\"g-full g-has-items g-has-options g-items g-selectize-input\"><div class=\"g-item\" title=\"1\" data-value=\"1\" id=\"selectize-id-dr8rbiuk-1\" role=\"treeitem\" aria-label=\"Mobile Menu\" aria-selected=\"false\">Mobile Menu</div><input type=\"text\" autocomplete=\"off\" role=\"textbox\" tabindex=\"\" style=\"width: 4px;\"></div><div class=\"g-selectize-dropdown g-single\" style=\"display: none; width: 250px; top: 38px; left: 0px;\"><div id=\"selectize-id-dr8rbiuk\" class=\"g-selectize-dropdown-content\" aria-expanded=\"false\" aria-hidden=\"true\" role=\"tree\"></div></div></div><select name=\"styles[offcanvas][toggle-visibility]\" data-selectize=\"\" aria-label=\"Styles Offcanvas Toggle-Visibility\" tabindex=\"-1\" aria-hidden=\"true\" class=\"selectized\" style=\"display: none;\"><option value=\"1\" selected=\"selected\">Mobile Menu</option></select>\n                                </div>\n            </div>\n                                </div>\n                </div>\n                    </div>\n                                <h2>Configuration Styles</h2>\n\n        <div class=\"g-filter-actions\">\n            <div class=\"g-panel-filters\" data-g-global-filter=\"\">\n                <div class=\"search settings-block\">\n                    <input type=\"text\" data-g-collapse-filter=\"\" placeholder=\"Filter Configuration...\" aria-label=\"Filter Configuration...\" role=\"search\">\n                    <i class=\"fa fa-fw fa-search\" aria-hidden=\"true\"></i>\n                </div>\n                <button class=\"button\" type=\"button\" data-g-collapse-all=\"true\"><i class=\"far fa-fw fa-caret-square-up\" aria-hidden=\"true\"></i> Collapse All</button>\n                <button class=\"button\" type=\"button\" data-g-collapse-all=\"false\"><i class=\"far fa-fw fa-caret-square-down\" aria-hidden=\"true\"></i> Expand All</button>\n            </div>\n        </div>\n\n        <div id=\"styles\" class=\"cards-wrapper g-grid\">\n\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.breakpoints.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.breakpoints.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Breakpoints</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-text\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Set breakpoint size in rem, em, or px unit values\" data-tip-place=\"top-right\" aria-label=\"Set breakpoint size in rem, em, or px unit values\" data-title=\"Set breakpoint size in rem, em, or px unit values\">\n                            Large Desktop\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n            <input type=\"text\" name=\"styles[breakpoints][large-desktop-container]\" value=\"88rem\" aria-label=\"Styles Breakpoints Large-Desktop-Container\" pattern=\"\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)\">\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[breakpoints][large-desktop-container]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-text\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Set breakpoint size in rem, em, or px unit values\" data-tip-place=\"top-right\" aria-label=\"Set breakpoint size in rem, em, or px unit values\" data-title=\"Set breakpoint size in rem, em, or px unit values\">\n                            Desktop\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n            <input type=\"text\" name=\"styles[breakpoints][desktop-container]\" value=\"76rem\" aria-label=\"Styles Breakpoints Desktop-Container\" pattern=\"\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)\">\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[breakpoints][desktop-container]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-text\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Set breakpoint size in rem, em, or px unit values\" data-tip-place=\"top-right\" aria-label=\"Set breakpoint size in rem, em, or px unit values\" data-title=\"Set breakpoint size in rem, em, or px unit values\">\n                            Tablet\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n            <input type=\"text\" name=\"styles[breakpoints][tablet-container]\" value=\"51rem\" aria-label=\"Styles Breakpoints Tablet-Container\" pattern=\"\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)\">\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[breakpoints][tablet-container]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-text\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Set breakpoint size in rem, em, or px unit values\" data-tip-place=\"top-right\" aria-label=\"Set breakpoint size in rem, em, or px unit values\" data-title=\"Set breakpoint size in rem, em, or px unit values\">\n                            Mobile\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n            <input type=\"text\" name=\"styles[breakpoints][large-mobile-container]\" value=\"30rem\" aria-label=\"Styles Breakpoints Large-Mobile-Container\" pattern=\"\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)\">\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[breakpoints][large-mobile-container]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-text\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Set breakpoint size in rem, em, or px unit values\" data-tip-place=\"top-right\" aria-label=\"Set breakpoint size in rem, em, or px unit values\" data-title=\"Set breakpoint size in rem, em, or px unit values\">\n                            Mobile Menu\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n            <input type=\"text\" name=\"styles[breakpoints][mobile-menu-breakpoint]\" value=\"51rem\" aria-label=\"Styles Breakpoints Mobile-Menu-Breakpoint\" pattern=\"\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)\">\n                                <span class=\"g-reset-field\" data-g-reset-field=\"styles[breakpoints][mobile-menu-breakpoint]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                                </div>\n                </div>\n                                                                            <div class=\"card settings-block\">\n                    <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;styles.menu.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"styles.menu.\">\n                        <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\">\n                            <i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i>\n                        </span>\n                        <span class=\"g-title\">Menu</span>\n                    </h4>\n                    <div class=\"inner-params\">\n                        \n\n            \n                                        \n                    \n                <div class=\"settings-param select-selectize\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Select the dropdown animation.\" data-tip-place=\"top-right\" aria-label=\"Select the dropdown animation.\" data-title=\"Select the dropdown animation.\">\n                            Dropdown Animation\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <div class=\"g-selectize-control g-single\" aria-expanded=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-labelledby=\"selectize-id-9oxajx4h-g-fade\" style=\"width: 286px;\"><div class=\"g-full g-has-items g-has-options g-items g-selectize-input\"><div class=\"g-item\" title=\"g-fade\" data-value=\"g-fade\" id=\"selectize-id-9oxajx4h-g-fade\" role=\"treeitem\" aria-label=\"Fade\" aria-selected=\"false\">Fade</div><input type=\"text\" autocomplete=\"off\" role=\"textbox\" tabindex=\"\" style=\"width: 4px;\"></div><div class=\"g-selectize-dropdown g-single\" style=\"display: none; width: 250px; top: 38px; left: 0px;\"><div id=\"selectize-id-9oxajx4h\" class=\"g-selectize-dropdown-content\" aria-expanded=\"false\" aria-hidden=\"true\" role=\"tree\"></div></div></div><select name=\"styles[menu][animation]\" data-selectize=\"\" aria-label=\"Styles Menu Animation\" tabindex=\"-1\" aria-hidden=\"true\" class=\"selectized\" style=\"display: none;\"><option value=\"g-fade\" selected=\"selected\">Fade</option></select>\n                                </div>\n            </div>\n                                </div>\n                </div>\n                    </div>\n                \n        <div class=\"g-footer-actions\">\n            <span class=\"float-right\">\n                            <button type=\"submit\" class=\"button button-primary button-save\" data-save=\"Styles\"><i class=\"fa fa-fw fa-check\" aria-hidden=\"true\"></i> <span>Save Styles</span></button>\n            </span>\n        </div>\n    </form>\n</div>\n                            </div>\n                        </section>\n                    </div>\n                </div>\n            </div>\n            </div>\n\n        <footer id=\"footer\">\n        <div>\n            <a href=\"http://gantry.org\">Gantry Administration</a> by <a href=\"http://www.rockettheme.com\">RocketTheme</a>\n        </div>\n            </footer>\n</div>\n\n\n                </div>\n            </div>\n                        <!-- End Content -->\n    </section>\n\n    </div>\n    <!-- Begin Status Module -->\n    <div id=\"status\" class=\"navbar navbar-fixed-bottom hidden-phone\">\n        <div class=\"btn-toolbar\">\n            <div class=\"btn-group pull-right\">\n                <div id=\"bars\" class=\"btn-group \">\n                                    </div>\n                \n                CMS 24.1.2 (Rev. 162)            </div>\n            <div class=\"btn-group viewsite\"><a href=\"https://defaults-agent.forge.solutiosoftware.com/\" target=\"_blank\"><span class=\"icon-out-2\" aria-hidden=\"true\"></span>View Site</a><span class=\"btn-group separator\"></span></div><div class=\"btn-group loggedin-users\"><span class=\"badge\">0</span>Visitors<span class=\"btn-group separator\"></span></div><div class=\"btn-group backloggedin-users\"><span class=\"badge\">5</span>Administrators<span class=\"btn-group separator\"></span></div><div class=\"btn-group no-unread-messages\"><a href=\"/administrator/index.php?option=com_messages\"><span class=\"badge\">0</span>Messages</a><span class=\"btn-group separator\"></span></div><div class=\"btn-group logout\"><a href=\"/administrator/index.php?option=com_login&amp;task=logout&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\"><span class=\"icon-minus-2\" aria-hidden=\"true\"></span>Log out</a></div>\n        </div>\n    </div>\n    <!-- End Status Module -->\n\n\n\n</body></html>"
+}

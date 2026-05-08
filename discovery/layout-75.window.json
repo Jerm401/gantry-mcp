@@ -1,0 +1,328 @@
+{
+  "G5keys": [
+    "lm",
+    "mm",
+    "assingments",
+    "ui",
+    "styles",
+    "$",
+    "domready",
+    "particles",
+    "zen",
+    "moofx",
+    "atoms",
+    "tips"
+  ],
+  "G5shallow": {
+    "lm": "[circular]",
+    "mm": {
+      "menumanager": {
+        "options": {
+          "delegate": ".g5-mm-particles-picker ul li, #menu-editor > section ul li, .submenu-column, .submenu-column li[data-mm-id], .column-container .g-block",
+          "droppables": "#menu-editor [data-mm-id]",
+          "exclude": "[data-lm-nodrag], .menu-item-back, .fa-cog, .config-cog",
+          "resize_handles": ".submenu-column:not(:last-child)",
+          "catchClick": true
+        },
+        "refElement": "[data-mm-container]",
+        "map": {},
+        "_listeners": {
+          "dragEnd": [
+            {}
+          ]
+        },
+        "root": null
+      }
+    },
+    "assingments": {
+      "toggleSection": {},
+      "filterSection": {},
+      "filterEnabledOnly": {},
+      "treatLabel": {},
+      "globalToggleSection": {},
+      "globalFilterSection": {},
+      "toggleStateDelegation": {},
+      "chromeFix": {},
+      "isChrome": {}
+    },
+    "ui": {
+      "modal": {
+        "options": {
+          "baseClassNames": {
+            "container": "g5-dialog",
+            "content": "g5-content",
+            "overlay": "g5-overlay",
+            "close": "g5-close",
+            "closing": "g5-closing",
+            "open": "g5-dialog-open"
+          },
+          "content": "",
+          "remote": "",
+          "showCloseButton": true,
+          "escapeToClose": true,
+          "overlayClickToClose": true,
+          "appendNode": "#g5-container",
+          "className": "g5-dialog-theme-default",
+          "css": {},
+          "overlayClassName": "",
+          "overlayCSS": "",
+          "contentClassName": "",
+          "contentCSS": "",
+          "closeClassName": "g5-dialog-close",
+          "closeCSS": "",
+          "afterOpen": null,
+          "afterClose": null
+        },
+        "defaults": {
+          "baseClassNames": {
+            "container": "g5-dialog",
+            "content": "g5-content",
+            "overlay": "g5-overlay",
+            "close": "g5-close",
+            "closing": "g5-closing",
+            "open": "g5-dialog-open"
+          },
+          "content": "",
+          "remote": "",
+          "showCloseButton": true,
+          "escapeToClose": true,
+          "overlayClickToClose": true,
+          "appendNode": "#g5-container",
+          "className": "g5-dialog-theme-default",
+          "css": {},
+          "overlayClassName": "",
+          "overlayCSS": "",
+          "contentClassName": "",
+          "contentCSS": "",
+          "closeClassName": "g5-dialog-close",
+          "closeCSS": "",
+          "afterOpen": null,
+          "afterClose": null
+        },
+        "_listeners": {
+          "dialogOpen": [
+            {}
+          ],
+          "dialogAfterClose": [
+            {}
+          ]
+        },
+        "animationEndEvent": "animationend"
+      },
+      "togglers": {},
+      "collapse": {},
+      "selectize": {
+        "implement": {},
+        "EMIT_SYNC": {},
+        "parent": {
+          "on": {},
+          "off": {},
+          "emit": {}
+        }
+      },
+      "toastr": {
+        "options": {
+          "tapToDismiss": true,
+          "noticeClass": "g-notifications",
+          "containerID": "g-notifications-container",
+          "types": {
+            "base": "",
+            "error": "fa-minus-circle",
+            "info": "fa-info-circle",
+            "success": "fa-check-circle",
+            "warning": "fa-exclamation-triangle"
+          },
+          "showDuration": 300,
+          "showEquation": "cubic-bezier(0.02, 0.01, 0.47, 1)",
+          "hideDuration": 500,
+          "hideEquation": "cubic-bezier(0.02, 0.01, 0.47, 1)",
+          "timeOut": 2500,
+          "extendedTimeout": 2500,
+          "location": "bottom-right",
+          "titleClass": "g-notifications-title",
+          "messageClass": "g-notifications-message",
+          "closeButton": true,
+          "target": "#g5-container",
+          "targetLocation": "bottom",
+          "newestOnTop": true,
+          "preventDuplicates": false,
+          "progressBar": true
+        },
+        "id": 0,
+        "previousNotice": null,
+        "map": {
+          "length": 0,
+          "_values": [],
+          "_keys": []
+        }
+      }
+    },
+    "styles": {},
+    "particles": {
+      "colorpicker": {
+        "implement": {},
+        "EMIT_SYNC": {},
+        "parent": {
+          "on": {},
+          "off": {},
+          "emit": {}
+        }
+      },
+      "fonts": {
+        "implement": {},
+        "EMIT_SYNC": {},
+        "parent": {
+          "on": {},
+          "off": {},
+          "emit": {}
+        }
+      },
+      "menu": {},
+      "icons": {},
+      "filepicker": {
+        "implement": {}
+      },
+      "collections": {},
+      "keyvalue": {},
+      "instancepicker": {}
+    },
+    "atoms": {
+      "eraser": null,
+      "lists": {
+        "picker": null,
+        "items": null
+      },
+      "serialize": {},
+      "attachEraser": {},
+      "createSortables": {}
+    },
+    "tips": {
+      "show": {},
+      "hide": {},
+      "toggle": {},
+      "get": {},
+      "add": {},
+      "remove": {},
+      "reload": {},
+      "destroy": {},
+      "container": {
+        "location": {
+          "ancestorOrigins": {},
+          "href": "https://agent5.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations%2F75%2Flayout&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+          "origin": "https://agent5.forge.solutiosoftware.com",
+          "protocol": "https:",
+          "host": "agent5.forge.solutiosoftware.com",
+          "hostname": "agent5.forge.solutiosoftware.com",
+          "port": "",
+          "pathname": "/administrator/index.php",
+          "search": "?option=com_gantry5&view=configurations%2F75%2Flayout&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+          "hash": "",
+          "assign": {},
+          "reload": {},
+          "replace": {},
+          "toString": {}
+        },
+        "jQuery112406666200744273434": 1,
+        "__counter": "1"
+      },
+      "options": {
+        "tooltip": {
+          "baseClass": "g-tips",
+          "typeClass": null,
+          "effectClass": "g-fade",
+          "inClass": "g-tip-in",
+          "place": "top",
+          "spacing": 10,
+          "offset": -3,
+          "auto": 1
+        },
+        "key": "tip",
+        "showOn": "mouseenter",
+        "hideOn": "mouseleave",
+        "observe": 1
+      },
+      "ID": "tipmg18s1b3ds",
+      "elements": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "selector": "[data-tip]"
+    }
+  }
+}

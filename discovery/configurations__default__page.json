@@ -1,0 +1,1181 @@
+{
+  "url": "https://agent5.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations%2Fdefault%2Fpage&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+  "title": "agent5 - Administration",
+  "links": [
+    {
+      "text": "Toggle Navigation",
+      "href": "#",
+      "cls": "btn btn-navbar collapsed"
+    },
+    {
+      "text": "Skip to Main Content",
+      "href": "#skiptarget",
+      "cls": "element-invisible"
+    },
+    {
+      "text": "Control Panel",
+      "href": "/administrator/index.php",
+      "cls": "admin-logo "
+    },
+    {
+      "text": "agent5",
+      "href": "https://agent5.forge.solutiosoftware.com/",
+      "cls": "brand hidden-desktop hidden-tablet"
+    },
+    {
+      "text": "System",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Control Panel",
+      "href": "index.php",
+      "cls": "no-dropdown menu-cpanel"
+    },
+    {
+      "text": "Global Check-in",
+      "href": "index.php?option=com_checkin",
+      "cls": "no-dropdown menu-checkin"
+    },
+    {
+      "text": "Clear Cache",
+      "href": "index.php?option=com_cache",
+      "cls": "no-dropdown menu-clear"
+    },
+    {
+      "text": "Clear Expired Cache",
+      "href": "index.php?option=com_cache&view=purge",
+      "cls": "no-dropdown menu-purge"
+    },
+    {
+      "text": "Users",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Manage",
+      "href": "index.php?option=com_users&view=users",
+      "cls": "dropdown-toggle menu-user"
+    },
+    {
+      "text": "Add New User",
+      "href": "index.php?option=com_users&task=user.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Groups",
+      "href": "index.php?option=com_users&view=groups",
+      "cls": "dropdown-toggle menu-groups"
+    },
+    {
+      "text": "Add New Group",
+      "href": "index.php?option=com_users&task=group.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Access Levels",
+      "href": "index.php?option=com_users&view=levels",
+      "cls": "dropdown-toggle menu-levels"
+    },
+    {
+      "text": "Add New Access Level",
+      "href": "index.php?option=com_users&task=level.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "User Actions Log",
+      "href": "index.php?option=com_actionlogs",
+      "cls": "no-dropdown menu-userlogs"
+    },
+    {
+      "text": "Menus",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Manage",
+      "href": "index.php?option=com_menus&view=menus",
+      "cls": "dropdown-toggle menu-menumgr"
+    },
+    {
+      "text": "Add New Menu",
+      "href": "index.php?option=com_menus&view=menu&layout=edit",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "All Menu Items",
+      "href": "index.php?option=com_menus&view=items&menutype=",
+      "cls": "no-dropdown menu-allmenu"
+    },
+    {
+      "text": "Hidden Menu",
+      "href": "index.php?option=com_menus&view=items&menutype=hidden-menu",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=hidden-menu",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Main Menu",
+      "href": "index.php?option=com_menus&view=items&menutype=mainmenu",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=mainmenu",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Main Menu ST",
+      "href": "index.php?option=com_menus&view=items&menutype=main-menu-st",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=main-menu-st",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Solutio Stuff",
+      "href": "index.php?option=com_menus&view=items&menutype=solutio-stuff",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=solutio-stuff",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "TempSite Menu",
+      "href": "index.php?option=com_menus&view=items&menutype=tempsite-menu",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=tempsite-menu",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Content",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Articles",
+      "href": "index.php?option=com_content",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Add New Article",
+      "href": "index.php?option=com_content&task=article.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_content",
+      "cls": "dropdown-toggle menu-category"
+    },
+    {
+      "text": "Add New Category",
+      "href": "index.php?option=com_categories&task=category.add&extension=com_content",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Featured Articles",
+      "href": "index.php?option=com_content&view=featured",
+      "cls": "no-dropdown menu-featured"
+    },
+    {
+      "text": "Fields",
+      "href": "index.php?option=com_fields&context=com_content.article",
+      "cls": "no-dropdown menu-fields"
+    },
+    {
+      "text": "Field Groups",
+      "href": "index.php?option=com_fields&view=groups&context=com_content.article",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Media",
+      "href": "index.php?option=com_media",
+      "cls": "no-dropdown menu-media"
+    },
+    {
+      "text": "Components",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "CMS Admin Tools",
+      "href": "index.php?option=com_cat",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Contacts",
+      "href": "index.php?option=com_contact",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Contacts",
+      "href": "index.php?option=com_contact",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_contact",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "DOCman",
+      "href": "index.php?option=com_docman",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Documents",
+      "href": "index.php?option=com_docman",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_docman&view=categories",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Tags",
+      "href": "index.php?option=com_docman&view=tags",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Files",
+      "href": "index.php?option=com_docman&view=files",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Users",
+      "href": "index.php?option=com_docman&view=users",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Email Router",
+      "href": "index.php?option=com_erouter",
+      "cls": "dropdown-toggle menu-category"
+    },
+    {
+      "text": "SNS",
+      "href": "index.php?option=com_erouter&view=sns",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Routes",
+      "href": "index.php?option=com_erouter&view=routes",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Incoming",
+      "href": "index.php?option=com_erouter&view=jwts",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Deliveries",
+      "href": "index.php?option=com_erouter&view=deliveries",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Domain Manager",
+      "href": "index.php?option=com_domains",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "FILEman",
+      "href": "index.php?option=com_fileman",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Gantry 5 Themes",
+      "href": "index.php?option=com_gantry5&view=themes",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Icon Panel Manager",
+      "href": "index.php?option=com_iconpanel",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Imports",
+      "href": "index.php?option=com_imports",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Media Version",
+      "href": "index.php?option=com_mversion",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Multilingual Associations",
+      "href": "index.php?option=com_associations",
+      "cls": "no-dropdown menu-featured"
+    },
+    {
+      "text": "News Feeds",
+      "href": "index.php?option=com_newsfeeds",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Feeds",
+      "href": "index.php?option=com_newsfeeds",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_newsfeeds",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Permissions",
+      "href": "index.php?option=com_permissions",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Podcasts",
+      "href": "index.php?option=com_podcasts",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Quick Gallery",
+      "href": "index.php?option=com_quickgallery",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Redirects",
+      "href": "index.php?option=com_redir",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Site Config",
+      "href": "index.php?option=com_siteconfig",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Sponsors",
+      "href": "index.php?option=com_sponsors",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Sponsors",
+      "href": "index.php?option=com_sponsors&view=sponsors",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Template",
+      "href": "index.php?option=com_sponsors&view=template&id=1&layout=edit",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Subsite Manager",
+      "href": "index.php?option=com_subsites",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Tags",
+      "href": "index.php?option=com_tags",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Template Manager",
+      "href": "index.php?option=com_tman",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Web Links",
+      "href": "index.php?option=com_weblinks",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Extensions",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Modules",
+      "href": "index.php?option=com_modules",
+      "cls": "no-dropdown menu-module"
+    },
+    {
+      "text": "Help",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Solutio University",
+      "href": "https://solutiosupport.com/",
+      "cls": "no-dropdown menu-help-dev"
+    },
+    {
+      "text": "User Menu",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Edit Account",
+      "href": "index.php?option=com_admin&task=profile.edit&id=932",
+      "cls": ""
+    },
+    {
+      "text": "Logout",
+      "href": "/administrator/index.php?option=com_login&task=logout&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "agent5",
+      "href": "https://agent5.forge.solutiosoftware.com/",
+      "cls": "brand visible-desktop visible-tablet"
+    },
+    {
+      "text": "Outlines",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "Menu",
+      "href": "/administrator/index.php?option=com_gantry5&view=menu&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "About",
+      "href": "/administrator/index.php?option=com_gantry5&view=about&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "Extras",
+      "href": "#",
+      "cls": ""
+    },
+    {
+      "text": "Clear Cache",
+      "href": "/administrator/index.php?option=com_gantry5&view=cache&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "Layout",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/layout&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "Styles",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/styles&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "Page Settings",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "Particle Defaults",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/settings&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    },
+    {
+      "text": "",
+      "href": "/administrator/index.php?option=com_gantry5&view=themes",
+      "cls": ""
+    },
+    {
+      "text": "Override",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/0&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "To Merge",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/1&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Variables",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/2&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Local Images",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/3&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "PWA",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/4&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Solutio Font Icons",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/5&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Fonts",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/6&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Studius",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/7&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Section",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/8&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Navigation",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/9&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Slideshow",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/10&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Quicklinks",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/11&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Headlines",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/12&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Widgets",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/13&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Footer",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/14&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Grid",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/15&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Sponsorship",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/16&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Base",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/17&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "AOS",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/18&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "New item",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css/%id%&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/css&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "collection-editall button button-simple"
+    },
+    {
+      "text": "Studius",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/javascript/0&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Site",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/javascript/1&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "Directory",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/javascript/2&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "JS Calls",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/javascript/3&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "AOS",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/javascript/4&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "New item",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/javascript/%id%&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "config-cog"
+    },
+    {
+      "text": "",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page/assets/javascript&theme=rt_studius&3597e82f370415775e059d8bc10621a4=1",
+      "cls": "collection-editall button button-simple"
+    },
+    {
+      "text": "Gantry Administration",
+      "href": "http://gantry.org",
+      "cls": ""
+    },
+    {
+      "text": "RocketTheme",
+      "href": "http://www.rockettheme.com",
+      "cls": ""
+    },
+    {
+      "text": "View Site",
+      "href": "https://agent5.forge.solutiosoftware.com/",
+      "cls": ""
+    },
+    {
+      "text": "0Messages",
+      "href": "/administrator/index.php?option=com_messages",
+      "cls": ""
+    },
+    {
+      "text": "Log out",
+      "href": "/administrator/index.php?option=com_login&task=logout&3597e82f370415775e059d8bc10621a4=1",
+      "cls": ""
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "",
+      "name": "",
+      "id": "configuration-selector",
+      "cls": "config-select selectized"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[head]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[head][meta][_json]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "",
+      "name": "page[head][head_bottom]",
+      "id": "page[head][head_bottom]",
+      "cls": ""
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "",
+      "name": "",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[head][atoms][_json]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[assets]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "page[assets][favicon]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "page[assets][touchicon]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[assets][css][_json]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[assets][javascript][_json]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[body]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "page[body][attribs][id]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "page[body][attribs][class]",
+      "id": "",
+      "cls": "selectized"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-key"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "g-keyvalue-input-value"
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[body][attribs][extra][_json]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "",
+      "name": "page[body][layout][sections]",
+      "id": "",
+      "cls": "selectized"
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "",
+      "name": "page[body][body_top]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "",
+      "name": "page[body][body_bottom]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[fontawesome]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[fontawesome][enable]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "",
+      "name": "page[fontawesome][version]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[fontawesome][fa4_compatibility]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "page[fontawesome][content_compatibility]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "",
+      "name": "page[fontawesome][html_css_import]",
+      "id": "",
+      "cls": ""
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "",
+      "name": "page[fontawesome][html_js_import]",
+      "id": "",
+      "cls": ""
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Save Page Settings",
+      "cls": "button button-primary button-save",
+      "id": "",
+      "dataAttrs": {
+        "data-save": "Page Settings"
+      }
+    },
+    {
+      "text": "Collapse All",
+      "cls": "button",
+      "id": "",
+      "dataAttrs": {
+        "data-g-collapse-all": "true"
+      }
+    },
+    {
+      "text": "Expand All",
+      "cls": "button",
+      "id": "",
+      "dataAttrs": {
+        "data-g-collapse-all": "false"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"page[assets][favicon]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".(jpe?g|gif|png|svg|ico)$\"}"
+      }
+    },
+    {
+      "text": "",
+      "cls": "button",
+      "id": "",
+      "dataAttrs": {
+        "data-g5-filepicker": "{\"field\":\"input[name=\\\"page[assets][touchicon]\\\"]\",\"root\":\"gantry-media:\\/\\/\",\"filter\":\".png$\"}"
+      }
+    },
+    {
+      "text": "Save Page Settings",
+      "cls": "button button-primary button-save",
+      "id": "",
+      "dataAttrs": {
+        "data-save": "Page Settings"
+      }
+    }
+  ],
+  "classes": [
+    "g-block",
+    "g-collapse",
+    "g-content",
+    "g-filepicker",
+    "g-filter-actions",
+    "g-footer-actions",
+    "g-full",
+    "g-grid",
+    "g-has-items",
+    "g-has-options",
+    "g-item",
+    "g-items",
+    "g-keyvalue-field",
+    "g-keyvalue-input-key",
+    "g-keyvalue-input-value",
+    "g-keyvalue-sep",
+    "g-keyvalue-wrapper",
+    "g-multi",
+    "g-not-full",
+    "g-panel-filters",
+    "g-remove-single-item",
+    "g-reset-field",
+    "g-selectize-control",
+    "g-selectize-dropdown",
+    "g-selectize-dropdown-content",
+    "g-selectize-input",
+    "g-single",
+    "g-title",
+    "g5-collection-wrapper",
+    "theme-title"
+  ],
+  "dataAttrs": [
+    "data-ajax-action",
+    "data-ajax-action-indicator",
+    "data-ajax-action-method",
+    "data-basepath",
+    "data-collection-addnew",
+    "data-collection-data",
+    "data-collection-duplicate",
+    "data-collection-editall",
+    "data-collection-item",
+    "data-collection-nosort",
+    "data-collection-remove",
+    "data-collection-template",
+    "data-field-name",
+    "data-g-collapse",
+    "data-g-collapse-all",
+    "data-g-collapse-filter",
+    "data-g-collapse-id",
+    "data-g-extras",
+    "data-g-global-filter",
+    "data-g-popover",
+    "data-g-popover-follow",
+    "data-g-popover-style",
+    "data-g-reset-field",
+    "data-g5-ajaxify",
+    "data-g5-ajaxify-params",
+    "data-g5-ajaxify-target",
+    "data-g5-content",
+    "data-g5-content-wrapper",
+    "data-g5-filepicker",
+    "data-g5-nav",
+    "data-keyvalue-addnew",
+    "data-keyvalue-data",
+    "data-keyvalue-exclude",
+    "data-keyvalue-item",
+    "data-keyvalue-key",
+    "data-keyvalue-nosort",
+    "data-keyvalue-remove",
+    "data-keyvalue-template",
+    "data-keyvalue-value",
+    "data-mode-indicator",
+    "data-options",
+    "data-override-target",
+    "data-popover-content",
+    "data-save",
+    "data-selectize",
+    "data-selectize-ajaxify",
+    "data-set-page",
+    "data-set-root",
+    "data-target",
+    "data-tip",
+    "data-tip-place",
+    "data-title",
+    "data-title-edit",
+    "data-title-editable",
+    "data-tmpl-offset",
+    "data-tmpl-sticky",
+    "data-toggle",
+    "data-value"
+  ],
+  "html": "<html lang=\"en-gb\" dir=\"ltr\"><head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta charset=\"utf-8\">\n\t<meta name=\"keywords\" content=\"solutio, catholic\">\n\t<meta name=\"description\" content=\"XXXXXXXX | Features include parish news, Mass and Confessions schedule, bulletins, parish calendar, descriptions of all parish programs, sacrament information and much more!\">\n\t<meta name=\"generator\" content=\"Joomla! - Open Source Content Management\">\n\t<title>agent5 - Administration</title>\n\t\n\t<link href=\"/administrator/templates/isis/favicon.ico\" rel=\"shortcut icon\" type=\"image/vnd.microsoft.icon\">\n\t<link href=\"/media/editors/codemirror/lib/codemirror.min.css?f60676681997e7642b93ad9dd122674b\" rel=\"stylesheet\">\n\t<link href=\"/media/editors/codemirror/lib/addons.min.css?f60676681997e7642b93ad9dd122674b\" rel=\"stylesheet\">\n\t<link href=\"/administrator/components/com_gantry5/css-compiled/g-admin.css\" rel=\"stylesheet\">\n\t<link href=\"/media/gantry5/assets/css/font-awesome6-all.min.css\" rel=\"stylesheet\">\n\t<link href=\"/media/gantry5/assets/css/font-awesome6-shim.min.css\" rel=\"stylesheet\">\n\t<link href=\"/administrator/components/com_gantry5/css-compiled/joomla-g-admin.css\" rel=\"stylesheet\">\n\t<link href=\"/administrator/templates/isis/css/template.css?f60676681997e7642b93ad9dd122674b\" rel=\"stylesheet\">\n\t<link href=\"/administrator/templates/isis/css/cms.css?f60676681997e7642b93ad9dd122674b\" rel=\"stylesheet\">\n\t<style>\n\t\t.CodeMirror\n\t\t{\n\t\t\tfont-family: monospace;\n\t\t\tfont-size: 13px;;\n\t\t\tline-height: 1.2em;;\n\t\t\tborder: 1px solid #ccc;\n\t\t}\n\t\t/* In order to hid the Joomla menu */\n\t\t.CodeMirror-fullscreen\n\t\t{\n\t\t\tz-index: 1040;\n\t\t}\n\t\t/* Make the fold marker a little more visible/nice */\n\t\t.CodeMirror-foldmarker\n\t\t{\n\t\t\tbackground: rgb(255, 128, 0);\n\t\t\tbackground: rgba(255, 128, 0, .5);\n\t\t\tbox-shadow: inset 0 0 2px rgba(255, 255, 255, .5);\n\t\t\tfont-family: serif;\n\t\t\tfont-size: 90%;\n\t\t\tborder-radius: 1em;\n\t\t\tpadding: 0 1em;\n\t\t\tvertical-align: middle;\n\t\t\tcolor: white;\n\t\t\ttext-shadow: none;\n\t\t}\n\t\t.CodeMirror-foldgutter, .CodeMirror-markergutter { width: 1.2em; text-align: center; }\n\t\t.CodeMirror-markergutter { cursor: pointer; }\n\t\t.CodeMirror-markergutter-mark { cursor: pointer; text-align: center; }\n\t\t.CodeMirror-markergutter-mark:after { content: \"\u0015CF\"; }\n\t\t.CodeMirror-activeline-background { background: rgba(164, 194, 235, .5); }\n\t\t.CodeMirror-matchingtag { background: rgba(250, 84, 47, .5); }\n\t\t.cm-matchhighlight {background-color: rgba(250, 84, 47, .5); }\n\t\t.CodeMirror-selection-highlight-scrollbar {background-color: rgba(250, 84, 47, .5); }\n\t</style>\n\t<script src=\"/media/editors/codemirror/mode/css/css.min.js\"></script><script src=\"/media/editors/codemirror/mode/javascript/javascript.min.js\"></script><script src=\"/media/editors/codemirror/mode/xml/xml.min.js\"></script><script src=\"/media/editors/codemirror/mode/htmlmixed/htmlmixed.min.js\"></script><script type=\"application/json\" class=\"joomla-script-options loaded\">{\"csrf.token\":\"3597e82f370415775e059d8bc10621a4\",\"system.paths\":{\"root\":\"\",\"base\":\"\\/administrator\"},\"system.keepalive\":{\"interval\":3540000,\"uri\":\"\\/administrator\\/index.php?option=com_ajax&amp;format=json\"}}</script>\n\t<script src=\"/media/system/js/core.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<!--[if lt IE 9]><script src=\"/media/system/js/polyfill.event.js?f60676681997e7642b93ad9dd122674b\"></script><![endif]-->\n\t<script src=\"/media/system/js/keepalive.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<script src=\"/media/editors/codemirror/lib/codemirror.min.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<script src=\"/media/editors/codemirror/lib/addons.min.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<script src=\"/administrator/components/com_gantry5/js/main.js\" async=\"\"></script>\n\t<script src=\"/media/jui/js/jquery.min.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<script src=\"/media/jui/js/jquery-noconflict.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<script src=\"/media/jui/js/jquery-migrate.min.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<script src=\"/media/jui/js/bootstrap.min.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<!--[if lte IE 9]><script src=\"/media/system/js/polyfill.filter.js?f60676681997e7642b93ad9dd122674b\"></script><![endif]-->\n\t<script src=\"/administrator/templates/isis/js/template.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<script src=\"/administrator/templates/isis/js/usage.js?f60676681997e7642b93ad9dd122674b\"></script>\n\t<!--[if lt IE 9]><script src=\"/media/jui/js/html5.js?f60676681997e7642b93ad9dd122674b\"></script><![endif]-->\n\t<script>\n\t\t;(function (cm, $) {\n\t\t\tcm.commands.toggleFullScreen = function (cm) {\n\t\t\t\tcm.setOption('fullScreen', !cm.getOption('fullScreen'));\n\t\t\t};\n\t\t\tcm.commands.closeFullScreen = function (cm) {\n\t\t\t\tcm.getOption('fullScreen') && cm.setOption('fullScreen', false);\n\t\t\t};\n\n\t\t\tcm.keyMap.default['Ctrl-Q'] = 'toggleFullScreen';\n\t\t\tcm.keyMap.default[\"F10\"] = 'toggleFullScreen';\n\t\t\tcm.keyMap.default['Esc'] = 'closeFullScreen';\n\t\t\t// For mode autoloading.\n\t\t\tcm.modeURL = \"\\/media\\/editors\\/codemirror\\/mode\\/%N\\/%N.min.js\";\n\t\t\t// Fire this function any time an editor is created.\n\t\t\tcm.defineInitHook(function (editor)\n\t\t\t{\n\t\t\t\t// Try to set up the mode\n\t\t\t\tvar mode = cm.findModeByMIME(editor.options.mode || '') ||\n\t\t\t\t\t\t\tcm.findModeByName(editor.options.mode || '') ||\n\t\t\t\t\t\t\tcm.findModeByExtension(editor.options.mode || '');\n\n\t\t\t\tcm.autoLoadMode(editor, mode ? mode.mode : editor.options.mode);\n\n\t\t\t\tif (mode && mode.mime)\n\t\t\t\t{\n\t\t\t\t\teditor.setOption('mode', mode.mime);\n\t\t\t\t}\n\n\t\t\t\t// Handle gutter clicks (place or remove a marker).\n\t\t\t\teditor.on('gutterClick', function (ed, n, gutter) {\n\t\t\t\t\tif (gutter != 'CodeMirror-markergutter') { return; }\n\t\t\t\t\tvar info = ed.lineInfo(n),\n\t\t\t\t\t\thasMarker = !!info.gutterMarkers && !!info.gutterMarkers['CodeMirror-markergutter'];\n\t\t\t\t\ted.setGutterMarker(n, 'CodeMirror-markergutter', hasMarker ? null : makeMarker());\n\t\t\t\t});\n\n\t\t\t\t// jQuery's ready function.\n\t\t\t\t$(function () {\n\t\t\t\t\t// Some browsers do something weird with the fieldset which doesn't work well with CodeMirror. Fix it.\n\t\t\t\t\t$(editor.getWrapperElement()).parent('fieldset').css('min-width', 0);\n\t\t\t\t\t// Listen for Bootstrap's 'shown' event. If this editor was in a hidden element when created, it may need to be refreshed.\n\t\t\t\t\t$(document.body).on('shown shown.bs.tab shown.bs.modal', function () { editor.refresh(); });\n\t\t\t\t});\n\t\t\t});\n\n\t\t\tfunction makeMarker()\n\t\t\t{\n\t\t\t\tvar marker = document.createElement('div');\n\t\t\t\tmarker.className = 'CodeMirror-markergutter-mark';\n\t\t\t\treturn marker;\n\t\t\t}\n\n\t\t\t// Initialize any CodeMirrors on page load and when a subform is added\n\t\t\t$(function ($) {\n\t\t\t\tinitCodeMirror();\n\t\t\t\t$('body').on('subform-row-add', initCodeMirror);\n\t\t\t});\n\n\t\t\tfunction initCodeMirror(event, container)\n\t\t\t{\n\t\t\t\tcontainer = container || document;\n\t\t\t\t$(container).find('textarea.codemirror-source').each(function () {\n\t\t\t\t\tvar input = $(this).removeClass('codemirror-source');\n\t\t\t\t\tvar id = input.prop('id');\n\n\t\t\t\t\tJoomla.editors.instances[id] = cm.fromTextArea(this, input.data('options'));\n\t\t\t\t});\n\t\t\t}\n\n\t\t}(CodeMirror, jQuery));\n\t\t;function jInsertEditorText(text, editor) { Joomla.editors.instances[editor].replaceSelection(text); }\n\t\t\n    var G5T = function(key, fallback) {\n        var map = {\n            GANTRY5_PLATFORM_INHERITING_FROM_X: \"Inheriting from %s\",\n            GANTRY5_PLATFORM_JS_LOADING: \"Loading...\",\n            GANTRY5_PLATFORM_JS_PROCESSING: \"Processing...\",\n            GANTRY5_PLATFORM_JS_LM_SETTINGS: \"%s Settings\",\n            GANTRY5_PLATFORM_JS_LM_CONFIGURE_SETTINGS: \"Configure %s Settings\",\n            GANTRY5_PLATFORM_JS_LM_ADD_ROW: \"Add new row in %s\",\n            GANTRY5_PLATFORM_JS_LM_DISABLED_PARTICLE: \"This %s has been disabled and it will not be rendered on front-end. You can still configure, move and delete.\",\n            GANTRY5_PLATFORM_JS_LM_GRID_EQUALIZE: \"Equalize the width of blocks in this grid\",\n            GANTRY5_PLATFORM_JS_LM_GRID_SORT_MOVE: \"Sort or Move the Grid\",\n            GANTRY5_PLATFORM_JS_LM_SIZE_LIMITS_RANGE: \"You need to stay in between the min and max range\",\n            GANTRY5_PLATFORM_JS_REVIEW_FIELDS: \"Please review the fields in the modal and ensure you correct any invalid one.\",\n            GANTRY5_PLATFORM_JS_INVALID_FIELDS: \"Invalid Fields\",\n            GANTRY5_PLATFORM_JS_PARTICLE_SETTINGS_APPLIED: \"The Particle \\\"%s\\\" settings have been applied to the Layout. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_MENU_SETTINGS_APPLIED: \"The Menu Item settings have been applied to the Main Menu. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_GENERIC_SETTINGS_APPLIED: \"The %s settings have been applied. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_SETTINGS_APPLIED: \"Settings Applied\",\n            GANTRY5_PLATFORM_JS_POSITIONS_SETTINGS_APPLIED: \"GANTRY5_PLATFORM_JS_POSITIONS_SETTINGS_APPLIED\",\n            GANTRY5_PLATFORM_JS_FILTER_MISMATCH: \"does not match the filter\",\n            GANTRY5_PLATFORM_JUST_NOW: \"just now\",\n            GANTRY5_PLATFORM_JS_KEYVALUE_DUPLICATE: \"The key \\\"%s\\\" is a duplicate\",\n            GANTRY5_PLATFORM_JS_KEYVALUE_EXCLUDED: \"The key \\\"%s\\\" has been excluded and cannot be used\",\n            GANTRY5_PLATFORM_JS_NO_SAVE_DETECTED: \"You haven't saved your changes and by leaving the page they will be lost. Do you want to leave without saving?\",\n            GANTRY5_PLATFORM_SAVED: \"Saved\",\n            GANTRY5_PLATFORM_LAST_SAVED: \"Last Saved\",\n            GANTRY5_PLATFORM_JS_CSS_COMPILED: \"The CSS was successfully compiled!\",\n            GANTRY5_PLATFORM_JS_SAVE_SUCCESS: \"The {{type}} {{verb}} been successfully saved! {{extras}}\",\n        };\n\n        return map[key] || fallback || key;\n    };\n\n            var GANTRY_AJAX_SUFFIX = '&format=json';\n            var GANTRY_AJAX_URL = '/administrator/index.php?option=com_gantry5&amp;view=%ajax%&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1';\n            var GANTRY_AJAX_CONF_URL = '/administrator/index.php?option=com_gantry5&amp;view=configurations/%ajax%&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1';\n            var GANTRY_AJAX_NONCE = null;\n            var GANTRY_PLATFORM = 'joomla';\n        \n\t</script>\n\n</head>\n<body class=\"admin com_gantry5 view-configurationsdefaultpage layout- task- itemid-0\" data-basepath=\"\">\n<!-- Top Navigation -->\n<nav class=\"navbar navbar-inverse navbar-fixed-top\">\n    <div class=\"navbar-inner\">\n        <div class=\"container-fluid\">\n                            <a href=\"#\" class=\"btn btn-navbar collapsed\" data-toggle=\"collapse\" data-target=\".nav-collapse\">\n                    <span class=\"element-invisible\">Toggle Navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </a>\n            \n            <!-- skip to content -->\n            <a class=\"element-invisible\" href=\"#skiptarget\">Skip to Main Content</a>\n\n            <a class=\"admin-logo \" href=\"/administrator/index.php\">\n                <span class=\"icon-joomla\"></span>\n                <div class=\"element-invisible\">\n                    Control Panel                </div>\n            </a>\n\n            <a class=\"brand hidden-desktop hidden-tablet\" href=\"https://agent5.forge.solutiosoftware.com/\" title=\"Preview agent5\" target=\"_blank\">agent5                <span class=\"icon-out-2 small\"></span></a>\n\n            <div class=\"nav-collapse collapse\">\n                <ul id=\"menu\" class=\"nav \">\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">System <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-cpanel\" href=\"index.php\">Control Panel</a></li>\n<li><a class=\"no-dropdown menu-checkin\" href=\"index.php?option=com_checkin\">Global Check-in</a></li>\n<li><a class=\"no-dropdown menu-clear\" href=\"index.php?option=com_cache\">Clear Cache</a></li>\n<li><a class=\"no-dropdown menu-purge\" href=\"index.php?option=com_cache&amp;view=purge\">Clear Expired Cache</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Users <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-user\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=users\">Manage</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=user.add\">Add New User</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-groups\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=groups\">Groups</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=group.add\">Add New Group</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-levels\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=levels\">Access Levels</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=level.add\">Add New Access Level</a></li>\n</ul>\n</li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-userlogs\" href=\"index.php?option=com_actionlogs\">User Actions Log</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Menus <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menumgr\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=menus\">Manage</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_menus&amp;view=menu&amp;layout=edit\">Add New Menu</a></li>\n</ul>\n</li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-allmenu\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=\">All Menu Items</a></li>\n<li class=\"menuitem-group\"><span>Site</span></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=hidden-menu\">Hidden Menu </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=hidden-menu\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=mainmenu\">Main Menu <span class=\"icon-home\"></span></a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=mainmenu\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=main-menu-st\">Main Menu ST </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=main-menu-st\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=solutio-stuff\">Solutio Stuff </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=solutio-stuff\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=tempsite-menu\">TempSite Menu </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=tempsite-menu\">Add New Menu Item</a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Content <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_content\">Articles</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_content&amp;task=article.add\">Add New Article</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-category\" data-toggle=\"dropdown\" href=\"index.php?option=com_categories&amp;extension=com_content\">Categories</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;task=category.add&amp;extension=com_content\">Add New Category</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-featured\" href=\"index.php?option=com_content&amp;view=featured\">Featured Articles</a></li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-fields\" href=\"index.php?option=com_fields&amp;context=com_content.article\">Fields</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_fields&amp;view=groups&amp;context=com_content.article\">Field Groups</a></li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-media\" href=\"index.php?option=com_media\">Media</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Components <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_cat\">CMS Admin Tools</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_contact\">Contacts</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_contact\">Contacts</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;extension=com_contact\">Categories</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_docman\">DOCman</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman\">Documents</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=categories\">Categories</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=tags\">Tags</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=files\">Files</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=users\">Users</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-category\" data-toggle=\"dropdown\" href=\"index.php?option=com_erouter\">Email Router</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=sns\">SNS</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=routes\">Routes</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=jwts\">Incoming</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=deliveries\">Deliveries</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_domains\">Domain Manager</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_fileman\">FILEman</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_gantry5&amp;view=themes\">Gantry 5 Themes</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_iconpanel\">Icon Panel Manager</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_imports\">Imports</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_mversion\">Media Version</a></li>\n<li><a class=\"no-dropdown menu-featured\" href=\"index.php?option=com_associations\">Multilingual Associations</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_newsfeeds\">News Feeds</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_newsfeeds\">Feeds</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;extension=com_newsfeeds\">Categories</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_permissions\">Permissions</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_podcasts\">Podcasts</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_quickgallery\">Quick Gallery</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_redir\">Redirects</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_siteconfig\">Site Config</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_sponsors\">Sponsors</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_sponsors&amp;view=sponsors\">Sponsors</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_sponsors&amp;view=template&amp;id=1&amp;layout=edit\">Template</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_subsites\">Subsite Manager</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_tags\">Tags</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_tman\">Template Manager</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_weblinks\">Web Links</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Extensions <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-module\" href=\"index.php?option=com_modules\">Modules</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Help <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-help-dev\" href=\"https://solutiosupport.com/\" target=\"_blank\">Solutio University</a></li>\n</ul>\n</li>\n</ul>\n<ul id=\"nav-empty\" class=\"dropdown-menu nav-empty hidden-phone\"></ul>\n                <ul class=\"nav nav-user pull-right\">\n                    <li class=\"dropdown\">\n                        <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\"><span class=\"icon-user\"></span>\n                            <span class=\"caret\"></span>\n                            <div class=\"element-invisible\">\n                                User Menu                            </div>\n                        </a>\n                        <ul class=\"dropdown-menu\">\n                                                            <li>\n\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"icon-user\"></span>\n\t\t\t\t\t\t\t\t\t\t<strong>Joel Padgett</strong>\n\t\t\t\t\t\t\t\t\t</span>\n                                </li>\n                                <li class=\"divider\"></li>\n                                <li>\n                                    <a href=\"index.php?option=com_admin&amp;task=profile.edit&amp;id=932\">Edit Account</a>\n                                </li>\n                                <li class=\"divider\"></li>\n                                <li class=\"\">\n                                    <a href=\"/administrator/index.php?option=com_login&amp;task=logout&amp;3597e82f370415775e059d8bc10621a4=1\">Logout</a>\n                                </li>\n                                                    </ul>\n                    </li>\n                </ul>\n                <a class=\"brand visible-desktop visible-tablet\" href=\"https://agent5.forge.solutiosoftware.com/\" title=\"Preview agent5\" target=\"_blank\">agent5                    <span class=\"icon-out-2 small\"></span></a>\n            </div>\n            <!--/.nav-collapse -->\n        </div>\n    </div>\n    <script>\n        let isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);\n        if (isSafari) {\n            const safariMatch = navigator.userAgent.match(/Version\\/([\\d.]+)/);\n            const safariVersion = safariMatch[1];\n            if (safariVersion >= 17) {\n                const el = document.getElementsByClassName('brand visible-desktop visible-tablet')[0];\n                el.style.float = \"none\";\n                setTimeout(() => {\n                    el.style.float = \"right\";\n                }, 10)\n            }\n        }\n    </script>\n</nav>\n<!-- Header -->\n    <header class=\"header\">\n        <div class=\"container-logo\">\n                        <img src=\"/administrator/templates/isis/images/logo-solutio.svg\" width=\"100\" height=\"100\" alt=\"agent5\">\n                    </div>\n        <div class=\"container-title\">\n            \n        </div>\n    </header>\n    <!-- Subheader -->\n    <a class=\"btn btn-subhead\" data-toggle=\"collapse\" data-target=\".subhead-collapse\">Toolbar        <span class=\"icon-wrench\"></span></a>\n    <div class=\"subhead-collapse collapse\" id=\"isisJsData\" data-tmpl-sticky=\"true\" data-tmpl-offset=\"30\" style=\"height: 0px;\">\n        <div class=\"subhead subhead-fixed\" style=\"\">\n            <div class=\"container-fluid\">\n                <div id=\"container-collapse\" class=\"container-collapse\"></div>\n                <div class=\"row-fluid\">\n                    <div class=\"span12\">\n                        <!-- target for skip to content link -->\n                        <a id=\"skiptarget\" class=\"element-invisible\">Main content begins here</a>\n                        <div class=\"btn-toolbar\" role=\"toolbar\" aria-label=\"Toolbar\" id=\"toolbar\">\n</div>\n\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n<!-- container-fluid -->\n<div class=\"container-fluid container-main\" style=\"top: 30px;\">\n    <section id=\"content\">\n        <!-- Begin Content -->\n        \n        <div class=\"row-fluid\">\n                            <div class=\"span12\">\n                                        <div id=\"system-message-container\">\n\t</div>\n\n                    <div id=\"g5-container\">\n        <div id=\"main-header\" data-mode-indicator=\"production\">\n        \n        <div class=\"g-grid\">\n    <div class=\"g-block\">\n        <div class=\"g-content clearfix\">\n            <span class=\"theme-title\">\n                <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n                Theme: Studius\n                <small>(v1.1.0 / rt_studius)</small>\n            </span>\n\n                                    <ul class=\"float-right\">\n                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\">\n                        <i class=\"fa fa-fw fa-th\" aria-hidden=\"true\"></i> Outlines\n                    </a>\n                </li>\n                                                                                                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=menu&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\">\n                        <i class=\"fa fa-fw fa-bars\" aria-hidden=\"true\"></i> <span>Menu</span>\n                    </a>\n                </li>\n                                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=about&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\">\n                        <i class=\"fa fa-fw fa-question-circle\" aria-hidden=\"true\"></i> <span>About</span>\n                    </a>\n                </li>\n                <li data-g-extras=\"\" data-g-popover=\"\" data-g-popover-style=\"extras\" aria-haspopup=\"true\" aria-expanded=\"false\" role=\"presentation\">\n                    <a href=\"#\"><i class=\"fa fa-fw fa-cog\" aria-hidden=\"true\"></i> Extras <i class=\"font-small fa fa-fw fa-chevron-down\" aria-hidden=\"true\"></i></a>\n                    <ul data-popover-content=\"\" class=\"hidden\" tabindex=\"0\">\n                                                <li data-g-popover-follow=\"\">\n                            <a tabindex=\"0\" href=\"/administrator/index.php?option=com_gantry5&amp;view=cache&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\" data-ajax-action=\"\" data-ajax-action-method=\"get\" data-ajax-action-indicator=\"li[data-g-extras]\"><i class=\"fa fa-fw fa-recycle\" aria-hidden=\"true\"></i> Clear Cache\n                            </a>\n                        </li>\n                    </ul>\n                </li>\n            </ul>\n        </div>\n    </div>\n</div>\n    </div>\n    <div class=\"inner-container\">\n                            <div data-g5-content-wrapper=\"\">\n                <div class=\"g-grid\">\n    <div class=\"g-block navbar-block\">\n        <nav id=\"gantry\">\n                        <section id=\"navbar\">\n                <ul>\n                    <li class=\"config-select-wrap\">\n                <div class=\"config-select g-selectize-control g-single\" aria-expanded=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-labelledby=\"selectize-id-skjer4r-default\" style=\"width: 256px;\"><div class=\"g-full g-has-items g-has-options g-items g-selectize-input\"><div class=\"g-item\" title=\"default\" data-value=\"default\" id=\"selectize-id-skjer4r-default\" role=\"treeitem\" aria-label=\"Base Outline\" aria-selected=\"false\">\n        Base Outline\n    </div><input type=\"text\" autocomplete=\"off\" role=\"textbox\" tabindex=\"\" style=\"width: 4px;\"></div><div class=\"config-select g-selectize-dropdown g-single\" style=\"display: none; width: 256px; top: 38px; left: 0px;\"><div id=\"selectize-id-skjer4r\" class=\"g-selectize-dropdown-content\" aria-expanded=\"false\" aria-hidden=\"true\" role=\"tree\"></div></div></div><select id=\"configuration-selector\" class=\"config-select selectized\" data-selectize-ajaxify=\"\" data-selectize=\"{&quot;allowEmptyOption&quot;:true}\" tabindex=\"-1\" aria-hidden=\"true\" style=\"display: none;\"><option value=\"default\" selected=\"selected\">\n        Base Outline\n    </option></select>\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \n    </li>\n                                            <li>\n                            <a data-g5-ajaxify=\"\" data-g5-nav=\"layout\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/layout&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\">\n                                <i class=\"fa fa-fw fa-columns\" aria-hidden=\"true\"></i> <span>Layout</span>\n                            </a>\n                        </li>\n                                        <li>\n                        <a data-g5-ajaxify=\"\" data-g5-nav=\"styles\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/styles&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\">\n                            <i class=\"fa fa-fw fa-adjust\" aria-hidden=\"true\"></i> <span>Styles</span>\n                        </a>\n                    </li>\n                    <li class=\"active\">\n                        <a href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\">\n                            <i class=\"fa fa-fw fa-list-alt\" aria-hidden=\"true\"></i> <span>Page Settings</span>\n                        </a>\n                    </li>\n                                                                <li>\n                            <a data-g5-ajaxify=\"\" data-g5-nav=\"settings\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/settings&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\">\n                                <i class=\"fa fa-fw fa-wrench\" aria-hidden=\"true\"></i> <span>Particle Defaults</span>\n                            </a>\n                        </li>\n                                    </ul>\n                <a href=\"/administrator/index.php?option=com_gantry5&amp;view=themes\" aria-hidden=\"true\" tabindex=\"-1\">\n                    <svg version=\"1.1\" id=\"gantry-logo\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"81px\" height=\"28.239px\" viewBox=\"0 0 81 28.239\" style=\"enable-background:new 0 0 81 28.239;\" xml:space=\"preserve\">\n                <g>\n                    <path style=\"fill:#a0a0a0;\" d=\"M8.101,26.332c2.639-0.358,4.636-2.603,4.672-5.311l0.008-1.451l-1.184,0.847\n                        c-1.255,0.903-2.734,1.38-4.27,1.38C3.288,21.797,0,18.511,0,14.471c0-4.039,3.286-7.325,7.325-7.325\n                        c1.633,0,3.182,0.483,4.481,1.491l0.198,0.104h2.694V20.95c0,3.792-2.969,6.92-6.597,7.289V26.332z M7.325,9.039\n                        c-2.995,0-5.432,2.437-5.432,5.432c0,2.996,2.437,5.433,5.432,5.433s5.432-2.437,5.432-5.433\n                        C12.757,11.476,10.32,9.039,7.325,9.039 M74.403,26.332c2.639-0.358,4.683-2.603,4.719-5.311l0.032-1.451l-1.172,0.847\n                        c-1.256,0.903-2.725,1.38-4.26,1.38c-3.914,0-7.07-3.024-7.235-6.938V14.37V8.741H68.3v6.418c0.275,2.577,2.682,4.768,5.413,4.768\n                        c2.692,0,5.331-2.28,5.467-4.589h0.005V8.741H81v12.507l-0.014,0.395c-0.169,1.807-1.016,3.48-2.359,4.711\n                        c-1.171,1.073-2.575,1.728-4.224,1.885V26.332z M24.114,21.797c-4.039,0-7.325-3.286-7.325-7.326c0-4.039,3.286-7.325,7.325-7.325\n                        c4.037,0,7.404,3.282,7.407,7.319v0.014c-0.002,0.033,0,0.838,0,0.838v4.641h-2.683l-0.199,0.212\n                        C27.333,21.198,25.768,21.797,24.114,21.797 M24.114,9.039c-2.996,0-5.433,2.437-5.433,5.432c0,2.996,2.437,5.433,5.433,5.433\n                        s5.432-2.437,5.432-5.433C29.546,11.476,27.109,9.039,24.114,9.039 M57.415,19.957V8.741h2.732l0.167-0.111\n                        c1.099-0.846,2.379-1.313,3.698-1.448v1.906c-2.474,0.332-4.319,2.328-4.598,4.799l-0.015,0.228l-0.005,0.473v5.37H57.415z\n                         M51.808,19.957V7.422h-2.309V5.443h2.309V0h1.979v5.443h2.144v1.979h-2.144v12.535H51.808z M46.695,19.957v-6.103\n                        c-0.16-2.616-2.559-4.816-5.347-4.816c-2.787,0-5.539,2.518-5.539,4.828v0.836v0.74v4.515h-1.814V8.576h2.868l0.192-0.085\n                        c1.261-0.915,2.746-1.372,4.292-1.372c4.037,0,7.32,3.294,7.326,7.329l0.002,0.016c-0.003,0.038-0.002,0.083-0.002,0.124v0.768\n                        v4.602H46.695z\"></path>\n                </g>\n            </svg>\n                </a>\n            </section>\n        </nav>\n    </div>\n</div>\n                <div class=\"g-grid\">\n                    <div class=\"g-block main-block\">\n                        <section id=\"g-main\">\n                            <div class=\"g-content\" data-g5-content=\"\">\n                                        <style>\n        .CodeMirror.cm-s-default.CodeMirror-wrap {\n            font-family: monospace !important;\n            line-height: 1.5 !important;\n        }\n\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-scroll {\n            overflow-y: auto !important;\n            overflow-x: auto !important;\n            min-height: 500px !important;\n        }\n\n        /* Fix for the first character selection while minimizing left padding */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-line {\n            font-size: 14px !important;\n            line-height: 20px !important;\n            padding: 1px 4px 1px 0 !important; /* Zero left padding */\n            margin: 0 !important;\n            box-sizing: border-box !important;\n            z-index: 2 !important;\n        }\n\n        /* No padding or margin for text spans */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-line > span {\n            padding-left: 0 !important;\n            margin-left: 0 !important;\n        }\n\n        /* Selection color */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-selected,\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-focused .CodeMirror-selected {\n            background-color: rgba(66, 139, 202, 0.3) !important;\n            z-index: 1 !important;\n        }\n\n        /* Scrolling behavior */\n        .CodeMirror {\n            overflow-y: auto !important;\n            max-height: 750px !important;\n        }\n\n        /* Line numbers */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-linenumber {\n            font-size: 14px !important;\n            line-height: 20px !important;\n            min-height: 20px !important;\n            text-align: right !important;\n            padding: 2px 3px 0 5px !important;\n        }\n\n        /* Gutters */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-gutters {\n            height: 100% !important;\n            z-index: 3 !important;\n            display: none !important; /* Hide gutters completely */\n        }\n\n        /* Cursor */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-cursor {\n            height: 20px !important;\n            z-index: 3 !important;\n        }\n\n        /* Pre elements */\n        .CodeMirror.cm-s-default.CodeMirror-wrap pre.CodeMirror-line,\n        .CodeMirror.cm-s-default.CodeMirror-wrap pre.CodeMirror-line-like {\n            padding: 0 !important;\n            z-index: 2 !important;\n        }\n\n        /* Text styling */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .cm-variable,\n        .CodeMirror.cm-s-default.CodeMirror-wrap .cm-property,\n        .CodeMirror.cm-s-default.CodeMirror-wrap .cm-operator,\n        .CodeMirror.cm-s-default.CodeMirror-wrap .cm-string,\n        .CodeMirror.cm-s-default.CodeMirror-wrap .cm-number,\n        .CodeMirror.cm-s-default.CodeMirror-wrap .cm-comment,\n        .CodeMirror.cm-s-default.CodeMirror-wrap .cm-keyword {\n            font-family: monospace !important;\n            font-size: 14px !important;\n            line-height: 20px !important;\n        }\n\n        /* Critical fixes for left margin and indentation */\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-sizer {\n            margin-left: 0 !important; /* Remove left margin completely */\n        }\n\n        .CodeMirror.cm-s-default.CodeMirror-wrap .CodeMirror-lines {\n            padding: 4px 0 !important;\n        }\n\n        .CodeMirror-code {\n            margin-left: 0 !important;\n            padding-left: 0 !important;\n        }\n\n        .CodeMirror-code > div {\n            padding-left: 0 !important;\n            text-indent: 0 !important;\n        }\n\n        /* More aggressive left alignment */\n        .CodeMirror-gutter-wrapper {\n            display: none !important; /* Hide gutter wrapper */\n        }\n\n        /* Force all content to start at left edge */\n        .CodeMirror-measure pre,\n        .CodeMirror pre {\n            padding-left: 0 !important;\n            margin-left: 0 !important;\n        }\n\n        /* Ensure left padding is zero for all relevant elements */\n        .CodeMirror * {\n            padding-left: 0 !important;\n        }\n\n        /* Apply small left padding only to the outermost container */\n        .CodeMirror.cm-s-default.CodeMirror-wrap {\n            padding-left: 8px !important; /* Small uniform padding */\n        }\n    </style>\n\n            <div id=\"page-settings\">\n                \n            <form method=\"post\">\n            <div data-set-page=\"default\" data-set-root=\"\">\n                <span class=\"float-right\">\n                    <button type=\"submit\" class=\"button button-primary button-save\" data-save=\"Page Settings\">\n                        <i class=\"fa fa-fw fa-check\" aria-hidden=\"true\"></i> <span>Save Page Settings</span></button>\n                </span>\n                                                            <h2 class=\"page-title\">\n                            <span class=\"title\">Global Page Settings</span>\n                        </h2>\n\n                        <div class=\"g-filter-actions\">\n                            <div class=\"g-panel-filters\" data-g-global-filter=\"\">\n                                <div class=\"search settings-block\">\n                                    <input type=\"text\" data-g-collapse-filter=\"\" placeholder=\"Filter Global...\" aria-label=\"Filter Global...\" role=\"searchbox\">\n                                    <i class=\"fa fa-fw fa-search\" aria-hidden=\"true\"></i>\n                                </div>\n                                <button class=\"button\" type=\"button\" data-g-collapse-all=\"true\"><i class=\"far fa-fw fa-caret-square-up\" aria-hidden=\"true\"></i> Collapse All</button>\n                                <button class=\"button\" type=\"button\" data-g-collapse-all=\"false\"><i class=\"far fa-fw fa-caret-square-down\" aria-hidden=\"true\"></i> Expand All</button>\n                            </div>\n                        </div>\n\n                        <div class=\"g-grid\">\n                                                                                                                                                                                                                                                <div style=\"width: 100%\" class=\"card settings-block\">\n                                                                                <input type=\"hidden\" name=\"page[head]\">\n                                        <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;page.head.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"page.head.\">\n                                            <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\"><i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i></span>\n                                            <span class=\"g-title\">Head Properties</span>\n\n                                                                                    </h4>\n\n                                        <div class=\"inner-params\">\n                                                                                        \n\n            \n                                        \n                    \n                <div class=\"settings-param collection-keyvalue\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Meta Tags for extras such as Facebook and Twitter.\" data-tip-place=\"top-right\" aria-label=\"Meta Tags for extras such as Facebook and Twitter.\" data-title=\"Meta Tags for extras such as Facebook and Twitter.\">\n                            Meta Tags\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <div class=\"g-keyvalue-field\">\n        <ul>                                <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"og:title\" value=\"og:title\" placeholder=\"og:title, og:site_name, twitter:site\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"St. Gertrude\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"og:image\" value=\"og:image\" placeholder=\"og:title, og:site_name, twitter:site\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"/template/apple-touch-icon.png\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"mobile-web-app-capable\" value=\"mobile-web-app-capable\" placeholder=\"og:title, og:site_name, twitter:site\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"yes\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"apple-mobile-web-app-status-bar-style\" value=\"apple-mobile-web-app-status-bar-style\" placeholder=\"og:title, og:site_name, twitter:site\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"black\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"apple-mobile-web-app-title\" value=\"apple-mobile-web-app-title\" placeholder=\"og:title, og:site_name, twitter:site\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"St. Gertrude\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"theme-color\" value=\"theme-color\" placeholder=\"og:title, og:site_name, twitter:site\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"#397caa\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"msapplication-TileColor\" value=\"msapplication-TileColor\" placeholder=\"og:title, og:site_name, twitter:site\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"#397caa\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                            </ul>\n\n        <span class=\"button button-simple\" data-keyvalue-addnew=\"\" title=\"Add new item\"><i class=\"fa fa-plus font-small\" aria-hidden=\"true\"></i></span>\n    </div>\n    <ul style=\"display: none\">\n        <li data-keyvalue-nosort=\"\" data-keyvalue-template=\"\">\n            <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n            <div class=\"g-keyvalue-wrapper\">\n                <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"\" value=\"\" placeholder=\"og:title, og:site_name, twitter:site\">\n                <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"\" placeholder=\"Value\">\n            </div>\n            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n        </li>\n    </ul>\n    <input type=\"hidden\" data-keyvalue-data=\"\" data-keyvalue-exclude=\"[]\" name=\"page[head][meta][_json]\" value=\"[{&quot;og:title&quot;:&quot;St. Gertrude&quot;},{&quot;og:image&quot;:&quot;/template/apple-touch-icon.png&quot;},{&quot;mobile-web-app-capable&quot;:&quot;yes&quot;},{&quot;apple-mobile-web-app-status-bar-style&quot;:&quot;black&quot;},{&quot;apple-mobile-web-app-title&quot;:&quot;St. Gertrude&quot;},{&quot;theme-color&quot;:&quot;#397caa&quot;},{&quot;msapplication-TileColor&quot;:&quot;#397caa&quot;}]\">\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param textarea-custom\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Anything in this field will be appended to the head tag\" data-tip-place=\"top-right\" aria-label=\"Anything in this field will be appended to the head tag\" data-title=\"Anything in this field will be appended to the head tag\">\n                            Custom Content\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        \n<p class=\"label\"></p>\n\n<textarea class=\"\" name=\"page[head][head_bottom]\" id=\"page[head][head_bottom]\" cols=\"50\" rows=\"8\" data-options=\"{&quot;autofocus&quot;:false,&quot;lineWrapping&quot;:1,&quot;styleActiveLine&quot;:false,&quot;highlightSelectionMatches&quot;:false,&quot;lineNumbers&quot;:0,&quot;gutters&quot;:[&quot;CodeMirror-linenumbers&quot;,&quot;CodeMirror-foldgutter&quot;,&quot;CodeMirror-markergutter&quot;],&quot;foldGutter&quot;:true,&quot;markerGutter&quot;:0,&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;theme&quot;:&quot;default&quot;,&quot;autoCloseTags&quot;:1,&quot;matchTags&quot;:0,&quot;scrollbarStyle&quot;:&quot;native&quot;,&quot;keyMap&quot;:&quot;default&quot;,&quot;keymap&quot;:&quot;default&quot;,&quot;activeLine&quot;:0,&quot;codeFolding&quot;:0,&quot;matchBrackets&quot;:1,&quot;autoCloseBrackets&quot;:0,&quot;selectionMatches&quot;:0,&quot;activeLineColor&quot;:&quot;#FFFFFF&quot;,&quot;fontFamily&quot;:&quot;monospace&quot;,&quot;fullScreen&quot;:false,&quot;smartIndent&quot;:1,&quot;indentWithTabs&quot;:1,&quot;tabSize&quot;:4,&quot;indentUnit&quot;:4,&quot;tabMode&quot;:&quot;indent&quot;,&quot;caseSensitive&quot;:0,&quot;multipleCursors&quot;:1,&quot;showTrailingSpace&quot;:1,&quot;showInvisibles&quot;:0}\" style=\"display: none;\">&lt;link rel=\"apple-touch-startup-image\" href=\"/template/logo-icon.png\"&gt;\n&lt;link rel=\"manifest\" href=\"/content/pwa.webmanifest\"&gt;\n&lt;style&gt;\n/*FONTS ex: @import url('... */\n@import url('//fonts.googleapis.com/css2?family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&amp;family=Style+Script&amp;display=swap');\n/****** SITE DEFAULTS ************/\nhtml body {\n--primary-color-rgb: 25,95,147;     /* Steel Blue (#195f93) */\n--secondary-color-rgb: 255,195,115;  /* Soft Gold (#ffc373) */\n--tertiary-color-rgb: 168,67,50;     /* Rust Red (#a84332) */\n--background-color-rgb: 249,243,234; /* Warm Cream (#f9f3ea) */\n--default-white-rgb: 255,255,255;\n--default-black-rgb: 0,0,0;\n\t\n--background-color: rgba(var(--background-color-rgb),1);\n\n--title-font-family: 'Style Script', script;\n--body-font-family: 'Neuton', serif;\n\t\n--last-break-point: 50.99rem;\n--site-max-width: 1920px;\n\t\n--slideshow-height: min(56.25vw, 810px);\n--slideshow-width: min(100vw, 1440px);\n\t\n--slideshow-height-mobile: 56.25vw;\n--slideshow-width-mobile: 100vw;\n\t\n--gl-num-boxes: 5;\n\t\n}\n&lt;/style&gt;\n\n</textarea><div class=\"CodeMirror cm-s-default CodeMirror-wrap\"><div style=\"overflow: hidden; position: relative; width: 3px; height: 0px; top: 5px; left: 9px;\"><textarea autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\" style=\"position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;\" tabindex=\"0\"></textarea></div><div class=\"CodeMirror-vscrollbar\" tabindex=\"-1\" cm-not-content=\"true\" style=\"width: 18px; pointer-events: none;\"><div style=\"min-width: 1px; height: 0px;\"></div></div><div class=\"CodeMirror-hscrollbar\" tabindex=\"-1\" cm-not-content=\"true\" style=\"height: 18px; pointer-events: none;\"><div style=\"height: 100%; min-height: 1px; width: 0px;\"></div></div><div class=\"CodeMirror-scrollbar-filler\" cm-not-content=\"true\"></div><div class=\"CodeMirror-gutter-filler\" cm-not-content=\"true\"></div><div class=\"CodeMirror-scroll\" tabindex=\"-1\"><div class=\"CodeMirror-sizer\" style=\"margin-left: 32px; margin-bottom: 0px; border-right-width: 50px; min-height: 688px; padding-right: 0px; padding-bottom: 0px;\"><div style=\"position: relative; top: 0px;\"><div class=\"CodeMirror-lines\" role=\"presentation\"><div role=\"presentation\" style=\"position: relative; outline: none;\"><div class=\"CodeMirror-measure\"><span><span>​</span>x</span></div><div class=\"CodeMirror-measure\"></div><div style=\"position: relative; z-index: 1;\"></div><div class=\"CodeMirror-cursors\"><div class=\"CodeMirror-cursor\" style=\"left: 0px; top: 0px; height: 20px;\">&nbsp;</div></div><div class=\"CodeMirror-code\" role=\"presentation\" style=\"\"><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">link</span> <span class=\"cm-attribute\">rel</span>=<span class=\"cm-string\">\"apple-touch-startup-image\"</span> <span class=\"cm-attribute\">href</span>=<span class=\"cm-string\">\"/template/logo-icon.png\"</span><span class=\"cm-tag cm-bracket\">&gt;</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">link</span> <span class=\"cm-attribute\">rel</span>=<span class=\"cm-string\">\"manifest\"</span> <span class=\"cm-attribute\">href</span>=<span class=\"cm-string\">\"/content/pwa.webmanifest\"</span><span class=\"cm-tag cm-bracket\">&gt;</span></span></pre><div style=\"position: relative;\"><div class=\"CodeMirror-gutter-wrapper\" style=\"left: 0px;\"><div class=\"CodeMirror-gutter-elt\" style=\"left: 0px; width: 0px;\"><div class=\"CodeMirror-foldgutter-open CodeMirror-guttermarker-subtle\"></div></div></div><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">style</span><span class=\"cm-tag cm-bracket\">&gt;</span></span></pre></div><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-comment\">/*FONTS ex: @import url('... */</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-def\">@import</span> <span class=\"cm-variable cm-callee\">url</span>(<span class=\"cm-string\">'//fonts.googleapis.com/css2?family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&amp;family=Style+Script&amp;display=swap'</span>);</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-comment\">/****** SITE DEFAULTS ************/</span></span></pre><div style=\"position: relative;\"><div class=\"CodeMirror-gutter-wrapper\" style=\"left: 0px;\"><div class=\"CodeMirror-gutter-elt\" style=\"left: 0px; width: 0px;\"><div class=\"CodeMirror-foldgutter-open CodeMirror-guttermarker-subtle\"></div></div></div><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-tag\">html</span> <span class=\"cm-tag\">body</span> {</span></pre></div><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--primary-color-rgb</span>: <span class=\"cm-number\">25</span>,<span class=\"cm-number\">95</span>,<span class=\"cm-number\">147</span>; &nbsp; &nbsp; <span class=\"cm-comment\">/* Steel Blue (#195f93) */</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--secondary-color-rgb</span>: <span class=\"cm-number\">255</span>,<span class=\"cm-number\">195</span>,<span class=\"cm-number\">115</span>; &nbsp;<span class=\"cm-comment\">/* Soft Gold (#ffc373) */</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--tertiary-color-rgb</span>: <span class=\"cm-number\">168</span>,<span class=\"cm-number\">67</span>,<span class=\"cm-number\">50</span>; &nbsp; &nbsp; <span class=\"cm-comment\">/* Rust Red (#a84332) */</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--background-color-rgb</span>: <span class=\"cm-number\">249</span>,<span class=\"cm-number\">243</span>,<span class=\"cm-number\">234</span>; <span class=\"cm-comment\">/* Warm Cream (#f9f3ea) */</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--default-white-rgb</span>: <span class=\"cm-number\">255</span>,<span class=\"cm-number\">255</span>,<span class=\"cm-number\">255</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--default-black-rgb</span>: <span class=\"cm-number\">0</span>,<span class=\"cm-number\">0</span>,<span class=\"cm-number\">0</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" class=\"cm-tab-wrap-hack\" style=\"padding-right: 0.1px;\"><span class=\"cm-tab\" role=\"presentation\" cm-text=\"\t\">    </span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--background-color</span>: <span class=\"cm-variable cm-callee\">rgba</span>(<span class=\"cm-variable cm-callee\">var</span>(<span class=\"cm-variable-2\">--background-color-rgb</span>),<span class=\"cm-number\">1</span>);</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span cm-text=\"\">​</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--title-font-family</span>: <span class=\"cm-string\">'Style Script'</span>, <span class=\"cm-variable\">script</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--body-font-family</span>: <span class=\"cm-string\">'Neuton'</span>, <span class=\"cm-atom\">serif</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" class=\"cm-tab-wrap-hack\" style=\"padding-right: 0.1px;\"><span class=\"cm-tab\" role=\"presentation\" cm-text=\"\t\">    </span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--last-break-point</span>: <span class=\"cm-number\">50.99rem</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--site-max-width</span>: <span class=\"cm-number\">1920px</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" class=\"cm-tab-wrap-hack\" style=\"padding-right: 0.1px;\"><span class=\"cm-tab\" role=\"presentation\" cm-text=\"\t\">    </span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--slideshow-height</span>: <span class=\"cm-variable cm-callee\">min</span>(<span class=\"cm-number\">56.25vw</span>, <span class=\"cm-number\">810px</span>);</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--slideshow-width</span>: <span class=\"cm-variable cm-callee\">min</span>(<span class=\"cm-number\">100vw</span>, <span class=\"cm-number\">1440px</span>);</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" class=\"cm-tab-wrap-hack\" style=\"padding-right: 0.1px;\"><span class=\"cm-tab\" role=\"presentation\" cm-text=\"\t\">    </span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--slideshow-height-mobile</span>: <span class=\"cm-number\">56.25vw</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--slideshow-width-mobile</span>: <span class=\"cm-number\">100vw</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" class=\"cm-tab-wrap-hack\" style=\"padding-right: 0.1px;\"><span class=\"cm-tab\" role=\"presentation\" cm-text=\"\t\">    </span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-variable-2\">--gl-num-boxes</span>: <span class=\"cm-number\">5</span>;</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" class=\"cm-tab-wrap-hack\" style=\"padding-right: 0.1px;\"><span class=\"cm-tab\" role=\"presentation\" cm-text=\"\t\">    </span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\">}</span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span class=\"cm-tag cm-bracket\">&lt;/</span><span class=\"cm-tag\">style</span><span class=\"cm-tag cm-bracket\">&gt;</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span cm-text=\"\">​</span></span></pre><pre class=\" CodeMirror-line \" role=\"presentation\"><span role=\"presentation\" style=\"padding-right: 0.1px;\"><span cm-text=\"\">​</span></span></pre></div></div></div></div></div><div style=\"position: absolute; height: 50px; width: 1px; border-bottom: 0px solid transparent; top: 688px;\"></div><div class=\"CodeMirror-gutters\" style=\"height: 738px;\"><div class=\"CodeMirror-gutter CodeMirror-foldgutter\"></div><div class=\"CodeMirror-gutter CodeMirror-markergutter\"></div></div></div></div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-hidden\">\n                            <span class=\"settings-param-title float-left\">\n                            </span>\n            <div class=\"settings-param-field\">\n                                                                \n    <input type=\"hidden\" name=\"page[head][atoms][_json]\" value=\"[{&quot;type&quot;:&quot;frameworks&quot;,&quot;title&quot;:&quot;JavaScript Frameworks&quot;,&quot;attributes&quot;:{&quot;enabled&quot;:&quot;1&quot;,&quot;jquery&quot;:{&quot;enabled&quot;:&quot;1&quot;,&quot;ui_core&quot;:&quot;1&quot;,&quot;ui_sortable&quot;:&quot;0&quot;},&quot;bootstrap&quot;:{&quot;enabled&quot;:&quot;0&quot;},&quot;mootools&quot;:{&quot;enabled&quot;:&quot;0&quot;,&quot;more&quot;:&quot;0&quot;}},&quot;id&quot;:&quot;frameworks-1582&quot;}]\" data-override-target=\"#atoms .atoms-list + input[type=&quot;checkbox&quot;]\" aria-label=\"Page Head Atoms _Json\">\n                            </div>\n            </div>\n                                                    </div>\n                                    </div>\n                                                                                                                                                                                                                                                                                <div class=\"card settings-block\">\n                                                                                <input type=\"hidden\" name=\"page[assets]\">\n                                        <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;page.assets.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"page.assets.\">\n                                            <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\"><i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i></span>\n                                            <span class=\"g-title\">Assets</span>\n\n                                                                                    </h4>\n\n                                        <div class=\"inner-params\">\n                                                                                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Favicon\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"page[assets][favicon]\" value=\"gantry-media://template/favicon.png\" aria-label=\"Page Assets Favicon\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Favicon\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;page[assets][favicon]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.(jpe?g|gif|png|svg|ico)$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"page[assets][favicon]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-imagepicker\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"A PNG only image that will be used as icon for Touch Devices. Recommended 180x180 or 192x192.\" data-tip-place=\"top-right\" aria-label=\"A PNG only image that will be used as icon for Touch Devices. Recommended 180x180 or 192x192.\" data-title=\"A PNG only image that will be used as icon for Touch Devices. Recommended 180x180 or 192x192.\">\n                            Touch Icon\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                <div class=\"g-filepicker\">\n        <div class=\"input-group append\">\n            <input type=\"text\" name=\"page[assets][touchicon]\" value=\"gantry-media://template/apple-touch-icon.png\" aria-label=\"Page Assets Touchicon\">\n                        <span class=\"input-group-btn\">\n                <button class=\"button\" type=\"button\" aria-label=\"Select Touch Icon\" data-g5-filepicker=\"{&quot;field&quot;:&quot;input[name=\\&quot;page[assets][touchicon]\\&quot;]&quot;,&quot;root&quot;:&quot;gantry-media:\\/\\/&quot;,&quot;filter&quot;:&quot;.png$&quot;}\">\n                    <i class=\"far fa-file-image\" aria-hidden=\"true\"></i>\n                </button>\n            </span>\n                                            <span class=\"g-reset-field\" data-g-reset-field=\"page[assets][touchicon]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                    </div>\n    </div>\n\n                            </div>\n            </div>\n                    \n                                        \n                    \n                \n                                <div class=\"settings-param collection-list\">\n                                                        <span class=\"settings-param-title float-left\">\n                                                                                                    <span aria-label=\"Add remove or modify custom CSS assets.\" data-tip=\"Add remove or modify custom CSS assets.\" data-tip-place=\"top-right\">CSS</span>\n                                                \n                                    </span>\n                <div class=\"settings-param-field\" data-field-name=\"css\">\n                    <div class=\"g5-collection-wrapper\">\n                        <ul>                                                                            <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/0&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Override\" class=\"g-title\">Override</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Override'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/1&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"To Merge\" class=\"g-title\">To Merge</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'To Merge'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/2&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Variables\" class=\"g-title\">Variables</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Variables'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/3&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Local Images\" class=\"g-title\">Local Images</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Local Images'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/4&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"PWA\" class=\"g-title\">PWA</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'PWA'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/5&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Solutio Font Icons\" class=\"g-title\">Solutio Font Icons</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Solutio Font Icons'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/6&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Fonts\" class=\"g-title\">Fonts</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Fonts'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/7&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Studius\" class=\"g-title\">Studius</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Studius'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/8&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Section\" class=\"g-title\">Section</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Section'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/9&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Navigation\" class=\"g-title\">Navigation</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Navigation'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/10&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Slideshow\" class=\"g-title\">Slideshow</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Slideshow'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/11&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Quicklinks\" class=\"g-title\">Quicklinks</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Quicklinks'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/12&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Headlines\" class=\"g-title\">Headlines</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Headlines'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/13&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Widgets\" class=\"g-title\">Widgets</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Widgets'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/14&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Footer\" class=\"g-title\">Footer</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Footer'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/15&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Grid\" class=\"g-title\">Grid</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Grid'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/16&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Sponsorship\" class=\"g-title\">Sponsorship</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Sponsorship'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/17&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Base\" class=\"g-title\">Base</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Base'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/18&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"AOS\" class=\"g-title\">AOS</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'AOS'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                    </ul>\n                    </div>\n                    <div>\n                        <ul style=\"display: none\">\n                            <li data-collection-nosort=\"\" data-collection-template=\"name\" style=\"display: none;\">\n                                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css/%id%&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"New item\" class=\"title\">New item</span></a>\n                                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" data-title-edit=\"\"></i>\n                            </li>\n                        </ul>\n                        <span class=\"collection-addnew button button-simple\" data-collection-addnew=\"\" title=\"Add new item\"><i class=\"fa fa-plus font-small\" aria-hidden=\"true\"></i></span>                        <a href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/css&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\" class=\"collection-editall button button-simple\" data-collection-editall=\"\" title=\"Edit all items\"><i class=\"fa fa-th-large font-small\" aria-hidden=\"true\"></i></a>\n                    </div>\n                    <input data-collection-data=\"\" name=\"page[assets][css][_json]\" type=\"hidden\" value=\"[{&quot;location&quot;:&quot;content/override.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;1&quot;,&quot;name&quot;:&quot;Override&quot;},{&quot;location&quot;:&quot;content/to-merge.css&quot;,&quot;inline&quot;:&quot;/* ============================================================\\n   SHARED VISUAL STYLES (all variants)\\n   ============================================================ */\\n\\n/* date block */\\n.verticalcal  .gcaltohtml .cc-dateblockformat,\\n.horizontalcaltopdate  .gcaltohtml .cc-dateblockformat,\\n.horizontalcalsidedate  .gcaltohtml .cc-dateblockformat {\\n  background: var(--primary-color);\\n  color: #fff;\\n  padding: 8px 6px;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  justify-content: center;\\n  text-transform: uppercase;\\n  box-sizing: border-box;\\n}\\n\\n.verticalcal  .gcaltohtml .cc-monthformat,\\n.horizontalcaltopdate  .gcaltohtml .cc-monthformat,\\n.horizontalcalsidedate  .gcaltohtml .cc-monthformat {\\n  font-size: 0.75rem;\\n  letter-spacing: 0.06em;\\n  margin-bottom: 2px;\\n}\\n\\n.verticalcal  .gcaltohtml .cc-dayformat,\\n.horizontalcaltopdate  .gcaltohtml .cc-dayformat,\\n.horizontalcalsidedate  .gcaltohtml .cc-dayformat {\\n  font-size: 1.4rem;\\n  font-weight: 700;\\n  line-height: 1;\\n}\\n\\n/* event block */\\n.verticalcal  .gcaltohtml .cc-eventblock,\\n.horizontalcaltopdate  .gcaltohtml .cc-eventblock,\\n.horizontalcalsidedate  .gcaltohtml .cc-eventblock {\\n  background: var(--default-white);\\n  padding: 10px 14px;\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  box-sizing: border-box;\\n}\\n\\n/* individual events */\\n.verticalcal  .gcaltohtml .event,\\n.horizontalcaltopdate  .gcaltohtml .event,\\n.horizontalcalsidedate  .gcaltohtml .event {\\n  display: flex;\\n  align-items: center;\\n  gap: 8px;\\n  margin-bottom: 4px;\\n}\\n\\n.verticalcal  .gcaltohtml .event:last-child,\\n.horizontalcaltopdate  .gcaltohtml .event:last-child,\\n.horizontalcalsidedate  .gcaltohtml .event:last-child {\\n  margin-bottom: 0;\\n}\\n\\n/* time pill */\\n.verticalcal  .gcaltohtml .cc-timeofday,\\n.horizontalcaltopdate  .gcaltohtml .cc-timeofday,\\n.horizontalcalsidedate  .gcaltohtml .cc-timeofday {\\n  font-size: 0.75rem;\\n  font-weight: 700;\\n  background: #e3e6ee;\\n  padding: 3px 8px;\\n  border-radius: 999px;\\n  white-space: nowrap;\\n}\\n\\n/* title text */\\n.verticalcal  .gcaltohtml .cc-title,\\n.horizontalcaltopdate  .gcaltohtml .cc-title,\\n.horizontalcalsidedate  .gcaltohtml .cc-title {\\n  font-size: 0.88rem;\\n  line-height: 1.25;\\n}\\n\\n/* reset margin around generated block */\\n.verticalcal  .gcaltohtml,\\n.horizontalcaltopdate  .gcaltohtml,\\n.horizontalcalsidedate  .gcaltohtml {\\n  margin: 0;\\n}\\n\\n/* ============================================================\\n   1) VERTICAL LAYOUT  (.verticalcal)\\n   date on the left, events on the right\\n   ============================================================ */\\n\\n.verticalcal {\\n  width: 100%;\\n}\\n\\n.verticalcal .gcaltohtml {\\n  display: grid;\\n  grid-template-columns: minmax(90px, auto) minmax(0, 1fr);\\n  width: 100%;\\n}\\n\\n/* card rounding + shadow */\\n.verticalcal .gcaltohtml .cc-dateblockformat {\\n  border-radius: 6px 0 0 6px;\\n  margin-bottom: 10px;\\n}\\n\\n.verticalcal .gcaltohtml .cc-eventblock {\\n  border-radius: 0 6px 6px 0;\\n  margin-bottom: 10px;\\n  box-shadow: 0 2px 4px rgba(0,0,0,0.12);\\n}\\n\\n/* mobile: allow stacking if you want full-width look */\\n@media (max-width: 480px) {\\n  .verticalcal .gcaltohtml {\\n    grid-template-columns: 1fr;\\n  }\\n\\n  .verticalcal .gcaltohtml .cc-dateblockformat,\\n  .verticalcal .gcaltohtml .cc-eventblock {\\n    border-radius: 6px;\\n  }\\n}\\n\\n/* ============================================================\\n   2) HORIZONTAL \\u2013 DATE ON TOP (.horizontalcaltopdate)\\n   cards side-by-side, date above events\\n   ============================================================ */\\n\\n.horizontalcaltopdate {\\n  width: 100%;\\n  overflow-x: auto;        /* horizontal scroll if needed */\\n}\\n\\n.horizontalcaltopdate .gcaltohtml {\\n  display: grid;\\n  grid-auto-flow: column;\\n  grid-auto-columns: minmax(230px, 1fr);  /* card width */\\n  grid-template-rows: auto auto;          /* row 1: date, row 2: events */\\n  column-gap: 16px;\\n  padding: 0.5rem 0;\\n  justify-content: center;                /* center cards when extra room */\\n}\\n\\n/* pair items: every date sits in row 1, its following event in row 2 */\\n.horizontalcaltopdate .gcaltohtml &gt; .cc-dateblockformat {\\n  grid-row: 1;\\n  margin-bottom: 0;\\n  border-radius: 6px 6px 0 0;\\n}\\n\\n.horizontalcaltopdate .gcaltohtml &gt; .cc-eventblock {\\n  grid-row: 2;\\n  margin-bottom: 0;\\n  border-radius: 0 6px 6px 6px;\\n  box-shadow: 0 2px 4px rgba(0,0,0,0.12);\\n}\\n\\n/* mobile: fall back to vertical-like layout */\\n@media (max-width: 768px) {\\n  .horizontalcaltopdate {\\n    overflow-x: visible;\\n  }\\n\\n  .horizontalcaltopdate .gcaltohtml {\\n    grid-auto-flow: row;\\n    grid-auto-columns: unset;\\n    grid-template-rows: unset;\\n    grid-template-columns: minmax(90px, auto) minmax(0, 1fr);\\n  }\\n\\n  .horizontalcaltopdate .gcaltohtml &gt; .cc-dateblockformat {\\n    grid-row: auto;\\n    border-radius: 6px 0 0 6px;\\n    margin-bottom: 10px;\\n  }\\n\\n  .horizontalcaltopdate .gcaltohtml &gt; .cc-eventblock {\\n    grid-row: auto;\\n    border-radius: 0 6px 6px 0;\\n    margin-bottom: 10px;\\n  }\\n}\\n\\n/* ============================================================\\n   3) HORIZONTAL \\u2013 DATE ON SIDE (.horizontalcalsidedate)\\n   cards side-by-side, date as left bar, events as right panel\\n   (NO HTML CHANGES \\u2013 uses flex + negative margin)\\n   ============================================================ */\\n\\n.horizontalcalsidedate {\\n  width: 100%;\\n  overflow-x: auto;                 /* scroll if not enough room */\\n}\\n\\n/* row of \\&quot;cards\\&quot; \\u2013 children are date/event/date/event/... */\\n.horizontalcalsidedate .gcaltohtml {\\n  display: flex;\\n  gap: 16px;                        /* logical card spacing */\\n  padding: 0.5rem 0;\\n  justify-content: center;          /* center cards if extra room */\\n}\\n\\n/* DATE COLUMN (left navy bar) */\\n.horizontalcalsidedate .gcaltohtml .cc-dateblockformat {\\n  width: 70px;                      /* left bar width */\\n  border-radius: 8px 0 0 8px;\\n  margin-right: -16px;              /* cancel internal gap to its event */\\n  align-self: stretch;\\n}\\n\\n/* EVENT PANEL (right white card) */\\n.horizontalcalsidedate .gcaltohtml .cc-eventblock {\\n  min-width: 230px;\\n  border-radius: 0 8px 8px 8px;\\n  box-shadow: 0 2px 4px rgba(0,0,0,0.15);\\n}\\n\\n/* keep events nicely centered vertically when there are few */\\n.horizontalcalsidedate .gcaltohtml .cc-eventblock {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n}\\n\\n/* mobile: stack cards vertically again */\\n@media (max-width: 768px) {\\n  .horizontalcalsidedate {\\n    overflow-x: visible;\\n  }\\n\\n  .horizontalcalsidedate .gcaltohtml {\\n    flex-direction: column;\\n    gap: 10px;\\n  }\\n\\n  .horizontalcalsidedate .gcaltohtml .cc-dateblockformat {\\n    width: auto;\\n    margin-right: 0;\\n    border-radius: 6px 0 0 6px;\\n  }\\n\\n  .horizontalcalsidedate .gcaltohtml .cc-eventblock {\\n    border-radius: 0 6px 6px 0;\\n    min-width: 0;\\n  }\\n}\\n&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;To Merge&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/variables.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;2&quot;,&quot;name&quot;:&quot;Variables&quot;},{&quot;location&quot;:&quot;content/local-images.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;Local Images&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/pwa.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;PWA&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/solutio-font.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;3&quot;,&quot;name&quot;:&quot;Solutio Font Icons&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/fonts2.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;3&quot;,&quot;name&quot;:&quot;Fonts&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/studius.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;4&quot;,&quot;name&quot;:&quot;Studius&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/section.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Section&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/navigation.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Navigation&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/slideshow.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Slideshow&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/quicklinks.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Quicklinks&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/headlines.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Headlines&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/widgets.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Widgets&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/footer.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Footer&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/grid.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Grid&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/sponsorship2.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;10&quot;,&quot;name&quot;:&quot;Sponsorship&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/css2/base.2.0.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;10&quot;,&quot;name&quot;:&quot;Base&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/aos.css&quot;,&quot;inline&quot;:&quot;&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;AOS&quot;}]\">\n                                    </div>\n                    </div>\n                        \n                                        \n                    \n                \n                                <div class=\"settings-param collection-list\">\n                                                        <span class=\"settings-param-title float-left\">\n                                                                                                    <span aria-label=\"Add remove or modify custom Javascript assets.\" data-tip=\"Add remove or modify custom Javascript assets.\" data-tip-place=\"top-right\">Javascript</span>\n                                                \n                                    </span>\n                <div class=\"settings-param-field\" data-field-name=\"javascript\">\n                    <div class=\"g5-collection-wrapper\">\n                        <ul>                                                                            <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/javascript/0&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Studius\" class=\"g-title\">Studius</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Studius'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/javascript/1&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Site\" class=\"g-title\">Site</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Site'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/javascript/2&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"Directory\" class=\"g-title\">Directory</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'Directory'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/javascript/3&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"JS Calls\" class=\"g-title\">JS Calls</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'JS Calls'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                                                                                                <li data-collection-item=\"name\">\n                                                                                        <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                            <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/javascript/4&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"AOS\" class=\"g-title\">AOS</span></a>\n                                            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                            <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                            <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title 'AOS'\" data-title-edit=\"\"></i>\n                                        </li>\n                                                                    </ul>\n                    </div>\n                    <div>\n                        <ul style=\"display: none\">\n                            <li data-collection-nosort=\"\" data-collection-template=\"name\" style=\"display: none;\">\n                                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>                                <a class=\"config-cog\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/javascript/%id%&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\"><span data-title-editable=\"New item\" class=\"title\">New item</span></a>\n                                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-collection-remove=\"\"></i>                                <i class=\"far fa-fw fa-copy font-small\" aria-hidden=\"true\" data-collection-duplicate=\"\"></i>                                <i class=\"fa fa-fw fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" data-title-edit=\"\"></i>\n                            </li>\n                        </ul>\n                        <span class=\"collection-addnew button button-simple\" data-collection-addnew=\"\" title=\"Add new item\"><i class=\"fa fa-plus font-small\" aria-hidden=\"true\"></i></span>                        <a href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page/assets/javascript&amp;theme=rt_studius&amp;3597e82f370415775e059d8bc10621a4=1\" class=\"collection-editall button button-simple\" data-collection-editall=\"\" title=\"Edit all items\"><i class=\"fa fa-th-large font-small\" aria-hidden=\"true\"></i></a>\n                    </div>\n                    <input data-collection-data=\"\" name=\"page[assets][javascript][_json]\" type=\"hidden\" value=\"[{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/studius2.js&quot;,&quot;inline&quot;:&quot;&quot;,&quot;in_footer&quot;:&quot;0&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;Studius&quot;},{&quot;location&quot;:&quot;content/site.js&quot;,&quot;inline&quot;:&quot;&quot;,&quot;in_footer&quot;:&quot;0&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;Site&quot;},{&quot;location&quot;:&quot;https://www.solutiocloud.us/js/directory.js&quot;,&quot;inline&quot;:&quot;&quot;,&quot;in_footer&quot;:&quot;0&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;Directory&quot;},{&quot;location&quot;:&quot;&quot;,&quot;inline&quot;:&quot;document.addEventListener(\\&quot;DOMContentLoaded\\&quot;, function() {\\ninitTranslateOverlayBox();\\ndetectLoadEffect();\\nrotateAddPic();\\ninitGridAddPic();\\ncreateTabGrid();\\nmodernAlert();\\ninitHero();\\nsideMenuActive();\\nstaffLinkRemove();\\nheroTitleOverlay();\\nshowPopup2();\\nhideEmptyArticleGrids();\\nsetAccordian();\\nparallaxEffect();\\nenableScrollableTables();\\nsetRokBox();\\ncheckAltText();\\n});&quot;,&quot;in_footer&quot;:&quot;0&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;JS Calls&quot;},{&quot;location&quot;:&quot;//shared.solutiocdn.com/content/shared/aos.js&quot;,&quot;inline&quot;:&quot;AOS.init({duration: 1000, });&quot;,&quot;in_footer&quot;:&quot;1&quot;,&quot;extra&quot;:[],&quot;priority&quot;:&quot;0&quot;,&quot;name&quot;:&quot;AOS&quot;}]\">\n                                    </div>\n                    </div>\n                                                        </div>\n                                    </div>\n                                                                                                                                                                                                                                                                                <div class=\"card settings-block\">\n                                                                                <input type=\"hidden\" name=\"page[body]\">\n                                        <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;page.body.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"page.body.\">\n                                            <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\"><i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i></span>\n                                            <span class=\"g-title\">Body Attributes</span>\n\n                                                                                    </h4>\n\n                                        <div class=\"inner-params\">\n                                                                                        \n\n            \n                                        \n                    \n                <div class=\"settings-param input-text\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Body Id\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                    <div class=\"input-group\">\n            <input type=\"text\" name=\"page[body][attribs][id]\" value=\"\" aria-label=\"Page Body Attribs Id\">\n                                <span class=\"g-reset-field\" data-g-reset-field=\"page[body][attribs][id]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                </div>\n            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param input-selectize\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                            Body Classes\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                                            <div class=\"g-multi g-selectize-control\" aria-expanded=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-labelledby=\"selectize-id-qf15uvmf-gantry-site-sub-withmaxwidth\"><div class=\"g-has-items g-has-options g-items g-not-full g-selectize-input\"><div class=\"g-item\" title=\"gantry\" data-value=\"gantry\" id=\"selectize-id-qf15uvmf-gantry\" role=\"treeitem\" aria-label=\"gantry\" aria-selected=\"true\">gantry<span class=\"g-remove-single-item\" tabindex=\"-1\" title=\"Remove\">×</span></div><div class=\"g-item\" title=\"site-sub\" data-value=\"site-sub\" id=\"selectize-id-qf15uvmf-site-sub\" role=\"treeitem\" aria-label=\"site-sub\" aria-selected=\"true\">site-sub<span class=\"g-remove-single-item\" tabindex=\"-1\" title=\"Remove\">×</span></div><div class=\"g-item\" title=\"withmaxwidth\" data-value=\"withmaxwidth\" id=\"selectize-id-qf15uvmf-withmaxwidth\" role=\"treeitem\" aria-label=\"withmaxwidth\" aria-selected=\"true\">withmaxwidth<span class=\"g-remove-single-item\" tabindex=\"-1\" title=\"Remove\">×</span></div><input type=\"text\" autocomplete=\"off\" role=\"textbox\" tabindex=\"\" style=\"width: 4px;\"></div><div class=\"g-multi g-selectize-dropdown\" style=\"display: none; width: 250px; top: 63px; left: 0px;\"><div id=\"selectize-id-qf15uvmf\" class=\"g-selectize-dropdown-content\" aria-expanded=\"false\" aria-hidden=\"true\" role=\"tree\"></div></div></div><input name=\"page[body][attribs][class]\" value=\"gantry site-sub withmaxwidth\" type=\"text\" data-selectize=\"{&quot;create&quot;:true}\" aria-label=\"Page Body Attribs Class\" tabindex=\"-1\" aria-hidden=\"true\" style=\"display: none;\" class=\"selectized\">\n\n                                                        <span class=\"g-reset-field\" data-g-reset-field=\"page[body][attribs][class]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                                                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param collection-keyvalue\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Extra Tag attributes.\" data-tip-place=\"top-right\" aria-label=\"Extra Tag attributes.\" data-title=\"Extra Tag attributes.\">\n                            Tag Attributes\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <div class=\"g-keyvalue-field\">\n        <ul>                                                    <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"data-site-passcode\" value=\"data-site-passcode\" placeholder=\"Key (data-*, style, ...)\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"NecVV7LINH\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"data-default-rotator-image-path\" value=\"data-default-rotator-image-path\" placeholder=\"Key (data-*, style, ...)\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"/images/stories/template/default-rotator.jpg\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"data-default-grid-image-path\" value=\"data-default-grid-image-path\" placeholder=\"Key (data-*, style, ...)\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"/images/stories/template/default-grid.jpg\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                                            <li data-keyvalue-item=\"\">\n                <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n                <div class=\"g-keyvalue-wrapper\">\n                    <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"data-default-hero-image-path\" value=\"data-default-hero-image-path\" placeholder=\"Key (data-*, style, ...)\">\n                    <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                    <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"//shared.solutiocdn.com/content/shared/defaults/hero-default.png\" placeholder=\"Value\">\n                </div>\n                <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n            </li>\n                            </ul>\n\n        <span class=\"button button-simple\" data-keyvalue-addnew=\"\" title=\"Add new item\"><i class=\"fa fa-plus font-small\" aria-hidden=\"true\"></i></span>\n    </div>\n    <ul style=\"display: none\">\n        <li data-keyvalue-nosort=\"\" data-keyvalue-template=\"\">\n            <i class=\"fa fa-reorder font-small item-reorder\" aria-hidden=\"true\"></i>\n            <div class=\"g-keyvalue-wrapper\">\n                <input class=\"g-keyvalue-input-key\" type=\"text\" data-keyvalue-key=\"\" value=\"\" placeholder=\"Key (data-*, style, ...)\">\n                <i class=\"g-keyvalue-sep fa fa-fw fa-arrow-right\"></i>\n                <input class=\"g-keyvalue-input-value\" type=\"text\" data-keyvalue-value=\"\" value=\"\" placeholder=\"Value\">\n            </div>\n            <i class=\"fa fa-fw fa-trash font-small\" aria-hidden=\"true\" data-keyvalue-remove=\"\"></i>\n        </li>\n    </ul>\n    <input type=\"hidden\" data-keyvalue-data=\"\" data-keyvalue-exclude=\"[&quot;id&quot;,&quot;class&quot;]\" name=\"page[body][attribs][extra][_json]\" value=\"[[],{&quot;data-site-passcode&quot;:&quot;NecVV7LINH&quot;},{&quot;data-default-rotator-image-path&quot;:&quot;/images/stories/template/default-rotator.jpg&quot;},{&quot;data-default-grid-image-path&quot;:&quot;/images/stories/template/default-grid.jpg&quot;},{&quot;data-default-hero-image-path&quot;:&quot;//shared.solutiocdn.com/content/shared/defaults/hero-default.png&quot;}]\">\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param select-selectize\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Default layout container behavior for Sections\" data-tip-place=\"top-right\" aria-label=\"Default layout container behavior for Sections\" data-title=\"Default layout container behavior for Sections\">\n                            Sections Layout\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <div class=\"g-selectize-control g-single\" aria-expanded=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-labelledby=\"selectize-id-0aay8w4-2\" style=\"width: 286px;\"><div class=\"g-full g-has-items g-has-options g-items g-selectize-input\"><div class=\"g-item\" title=\"2\" data-value=\"2\" id=\"selectize-id-0aay8w4-2\" role=\"treeitem\" aria-label=\"Fullwidth (Flushed Content)\" aria-selected=\"false\">Fullwidth (Flushed Content)</div><input type=\"text\" autocomplete=\"off\" role=\"textbox\" tabindex=\"\" style=\"width: 4px;\"></div><div class=\"g-selectize-dropdown g-single\" style=\"display: none; width: 250px; top: 38px; left: 0px;\"><div id=\"selectize-id-0aay8w4\" class=\"g-selectize-dropdown-content\" aria-expanded=\"false\" aria-hidden=\"true\" role=\"tree\"></div></div></div><select name=\"page[body][layout][sections]\" data-selectize=\"\" aria-label=\"Page Body Layout Sections\" tabindex=\"-1\" aria-hidden=\"true\" class=\"selectized\" style=\"display: none;\"><option value=\"2\" selected=\"selected\">Fullwidth (Flushed Content)</option></select>\n                                </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param textarea-textarea\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Anything in this field will be appended right after the opening body tag\" data-tip-place=\"top-right\" aria-label=\"Anything in this field will be appended right after the opening body tag\" data-title=\"Anything in this field will be appended right after the opening body tag\">\n                            After &lt;body&gt;\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <textarea name=\"page[body][body_top]\" aria-label=\"Page Body Body_Top\">&lt;section id=\"g-top-nav\"&gt;&lt;div class=\"g-offcanvas-toggle\" role=\"navigation\" data-offcanvas-toggle=\"\" aria-controls=\"g-offcanvas\" aria-expanded=\"true\"&gt;&lt;i class=\"fa fa-fw fa-bars\"&gt;&lt;/i&gt;&lt;/div&gt;&lt;jdoc:include type=\"modules\" name=\"pwa-logo\" /&gt;&lt;/section&gt;</textarea>\n\n                                    <span class=\"g-reset-field\" data-g-reset-field=\"page[body][body_top]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                                        </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param textarea-textarea\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Anything in this field will be appended right before the closing body tag\" data-tip-place=\"top-right\" aria-label=\"Anything in this field will be appended right before the closing body tag\" data-title=\"Anything in this field will be appended right before the closing body tag\">\n                            Before &lt;/body&gt;\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <textarea name=\"page[body][body_bottom]\" aria-label=\"Page Body Body_Bottom\">&lt;section id=\"g-mobile-fixed-nav\"&gt;&lt;div class=\"mobile-fixed-nav\"&gt;\n&lt;jdoc:include type=\"modules\" name=\"pwa-ql\" /&gt;\n&lt;/div&gt;&lt;/section&gt;</textarea>\n\n                                    <span class=\"g-reset-field\" data-g-reset-field=\"page[body][body_bottom]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                                        </div>\n            </div>\n                                                    </div>\n                                    </div>\n                                                                                                                                                                                                                                                                                <div class=\"card settings-block\">\n                                                                                <input type=\"hidden\" name=\"page[fontawesome]\">\n                                        <h4 data-g-collapse=\"{&quot;collapse&quot;:&quot;Collapse&quot;,&quot;expand&quot;:&quot;Expand&quot;,&quot;collapsed&quot;:false,&quot;id&quot;:&quot;page.fontawesome.&quot;,&quot;target&quot;:&quot;~ .inner-params&quot;}\" data-g-collapse-id=\"page.fontawesome.\">\n                                            <span class=\"g-collapse\" data-title=\"Collapse\" data-tip=\"Collapse\" data-tip-place=\"top-right\"><i class=\"fa fa-fw fa-caret-up\" aria-hidden=\"true\"></i></span>\n                                            <span class=\"g-title\">Font Awesome Settings</span>\n\n                                                                                    </h4>\n\n                                        <div class=\"inner-params\">\n                                                                                        \n\n            \n                                        \n                    \n                                \n                        \n                                        \n                    \n                <div class=\"settings-param enable-enable\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Enable or disable the loading of the Font Awesome icon library on the frontend. This is useful if you want to manually add a different version of the library (e.g. paid version).\" data-tip-place=\"top-right\" aria-label=\"Enable or disable the loading of the Font Awesome icon library on the frontend. This is useful if you want to manually add a different version of the library (e.g. paid version).\" data-title=\"Enable or disable the loading of the Font Awesome icon library on the frontend. This is useful if you want to manually add a different version of the library (e.g. paid version).\">\n                            Enable\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <span class=\"enabler\" role=\"checkbox\" aria-checked=\"true\" tabindex=\"0\" aria-label=\"Enables Page Fontawesome\">\n    <input type=\"hidden\" name=\"page[fontawesome][enable]\" value=\"1\" aria-label=\"Page Fontawesome Enable\">\n        <span class=\"toggle\"><span class=\"knob\"></span></span>\n    </span>\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param select-select\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Specify which version of the Font Awesome icon library should be loaded on the frontend. You can also completely disable Font Awesome or specify the import tags yourself in the textfield below.\" data-tip-place=\"top-right\" aria-label=\"Specify which version of the Font Awesome icon library should be loaded on the frontend. You can also completely disable Font Awesome or specify the import tags yourself in the textfield below.\" data-title=\"Specify which version of the Font Awesome icon library should be loaded on the frontend. You can also completely disable Font Awesome or specify the import tags yourself in the textfield below.\">\n                            Version\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <select name=\"page[fontawesome][version]\" aria-label=\"Page Fontawesome Version\">\n\n                                    <option value=\"fa4\">Font Awesome 4 (legacy)</option>\n                            <option selected=\"selected\" value=\"fa5css\">Font Awesome 6 Free (Webfont / CSS)</option>\n                            <option value=\"fa5js\">Font Awesome 6 Free (SVG / JS)</option>\n                        </select>\n                                </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param enable-enable\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Enable or disable the backwards compatibility for version 4.x of the Font Awesome library when using version 5.x.\" data-tip-place=\"top-right\" aria-label=\"Enable or disable the backwards compatibility for version 4.x of the Font Awesome library when using version 5.x.\" data-title=\"Enable or disable the backwards compatibility for version 4.x of the Font Awesome library when using version 5.x.\">\n                            V4 Compatibility\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <span class=\"enabler\" role=\"checkbox\" aria-checked=\"false\" tabindex=\"0\" aria-label=\"Enables Page Fontawesome\">\n    <input type=\"hidden\" name=\"page[fontawesome][fa4_compatibility]\" value=\"0\" aria-label=\"Page Fontawesome Fa4_Compatibility\">\n        <span class=\"toggle\"><span class=\"knob\"></span></span>\n    </span>\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param enable-enable\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Enable or disable the content (pseudo-element) compatibility when using the SVG / JS version of Font Awesome 5.x. This also applies when loading the library manually.\" data-tip-place=\"top-right\" aria-label=\"Enable or disable the content (pseudo-element) compatibility when using the SVG / JS version of Font Awesome 5.x. This also applies when loading the library manually.\" data-title=\"Enable or disable the content (pseudo-element) compatibility when using the SVG / JS version of Font Awesome 5.x. This also applies when loading the library manually.\">\n                            Content Compatibility\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <span class=\"enabler\" role=\"checkbox\" aria-checked=\"false\" tabindex=\"0\" aria-label=\"Enables Page Fontawesome\">\n    <input type=\"hidden\" name=\"page[fontawesome][content_compatibility]\" value=\"0\" aria-label=\"Page Fontawesome Content_Compatibility\">\n        <span class=\"toggle\"><span class=\"knob\"></span></span>\n    </span>\n                            </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param textarea-textarea\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Enter your HTML to manually load the CSS files of the Font Awesome library. This option replaces the Gantry version of the library.\" data-tip-place=\"top-right\" aria-label=\"Enter your HTML to manually load the CSS files of the Font Awesome library. This option replaces the Gantry version of the library.\" data-title=\"Enter your HTML to manually load the CSS files of the Font Awesome library. This option replaces the Gantry version of the library.\">\n                            CSS Link HTML (Manual Override)\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <textarea name=\"page[fontawesome][html_css_import]\" aria-label=\"Page Fontawesome Html_Css_Import\"></textarea>\n\n                                    <span class=\"g-reset-field\" data-g-reset-field=\"page[fontawesome][html_css_import]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                                        </div>\n            </div>\n                    \n                                        \n                    \n                <div class=\"settings-param textarea-textarea\">\n                                                    <span class=\"settings-param-title float-left\">\n                                                                                    <span data-tip=\"Enter your HTML to manually load the JS files of the Font Awesome library. This option replaces the Gantry version of the library.\" data-tip-place=\"top-right\" aria-label=\"Enter your HTML to manually load the JS files of the Font Awesome library. This option replaces the Gantry version of the library.\" data-title=\"Enter your HTML to manually load the JS files of the Font Awesome library. This option replaces the Gantry version of the library.\">\n                            JS Script HTML (Manual Override)\n                        </span>\n                                        \n                            </span>\n            <div class=\"settings-param-field\">\n                                        <textarea name=\"page[fontawesome][html_js_import]\" aria-label=\"Page Fontawesome Html_Js_Import\"></textarea>\n\n                                    <span class=\"g-reset-field\" data-g-reset-field=\"page[fontawesome][html_js_import]\"><i class=\"fa  fa-fw fa-times-circle\" aria-hidden=\"true\"></i></span>\n                                                        </div>\n            </div>\n                                                    </div>\n                                    </div>\n                                                                                                                </div>\n                                    \n                <div class=\"g-footer-actions\">\n                    <span class=\"float-right\">\n                        <button type=\"submit\" class=\"button button-primary button-save\" data-save=\"Page Settings\">\n                            <i class=\"fa fa-fw fa-check\" aria-hidden=\"true\"></i> <span>Save Page Settings</span></button>\n                    </span>\n                </div>\n            </div>\n        </form>\n        </div>\n\n                <script>\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", function () {\n\n\t\t\t\tconsole.log('Simple Refresh Script Loaded and DOMContentLoaded.');\n\n\t\t\t\t// --- Original simple setup (runs only on initial full page load) ---\n\t\t\t\tconsole.log('Performing initial editor setup (runs once on full refresh).');\n\t\t\t\ttry {\n\t\t\t\t\t// Optional: Clear label (from original request)\n\t\t\t\t\tconst labelElement = document.querySelector('.label'); // Use querySelector\n\t\t\t\t\tif (labelElement) {\n\t\t\t\t\t\tlabelElement.innerHTML = '';\n\t\t\t\t\t\tconsole.log('Cleared label element.');\n\t\t\t\t\t} else {\n\t\t\t\t\t\t// console.log('Label element not found on initial load.'); // Suppress if not needed\n\t\t\t\t\t}\n\t\t\t\t} catch (e) {\n\t\t\t\t\tconsole.error('Error during initial label clearing:', e);\n\t\t\t\t}\n\n\t\t\t\ttry {\n\t\t\t\t\t// Find elements and editor instance on initial load.\n\t\t\t\t\t// This relies on Joomla/Gantry having initialized the editor by DOMContentLoaded.\n\t\t\t\t\tconst editorElementId = 'page[head][head_bottom]';\n\t\t\t\t\tconst pageHeadCustomContent = document.getElementById(editorElementId);\n\t\t\t\t\t// Access the editor instance via Joomla's registry\n\t\t\t\t\tconst editor = Joomla.editors && Joomla.editors.instances && Joomla.editors.instances[editorElementId];\n\t\t\t\t\tconst saveButton = document.querySelector('.button.button-primary.button-save'); // Use querySelector\n\n\t\t\t\t\tif (pageHeadCustomContent && editor && saveButton) {\n\t\t\t\t\t\tconsole.log('Initial editor elements and instance found. Attaching save listener.');\n\n\t\t\t\t\t\t// Remove any existing listener just in case (though unlikely on initial load)\n\t\t\t\t\t\tsaveButton.removeEventListener('click', initialSaveEditorContent);\n\n\t\t\t\t\t\t// Define and attach the save listener for the initial load\n\t\t\t\t\t\tfunction initialSaveEditorContent() {\n\t\t\t\t\t\t\tconsole.log('Initial save button clicked. Attempting to save editor content.');\n\t\t\t\t\t\t\ttry {\n\t\t\t\t\t\t\t\t// Use getValue/getContent as these are standard editor methods\n\t\t\t\t\t\t\t\tlet content;\n\t\t\t\t\t\t\t\tif (typeof editor.getValue === 'function') {\n\t\t\t\t\t\t\t\t\tcontent = editor.getValue();\n\t\t\t\t\t\t\t\t\tconsole.log('Using editor.getValue() on initial save.');\n\t\t\t\t\t\t\t\t} else if (typeof editor.getContent === 'function') {\n\t\t\t\t\t\t\t\t\tcontent = editor.getContent();\n\t\t\t\t\t\t\t\t\tconsole.log('Using editor.getContent() on initial save.');\n\t\t\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\t\t\tconsole.warn('Editor instance has no getValue or getContent method on initial load.');\n\t\t\t\t\t\t\t\t\treturn; // Cannot reliably get content\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\tpageHeadCustomContent.value = content;\n\t\t\t\t\t\t\t\tconsole.log('Editor content copied to input on initial save.');\n\t\t\t\t\t\t\t} catch (e) {\n\t\t\t\t\t\t\t\tconsole.error('Error saving editor content on initial load:', e);\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tsaveButton.addEventListener('click', initialSaveEditorContent);\n\n\t\t\t\t\t} else {\n\t\t\t\t\t\tconsole.warn('Initial editor elements, instance, or save button not found on DOMContentLoaded.');\n\t\t\t\t\t\tconsole.log('Element (#%s): %s, Instance: %s, Save Button (%s): %s',\n\t\t\t\t\t\t\teditorElementId, !!pageHeadCustomContent, !!editor, saveButtonSelector, !!saveButton);\n\t\t\t\t\t}\n\n\t\t\t\t} catch (e) {\n\t\t\t\t\tconsole.error('Error during initial editor setup:', e);\n\t\t\t\t}\n\n\n\t\t\t\t// --- URL Change Detection (Triggers Full Refresh) ---\n\n\t\t\t\t// Store the initial URL\n\t\t\t\tlet currentUrl = window.location.href;\n\t\t\t\tconsole.log('Initial URL stored for change detection:', currentUrl);\n\n\t\t\t\t/**\n\t\t\t\t * Checks if the URL has changed and forces a full page refresh if it has.\n\t\t\t\t */\n\t\t\t\tfunction checkUrlChangeAndRefresh() {\n\t\t\t\t\tconst newUrl = window.location.href;\n\t\t\t\t\t// console.log('checkUrlChangeAndRefresh called. Current URL:', currentUrl, 'New URL:', newUrl); // Too noisy\n\n\t\t\t\t\tif (currentUrl !== newUrl) {\n\t\t\t\t\t\tconsole.log('URL change detected:', currentUrl, '->', newUrl);\n\t\t\t\t\t\tconsole.log('Forcing full page refresh...');\n\t\t\t\t\t\t// Trigger a full page refresh\n\t\t\t\t\t\twindow.location.reload();\n\t\t\t\t\t\t// Note: Code after reload() might not execute reliably as the page is unloading\n\t\t\t\t\t} // else { URL has not changed, do nothing }\n\t\t\t\t}\n\n\t\t\t\t// --- SPA Navigation Monitoring ---\n\t\t\t\t// Set up listeners that detect changes indicating Gantry's SPA navigation\n\n\t\t\t\t// Use MutationObserver to detect significant DOM changes (like Gantry loading new content)\n\t\t\t\tconst observerTarget = document.body; // Observe the body as Gantry replaces content within it\n\t\t\t\tconst observerConfig = {\n\t\t\t\t\tchildList: true, // Report changes to the children of the target\n\t\t\t\t\tsubtree: true    // Extend reporting to the entire subtree of the target\n\t\t\t\t\t// We are not interested in attribute or character data changes for navigation detection\n\t\t\t\t};\n\n\t\t\t\t// Create and start the observer\n\t\t\t\tconst bodyObserver = new MutationObserver(function (mutations) {\n\t\t\t\t\t// console.log('MutationObserver fired.', mutations); // Can be very noisy, uncomment for deep debugging\n\t\t\t\t\t// When DOM changes occur (likely from Gantry AJAX), check if the URL changed.\n\t\t\t\t\t// checkUrlChangeAndRefresh will handle the comparison and refresh.\n\t\t\t\t\tcheckUrlChangeAndRefresh();\n\t\t\t\t});\n\n\t\t\t\tconsole.log('Starting MutationObserver on', observerTarget, 'to detect URL changes for refresh.');\n\t\t\t\tbodyObserver.observe(observerTarget, observerConfig);\n\n\n\t\t\t\t// Listen for popstate events (browser back/forward navigation)\n\t\t\t\twindow.addEventListener('popstate', function () {\n\t\t\t\t\tconsole.log('popstate event detected.');\n\t\t\t\t\t// Check URL change, which will trigger refresh if relevant.\n\t\t\t\t\tcheckUrlChangeAndRefresh();\n\t\t\t\t});\n\n\t\t\t\t// Note: Removed setInterval polling for URL change as MutationObserver and popstate\n\t\t\t\t// are generally more efficient and responsive for SPA navigation detection.\n\n\t\t\t\tconsole.log('URL change monitoring for refresh initialized.');\n\n\t\t\t}); // End DOMContentLoaded\n        </script>\n                                </div>\n                        </section>\n                    </div>\n                </div>\n            </div>\n            </div>\n\n        <footer id=\"footer\">\n        <div>\n            <a href=\"http://gantry.org\">Gantry Administration</a> by <a href=\"http://www.rockettheme.com\">RocketTheme</a>\n        </div>\n            </footer>\n</div>\n\n\n                </div>\n            </div>\n                        <!-- End Content -->\n    </section>\n\n    </div>\n    <!-- Begin Status Module -->\n    <div id=\"status\" class=\"navbar navbar-fixed-bottom hidden-phone\">\n        <div class=\"btn-toolbar\">\n            <div class=\"btn-group pull-right\">\n                <div id=\"bars\" class=\"btn-group \">\n                                    </div>\n                \n                CMS 24.1.2 (Rev. 162)            </div>\n            <div class=\"btn-group viewsite\"><a href=\"https://agent5.forge.solutiosoftware.com/\" target=\"_blank\"><span class=\"icon-out-2\" aria-hidden=\"true\"></span>View Site</a><span class=\"btn-group separator\"></span></div><div class=\"btn-group loggedin-users\"><span class=\"badge\">0</span>Visitors<span class=\"btn-group separator\"></span></div><div class=\"btn-group backloggedin-users\"><span class=\"badge\">4</span>Administrators<span class=\"btn-group separator\"></span></div><div class=\"btn-group no-unread-messages\"><a href=\"/administrator/index.php?option=com_messages\"><span class=\"badge\">0</span>Messages</a><span class=\"btn-group separator\"></span></div><div class=\"btn-group logout\"><a href=\"/administrator/index.php?option=com_login&amp;task=logout&amp;3597e82f370415775e059d8bc10621a4=1\"><span class=\"icon-minus-2\" aria-hidden=\"true\"></span>Log out</a></div>\n        </div>\n    </div>\n    <!-- End Status Module -->\n\n\n\n</body></html>"
+}

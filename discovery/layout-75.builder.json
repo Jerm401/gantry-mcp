@@ -1,0 +1,52 @@
+{
+  "ownKeys": [
+    "map",
+    "structure"
+  ],
+  "protoMethods": [
+    "add",
+    "cleanupLonely",
+    "constructor",
+    "emit",
+    "get",
+    "insert",
+    "load",
+    "off",
+    "on",
+    "recursiveLoad",
+    "remove",
+    "reset",
+    "serialize",
+    "setStructure"
+  ],
+  "structureType": "object",
+  "structureKeys": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "calls": {
+    "serialize": {
+      "ok": true,
+      "len": 21561,
+      "sample": "[{\"id\":\"container-top\",\"type\":\"container\",\"subtype\":false,\"title\":\"Container-top\",\"attributes\":{\"boxed\":\"\",\"class\":\"no-background-image\",\"extra\":[]},\"inherit\":{},\"children\":[{\"id\":\"grid-6731\",\"type\":\"grid\",\"subtype\":false,\"title\":\"Untitled\",\"attributes\":{},\"inherit\":{},\"children\":[{\"id\":\"block-4505\",\"type\":\"block\",\"subtype\":false,\"title\":\"Untitled\",\"attributes\":{\"size\":100},\"inherit\":{},\"children\""
+    },
+    "toJSON": null,
+    "toString": {
+      "ok": true,
+      "len": 15,
+      "sample": "[object Object]"
+    },
+    "save": null,
+    "data": null
+  }
+}

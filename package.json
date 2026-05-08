@@ -1,0 +1,25 @@
+{
+  "name": "gantry5-puppeteer",
+  "version": "0.1.0",
+  "description": "Puppeteer automation for Joomla + Gantry 5 (Studius) admin tasks",
+  "main": "gantry.js",
+  "scripts": {
+    "start": "node gantry.js",
+    "lint": "node --check gantry.js && node --check lib/session.js && node --check lib/layout.js && node --check lib/menu.js && node --check lib/util.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "js-yaml": "^4.1.0",
+    "puppeteer": "^23.0.0"
+  },
+  "bin": {
+    "gantry": "./gantry.js",
+    "gantry-mcp": "./mcp-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

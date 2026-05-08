@@ -1,0 +1,559 @@
+{
+  "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/page-settings&theme=rt_studius",
+  "title": "Site Name - Administration",
+  "links": [
+    {
+      "text": "Toggle Navigation",
+      "href": "#",
+      "cls": "btn btn-navbar collapsed"
+    },
+    {
+      "text": "Skip to Main Content",
+      "href": "#skiptarget",
+      "cls": "element-invisible"
+    },
+    {
+      "text": "Control Panel",
+      "href": "/administrator/index.php",
+      "cls": "admin-logo "
+    },
+    {
+      "text": "Site Name",
+      "href": "https://defaults-agent.forge.solutiosoftware.com/",
+      "cls": "brand hidden-desktop hidden-tablet"
+    },
+    {
+      "text": "System",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Control Panel",
+      "href": "index.php",
+      "cls": "no-dropdown menu-cpanel"
+    },
+    {
+      "text": "Global Check-in",
+      "href": "index.php?option=com_checkin",
+      "cls": "no-dropdown menu-checkin"
+    },
+    {
+      "text": "Clear Cache",
+      "href": "index.php?option=com_cache",
+      "cls": "no-dropdown menu-clear"
+    },
+    {
+      "text": "Clear Expired Cache",
+      "href": "index.php?option=com_cache&view=purge",
+      "cls": "no-dropdown menu-purge"
+    },
+    {
+      "text": "Users",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Manage",
+      "href": "index.php?option=com_users&view=users",
+      "cls": "dropdown-toggle menu-user"
+    },
+    {
+      "text": "Add New User",
+      "href": "index.php?option=com_users&task=user.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Groups",
+      "href": "index.php?option=com_users&view=groups",
+      "cls": "dropdown-toggle menu-groups"
+    },
+    {
+      "text": "Add New Group",
+      "href": "index.php?option=com_users&task=group.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Access Levels",
+      "href": "index.php?option=com_users&view=levels",
+      "cls": "dropdown-toggle menu-levels"
+    },
+    {
+      "text": "Add New Access Level",
+      "href": "index.php?option=com_users&task=level.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "User Actions Log",
+      "href": "index.php?option=com_actionlogs",
+      "cls": "no-dropdown menu-userlogs"
+    },
+    {
+      "text": "Menus",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Manage",
+      "href": "index.php?option=com_menus&view=menus",
+      "cls": "dropdown-toggle menu-menumgr"
+    },
+    {
+      "text": "Add New Menu",
+      "href": "index.php?option=com_menus&view=menu&layout=edit",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "All Menu Items",
+      "href": "index.php?option=com_menus&view=items&menutype=",
+      "cls": "no-dropdown menu-allmenu"
+    },
+    {
+      "text": "Hidden Menu",
+      "href": "index.php?option=com_menus&view=items&menutype=hidden-menu",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=hidden-menu",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Main Menu",
+      "href": "index.php?option=com_menus&view=items&menutype=mainmenu",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=mainmenu",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Solutio Stuff",
+      "href": "index.php?option=com_menus&view=items&menutype=solutio-stuff",
+      "cls": "dropdown-toggle menu-menu"
+    },
+    {
+      "text": "Add New Menu Item",
+      "href": "index.php?option=com_menus&view=item&layout=edit&menutype=solutio-stuff",
+      "cls": "no-dropdown menu-menu"
+    },
+    {
+      "text": "Content",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Articles",
+      "href": "index.php?option=com_content",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Add New Article",
+      "href": "index.php?option=com_content&task=article.add",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_content",
+      "cls": "dropdown-toggle menu-category"
+    },
+    {
+      "text": "Add New Category",
+      "href": "index.php?option=com_categories&task=category.add&extension=com_content",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Featured Articles",
+      "href": "index.php?option=com_content&view=featured",
+      "cls": "no-dropdown menu-featured"
+    },
+    {
+      "text": "Fields",
+      "href": "index.php?option=com_fields&context=com_content.article",
+      "cls": "no-dropdown menu-fields"
+    },
+    {
+      "text": "Field Groups",
+      "href": "index.php?option=com_fields&view=groups&context=com_content.article",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Media",
+      "href": "index.php?option=com_media",
+      "cls": "no-dropdown menu-media"
+    },
+    {
+      "text": "Components",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "CMS Admin Tools",
+      "href": "index.php?option=com_cat",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Contacts",
+      "href": "index.php?option=com_contact",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Contacts",
+      "href": "index.php?option=com_contact",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_contact",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "DOCman",
+      "href": "index.php?option=com_docman",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Documents",
+      "href": "index.php?option=com_docman",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_docman&view=categories",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Tags",
+      "href": "index.php?option=com_docman&view=tags",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Files",
+      "href": "index.php?option=com_docman&view=files",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Users",
+      "href": "index.php?option=com_docman&view=users",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Email Router",
+      "href": "index.php?option=com_erouter",
+      "cls": "dropdown-toggle menu-category"
+    },
+    {
+      "text": "SNS",
+      "href": "index.php?option=com_erouter&view=sns",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Routes",
+      "href": "index.php?option=com_erouter&view=routes",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Incoming",
+      "href": "index.php?option=com_erouter&view=jwts",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Deliveries",
+      "href": "index.php?option=com_erouter&view=deliveries",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Domain Manager",
+      "href": "index.php?option=com_domains",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "FILEman",
+      "href": "index.php?option=com_fileman",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Gantry 5 Themes",
+      "href": "index.php?option=com_gantry5&view=themes",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Icon Panel Manager",
+      "href": "index.php?option=com_iconpanel",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Imports",
+      "href": "index.php?option=com_imports",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Media Version",
+      "href": "index.php?option=com_mversion",
+      "cls": "no-dropdown menu-category"
+    },
+    {
+      "text": "Multilingual Associations",
+      "href": "index.php?option=com_associations",
+      "cls": "no-dropdown menu-featured"
+    },
+    {
+      "text": "News Feeds",
+      "href": "index.php?option=com_newsfeeds",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Feeds",
+      "href": "index.php?option=com_newsfeeds",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Categories",
+      "href": "index.php?option=com_categories&extension=com_newsfeeds",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Permissions",
+      "href": "index.php?option=com_permissions",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Podcasts",
+      "href": "index.php?option=com_podcasts",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Quick Gallery",
+      "href": "index.php?option=com_quickgallery",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Redirects",
+      "href": "index.php?option=com_redir",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Site Config",
+      "href": "index.php?option=com_siteconfig",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Sponsors",
+      "href": "index.php?option=com_sponsors",
+      "cls": "dropdown-toggle menu-article"
+    },
+    {
+      "text": "Sponsors",
+      "href": "index.php?option=com_sponsors&view=sponsors",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Template",
+      "href": "index.php?option=com_sponsors&view=template&id=1&layout=edit",
+      "cls": "no-dropdown menu-newarticle"
+    },
+    {
+      "text": "Subsite Manager",
+      "href": "index.php?option=com_subsites",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Tags",
+      "href": "index.php?option=com_tags",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Template Manager",
+      "href": "index.php?option=com_tman",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Web Links",
+      "href": "index.php?option=com_weblinks",
+      "cls": "no-dropdown menu-article"
+    },
+    {
+      "text": "Extensions",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Modules",
+      "href": "index.php?option=com_modules",
+      "cls": "no-dropdown menu-module"
+    },
+    {
+      "text": "Help",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Solutio University",
+      "href": "https://solutiosupport.com/",
+      "cls": "no-dropdown menu-help-dev"
+    },
+    {
+      "text": "User Menu",
+      "href": "#",
+      "cls": "dropdown-toggle"
+    },
+    {
+      "text": "Edit Account",
+      "href": "index.php?option=com_admin&task=profile.edit&id=932",
+      "cls": ""
+    },
+    {
+      "text": "Logout",
+      "href": "/administrator/index.php?option=com_login&task=logout&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Site Name",
+      "href": "https://defaults-agent.forge.solutiosoftware.com/",
+      "cls": "brand visible-desktop visible-tablet"
+    },
+    {
+      "text": "Outlines",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Menu",
+      "href": "/administrator/index.php?option=com_gantry5&view=menu&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "About",
+      "href": "/administrator/index.php?option=com_gantry5&view=about&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Extras",
+      "href": "#",
+      "cls": ""
+    },
+    {
+      "text": "Clear Cache",
+      "href": "/administrator/index.php?option=com_gantry5&view=cache&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Layout",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/layout&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Styles",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/styles&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "Page Settings",
+      "href": "/administrator/index.php?option=com_gantry5&view=configurations/default/page&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    },
+    {
+      "text": "",
+      "href": "/administrator/index.php?option=com_gantry5&view=themes",
+      "cls": ""
+    },
+    {
+      "text": "Gantry Administration",
+      "href": "http://gantry.org",
+      "cls": ""
+    },
+    {
+      "text": "RocketTheme",
+      "href": "http://www.rockettheme.com",
+      "cls": ""
+    },
+    {
+      "text": "View Site",
+      "href": "https://defaults-agent.forge.solutiosoftware.com/",
+      "cls": ""
+    },
+    {
+      "text": "0Messages",
+      "href": "/administrator/index.php?option=com_messages",
+      "cls": ""
+    },
+    {
+      "text": "Log out",
+      "href": "/administrator/index.php?option=com_login&task=logout&cbbee79b5120e7a4824d59e1ab11cc3c=1",
+      "cls": ""
+    }
+  ],
+  "buttons": [],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "cls": "",
+      "value": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "",
+      "name": "",
+      "id": "configuration-selector",
+      "cls": "config-select selectized",
+      "value": "default"
+    }
+  ],
+  "iframes": [],
+  "classes": [
+    "g-block",
+    "g-conf-title-edit",
+    "g-content",
+    "g-full",
+    "g-grid",
+    "g-has-items",
+    "g-has-options",
+    "g-item",
+    "g-items",
+    "g-selectize-control",
+    "g-selectize-dropdown",
+    "g-selectize-dropdown-content",
+    "g-selectize-input",
+    "g-single",
+    "theme-title"
+  ],
+  "dataAttrs": [
+    "data-ajax-action",
+    "data-ajax-action-indicator",
+    "data-ajax-action-method",
+    "data-basepath",
+    "data-g-config-href",
+    "data-g-extras",
+    "data-g-popover",
+    "data-g-popover-follow",
+    "data-g-popover-style",
+    "data-g5-ajaxify",
+    "data-g5-ajaxify-params",
+    "data-g5-ajaxify-target",
+    "data-g5-content",
+    "data-g5-content-wrapper",
+    "data-g5-nav",
+    "data-mode-indicator",
+    "data-popover-content",
+    "data-selectize",
+    "data-selectize-ajaxify",
+    "data-target",
+    "data-title-edit",
+    "data-title-editable",
+    "data-tmpl-offset",
+    "data-tmpl-sticky",
+    "data-toggle",
+    "data-value"
+  ],
+  "globals": {
+    "hasG5": true,
+    "hasGantry": false,
+    "title": "Site Name - Administration",
+    "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/page-settings&theme=rt_studius"
+  },
+  "htmlLength": 32301,
+  "html": "<html lang=\"en-gb\" dir=\"ltr\"><head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta charset=\"utf-8\">\n\t<meta name=\"generator\" content=\"Joomla! - Open Source Content Management\">\n\t<title>Site Name - Administration</title>\n\t\n\t<link href=\"/administrator/templates/isis/favicon.ico\" rel=\"shortcut icon\" type=\"image/vnd.microsoft.icon\">\n\t<link href=\"/administrator/components/com_gantry5/css-compiled/g-admin.css\" rel=\"stylesheet\">\n\t<link href=\"/media/gantry5/assets/css/font-awesome6-all.min.css\" rel=\"stylesheet\">\n\t<link href=\"/media/gantry5/assets/css/font-awesome6-shim.min.css\" rel=\"stylesheet\">\n\t<link href=\"/administrator/components/com_gantry5/css-compiled/joomla-g-admin.css\" rel=\"stylesheet\">\n\t<link href=\"/administrator/templates/isis/css/template.css?3898005374c01f06b15d849886e7d96f\" rel=\"stylesheet\">\n\t<link href=\"/administrator/templates/isis/css/cms.css?3898005374c01f06b15d849886e7d96f\" rel=\"stylesheet\">\n\t<script type=\"application/json\" class=\"joomla-script-options loaded\">{\"csrf.token\":\"cbbee79b5120e7a4824d59e1ab11cc3c\",\"system.paths\":{\"root\":\"\",\"base\":\"\\/administrator\"},\"system.keepalive\":{\"interval\":3540000,\"uri\":\"\\/administrator\\/index.php?option=com_ajax&amp;format=json\"}}</script>\n\t<script src=\"/media/system/js/core.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<!--[if lt IE 9]><script src=\"/media/system/js/polyfill.event.js?3898005374c01f06b15d849886e7d96f\"></script><![endif]-->\n\t<script src=\"/media/system/js/keepalive.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/administrator/components/com_gantry5/js/main.js\" async=\"\"></script>\n\t<script src=\"/media/jui/js/jquery.min.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/media/jui/js/jquery-noconflict.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/media/jui/js/jquery-migrate.min.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/media/jui/js/bootstrap.min.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<!--[if lte IE 9]><script src=\"/media/system/js/polyfill.filter.js?3898005374c01f06b15d849886e7d96f\"></script><![endif]-->\n\t<script src=\"/administrator/templates/isis/js/template.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<script src=\"/administrator/templates/isis/js/usage.js?3898005374c01f06b15d849886e7d96f\"></script>\n\t<!--[if lt IE 9]><script src=\"/media/jui/js/html5.js?3898005374c01f06b15d849886e7d96f\"></script><![endif]-->\n\t<script>\n\n    var G5T = function(key, fallback) {\n        var map = {\n            GANTRY5_PLATFORM_INHERITING_FROM_X: \"Inheriting from %s\",\n            GANTRY5_PLATFORM_JS_LOADING: \"Loading...\",\n            GANTRY5_PLATFORM_JS_PROCESSING: \"Processing...\",\n            GANTRY5_PLATFORM_JS_LM_SETTINGS: \"%s Settings\",\n            GANTRY5_PLATFORM_JS_LM_CONFIGURE_SETTINGS: \"Configure %s Settings\",\n            GANTRY5_PLATFORM_JS_LM_ADD_ROW: \"Add new row in %s\",\n            GANTRY5_PLATFORM_JS_LM_DISABLED_PARTICLE: \"This %s has been disabled and it will not be rendered on front-end. You can still configure, move and delete.\",\n            GANTRY5_PLATFORM_JS_LM_GRID_EQUALIZE: \"Equalize the width of blocks in this grid\",\n            GANTRY5_PLATFORM_JS_LM_GRID_SORT_MOVE: \"Sort or Move the Grid\",\n            GANTRY5_PLATFORM_JS_LM_SIZE_LIMITS_RANGE: \"You need to stay in between the min and max range\",\n            GANTRY5_PLATFORM_JS_REVIEW_FIELDS: \"Please review the fields in the modal and ensure you correct any invalid one.\",\n            GANTRY5_PLATFORM_JS_INVALID_FIELDS: \"Invalid Fields\",\n            GANTRY5_PLATFORM_JS_PARTICLE_SETTINGS_APPLIED: \"The Particle \\\"%s\\\" settings have been applied to the Layout. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_MENU_SETTINGS_APPLIED: \"The Menu Item settings have been applied to the Main Menu. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_GENERIC_SETTINGS_APPLIED: \"The %s settings have been applied. <br \\/>Remember to click the Save button to store them.\",\n            GANTRY5_PLATFORM_JS_SETTINGS_APPLIED: \"Settings Applied\",\n            GANTRY5_PLATFORM_JS_POSITIONS_SETTINGS_APPLIED: \"GANTRY5_PLATFORM_JS_POSITIONS_SETTINGS_APPLIED\",\n            GANTRY5_PLATFORM_JS_FILTER_MISMATCH: \"does not match the filter\",\n            GANTRY5_PLATFORM_JUST_NOW: \"just now\",\n            GANTRY5_PLATFORM_JS_KEYVALUE_DUPLICATE: \"The key \\\"%s\\\" is a duplicate\",\n            GANTRY5_PLATFORM_JS_KEYVALUE_EXCLUDED: \"The key \\\"%s\\\" has been excluded and cannot be used\",\n            GANTRY5_PLATFORM_JS_NO_SAVE_DETECTED: \"You haven't saved your changes and by leaving the page they will be lost. Do you want to leave without saving?\",\n            GANTRY5_PLATFORM_SAVED: \"Saved\",\n            GANTRY5_PLATFORM_LAST_SAVED: \"Last Saved\",\n            GANTRY5_PLATFORM_JS_CSS_COMPILED: \"The CSS was successfully compiled!\",\n            GANTRY5_PLATFORM_JS_SAVE_SUCCESS: \"The {{type}} {{verb}} been successfully saved! {{extras}}\",\n        };\n\n        return map[key] || fallback || key;\n    };\n\n            var GANTRY_AJAX_SUFFIX = '&format=json';\n            var GANTRY_AJAX_URL = '/administrator/index.php?option=com_gantry5&amp;view=%ajax%&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1';\n            var GANTRY_AJAX_CONF_URL = '/administrator/index.php?option=com_gantry5&amp;view=configurations/%ajax%&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1';\n            var GANTRY_AJAX_NONCE = null;\n            var GANTRY_PLATFORM = 'joomla';\n        \n\t</script>\n\n</head>\n<body class=\"admin com_gantry5 view-configurationsdefaultpage-settings layout- task- itemid-0\" data-basepath=\"\">\n<!-- Top Navigation -->\n<nav class=\"navbar navbar-inverse navbar-fixed-top\">\n    <div class=\"navbar-inner\">\n        <div class=\"container-fluid\">\n                            <a href=\"#\" class=\"btn btn-navbar collapsed\" data-toggle=\"collapse\" data-target=\".nav-collapse\">\n                    <span class=\"element-invisible\">Toggle Navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </a>\n            \n            <!-- skip to content -->\n            <a class=\"element-invisible\" href=\"#skiptarget\">Skip to Main Content</a>\n\n            <a class=\"admin-logo \" href=\"/administrator/index.php\">\n                <span class=\"icon-joomla\"></span>\n                <div class=\"element-invisible\">\n                    Control Panel                </div>\n            </a>\n\n            <a class=\"brand hidden-desktop hidden-tablet\" href=\"https://defaults-agent.forge.solutiosoftware.com/\" title=\"Preview Site Name\" target=\"_blank\">Site Name                <span class=\"icon-out-2 small\"></span></a>\n\n            <div class=\"nav-collapse collapse\">\n                <ul id=\"menu\" class=\"nav \">\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">System <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-cpanel\" href=\"index.php\">Control Panel</a></li>\n<li><a class=\"no-dropdown menu-checkin\" href=\"index.php?option=com_checkin\">Global Check-in</a></li>\n<li><a class=\"no-dropdown menu-clear\" href=\"index.php?option=com_cache\">Clear Cache</a></li>\n<li><a class=\"no-dropdown menu-purge\" href=\"index.php?option=com_cache&amp;view=purge\">Clear Expired Cache</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Users <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-user\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=users\">Manage</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=user.add\">Add New User</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-groups\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=groups\">Groups</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=group.add\">Add New Group</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-levels\" data-toggle=\"dropdown\" href=\"index.php?option=com_users&amp;view=levels\">Access Levels</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_users&amp;task=level.add\">Add New Access Level</a></li>\n</ul>\n</li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-userlogs\" href=\"index.php?option=com_actionlogs\">User Actions Log</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Menus <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menumgr\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=menus\">Manage</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_menus&amp;view=menu&amp;layout=edit\">Add New Menu</a></li>\n</ul>\n</li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-allmenu\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=\">All Menu Items</a></li>\n<li class=\"menuitem-group\"><span>Site</span></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=hidden-menu\">Hidden Menu </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=hidden-menu\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=mainmenu\">Main Menu <span class=\"icon-home\"></span></a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=mainmenu\">Add New Menu Item</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-menu\" data-toggle=\"dropdown\" href=\"index.php?option=com_menus&amp;view=items&amp;menutype=solutio-stuff\">Solutio Stuff </a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-menu\" href=\"index.php?option=com_menus&amp;view=item&amp;layout=edit&amp;menutype=solutio-stuff\">Add New Menu Item</a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Content <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_content\">Articles</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_content&amp;task=article.add\">Add New Article</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-category\" data-toggle=\"dropdown\" href=\"index.php?option=com_categories&amp;extension=com_content\">Categories</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;task=category.add&amp;extension=com_content\">Add New Category</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-featured\" href=\"index.php?option=com_content&amp;view=featured\">Featured Articles</a></li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-fields\" href=\"index.php?option=com_fields&amp;context=com_content.article\">Fields</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_fields&amp;view=groups&amp;context=com_content.article\">Field Groups</a></li>\n<li class=\"divider\"><span></span></li>\n<li><a class=\"no-dropdown menu-media\" href=\"index.php?option=com_media\">Media</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Components <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_cat\">CMS Admin Tools</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_contact\">Contacts</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_contact\">Contacts</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;extension=com_contact\">Categories</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_docman\">DOCman</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman\">Documents</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=categories\">Categories</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=tags\">Tags</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=files\">Files</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_docman&amp;view=users\">Users</a></li>\n</ul>\n</li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-category\" data-toggle=\"dropdown\" href=\"index.php?option=com_erouter\">Email Router</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=sns\">SNS</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=routes\">Routes</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=jwts\">Incoming</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_erouter&amp;view=deliveries\">Deliveries</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_domains\">Domain Manager</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_fileman\">FILEman</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_gantry5&amp;view=themes\">Gantry 5 Themes</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_iconpanel\">Icon Panel Manager</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_imports\">Imports</a></li>\n<li><a class=\"no-dropdown menu-category\" href=\"index.php?option=com_mversion\">Media Version</a></li>\n<li><a class=\"no-dropdown menu-featured\" href=\"index.php?option=com_associations\">Multilingual Associations</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_newsfeeds\">News Feeds</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_newsfeeds\">Feeds</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_categories&amp;extension=com_newsfeeds\">Categories</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_permissions\">Permissions</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_podcasts\">Podcasts</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_quickgallery\">Quick Gallery</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_redir\">Redirects</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_siteconfig\">Site Config</a></li>\n<li class=\"dropdown-submenu\"><a class=\"dropdown-toggle menu-article\" data-toggle=\"dropdown\" href=\"index.php?option=com_sponsors\">Sponsors</a><ul class=\"dropdown-menu menu-scrollable\">\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_sponsors&amp;view=sponsors\">Sponsors</a></li>\n<li><a class=\"no-dropdown menu-newarticle\" href=\"index.php?option=com_sponsors&amp;view=template&amp;id=1&amp;layout=edit\">Template</a></li>\n</ul>\n</li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_subsites\">Subsite Manager</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_tags\">Tags</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_tman\">Template Manager</a></li>\n<li><a class=\"no-dropdown menu-article\" href=\"index.php?option=com_weblinks\">Web Links</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Extensions <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-module\" href=\"index.php?option=com_modules\">Modules</a></li>\n</ul>\n</li>\n<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Help <span class=\"caret\"></span></a><ul class=\"dropdown-menu scroll-menu\">\n<li><a class=\"no-dropdown menu-help-dev\" href=\"https://solutiosupport.com/\" target=\"_blank\">Solutio University</a></li>\n</ul>\n</li>\n</ul>\n<ul id=\"nav-empty\" class=\"dropdown-menu nav-empty hidden-phone\"></ul>\n                <ul class=\"nav nav-user pull-right\">\n                    <li class=\"dropdown\">\n                        <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\"><span class=\"icon-user\"></span>\n                            <span class=\"caret\"></span>\n                            <div class=\"element-invisible\">\n                                User Menu                            </div>\n                        </a>\n                        <ul class=\"dropdown-menu\">\n                                                            <li>\n\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"icon-user\"></span>\n\t\t\t\t\t\t\t\t\t\t<strong>Joel Padgett</strong>\n\t\t\t\t\t\t\t\t\t</span>\n                                </li>\n                                <li class=\"divider\"></li>\n                                <li>\n                                    <a href=\"index.php?option=com_admin&amp;task=profile.edit&amp;id=932\">Edit Account</a>\n                                </li>\n                                <li class=\"divider\"></li>\n                                <li class=\"\">\n                                    <a href=\"/administrator/index.php?option=com_login&amp;task=logout&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">Logout</a>\n                                </li>\n                                                    </ul>\n                    </li>\n                </ul>\n                <a class=\"brand visible-desktop visible-tablet\" href=\"https://defaults-agent.forge.solutiosoftware.com/\" title=\"Preview Site Name\" target=\"_blank\">Site Name                    <span class=\"icon-out-2 small\"></span></a>\n            </div>\n            <!--/.nav-collapse -->\n        </div>\n    </div>\n    <script>\n        let isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);\n        if (isSafari) {\n            const safariMatch = navigator.userAgent.match(/Version\\/([\\d.]+)/);\n            const safariVersion = safariMatch[1];\n            if (safariVersion >= 17) {\n                const el = document.getElementsByClassName('brand visible-desktop visible-tablet')[0];\n                el.style.float = \"none\";\n                setTimeout(() => {\n                    el.style.float = \"right\";\n                }, 10)\n            }\n        }\n    </script>\n</nav>\n<!-- Header -->\n    <header class=\"header\">\n        <div class=\"container-logo\">\n                        <img src=\"/administrator/templates/isis/images/logo-solutio.svg\" width=\"100\" height=\"100\" alt=\"Site Name\">\n                    </div>\n        <div class=\"container-title\">\n            \n        </div>\n    </header>\n    <!-- Subheader -->\n    <a class=\"btn btn-subhead\" data-toggle=\"collapse\" data-target=\".subhead-collapse\">Toolbar        <span class=\"icon-wrench\"></span></a>\n    <div class=\"subhead-collapse collapse\" id=\"isisJsData\" data-tmpl-sticky=\"true\" data-tmpl-offset=\"30\" style=\"height: 0px;\">\n        <div class=\"subhead subhead-fixed\" style=\"\">\n            <div class=\"container-fluid\">\n                <div id=\"container-collapse\" class=\"container-collapse\"></div>\n                <div class=\"row-fluid\">\n                    <div class=\"span12\">\n                        <!-- target for skip to content link -->\n                        <a id=\"skiptarget\" class=\"element-invisible\">Main content begins here</a>\n                        <div class=\"btn-toolbar\" role=\"toolbar\" aria-label=\"Toolbar\" id=\"toolbar\">\n</div>\n\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n<!-- container-fluid -->\n<div class=\"container-fluid container-main\" style=\"top: 30px;\">\n    <section id=\"content\">\n        <!-- Begin Content -->\n        \n        <div class=\"row-fluid\">\n                            <div class=\"span12\">\n                                        <div id=\"system-message-container\">\n\t</div>\n\n                    <div id=\"g5-container\">\n        <div id=\"main-header\" data-mode-indicator=\"production\">\n        \n        <div class=\"g-grid\">\n    <div class=\"g-block\">\n        <div class=\"g-content clearfix\">\n            <span class=\"theme-title\">\n                <i class=\"fa fa-tint\" aria-hidden=\"true\"></i>\n                Theme: Studius\n                <small>(v1.1.0 / rt_studius)</small>\n            </span>\n\n                                    <ul class=\"float-right\">\n                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                        <i class=\"fa fa-fw fa-th\" aria-hidden=\"true\"></i> Outlines\n                    </a>\n                </li>\n                                                                                                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=menu&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                        <i class=\"fa fa-fw fa-bars\" aria-hidden=\"true\"></i> <span>Menu</span>\n                    </a>\n                </li>\n                                <li>\n                    <a data-g5-ajaxify=\"\" data-g5-ajaxify-target=\"[data-g5-content]\" href=\"/administrator/index.php?option=com_gantry5&amp;view=about&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                        <i class=\"fa fa-fw fa-question-circle\" aria-hidden=\"true\"></i> <span>About</span>\n                    </a>\n                </li>\n                <li data-g-extras=\"\" data-g-popover=\"\" data-g-popover-style=\"extras\" aria-haspopup=\"true\" aria-expanded=\"false\" role=\"presentation\">\n                    <a href=\"#\"><i class=\"fa fa-fw fa-cog\" aria-hidden=\"true\"></i> Extras <i class=\"font-small fa fa-fw fa-chevron-down\" aria-hidden=\"true\"></i></a>\n                    <ul data-popover-content=\"\" class=\"hidden\" tabindex=\"0\">\n                                                <li data-g-popover-follow=\"\">\n                            <a tabindex=\"0\" href=\"/administrator/index.php?option=com_gantry5&amp;view=cache&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\" data-ajax-action=\"\" data-ajax-action-method=\"get\" data-ajax-action-indicator=\"li[data-g-extras]\"><i class=\"fa fa-fw fa-recycle\" aria-hidden=\"true\"></i> Clear Cache\n                            </a>\n                        </li>\n                    </ul>\n                </li>\n            </ul>\n        </div>\n    </div>\n</div>\n    </div>\n    <div class=\"inner-container\">\n                            <div data-g5-content-wrapper=\"\">\n                <div class=\"g-grid\">\n    <div class=\"g-block navbar-block\">\n        <nav id=\"gantry\">\n                        <section id=\"navbar\">\n                <ul>\n                    <li class=\"config-select-wrap\">\n                <div class=\"config-select g-selectize-control g-single\" style=\"width: 256px;\" aria-expanded=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-labelledby=\"selectize-id-tjs165t-default\"><div class=\"g-full g-has-items g-has-options g-items g-selectize-input\"><div class=\"g-item\" title=\"default\" data-value=\"default\" id=\"selectize-id-tjs165t-default\" role=\"treeitem\" aria-label=\"Base Outline\" aria-selected=\"false\">\n        Base Outline\n    </div><input type=\"text\" autocomplete=\"off\" role=\"textbox\" tabindex=\"\" style=\"width: 4px;\"></div><div class=\"config-select g-selectize-dropdown g-single\" style=\"display: none; width: 256px; top: 38px; left: 0px;\"><div id=\"selectize-id-tjs165t\" class=\"g-selectize-dropdown-content\" aria-expanded=\"false\" aria-hidden=\"true\" role=\"tree\"></div></div></div><select id=\"configuration-selector\" class=\"config-select selectized\" data-selectize-ajaxify=\"\" data-selectize=\"{&quot;allowEmptyOption&quot;:true}\" tabindex=\"-1\" aria-hidden=\"true\" style=\"display: none;\"><option value=\"default\" selected=\"selected\">\n        Base Outline\n    </option></select>\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \n        <span data-title-editable=\"\" data-g-config-href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/rename&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\" class=\"title g-conf-title-edit\">\n        \n    </span>\n    <i class=\"fa fa-pencil fa-pencil-alt font-small\" aria-hidden=\"true\" tabindex=\"0\" aria-label=\"Edit Title ''\" data-title-editable=\"\" data-title-edit=\"\"></i>\n    </li>\n                                            <li>\n                            <a data-g5-ajaxify=\"\" data-g5-nav=\"layout\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/layout&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                                <i class=\"fa fa-fw fa-columns\" aria-hidden=\"true\"></i> <span>Layout</span>\n                            </a>\n                        </li>\n                                        <li>\n                        <a data-g5-ajaxify=\"\" data-g5-nav=\"styles\" data-g5-ajaxify-target=\"[data-g5-content-wrapper]\" data-g5-ajaxify-params=\"{&quot;navbar&quot;:true}\" href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/styles&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                            <i class=\"fa fa-fw fa-adjust\" aria-hidden=\"true\"></i> <span>Styles</span>\n                        </a>\n                    </li>\n                    <li>\n                        <a href=\"/administrator/index.php?option=com_gantry5&amp;view=configurations/default/page&amp;theme=rt_studius&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\">\n                            <i class=\"fa fa-fw fa-list-alt\" aria-hidden=\"true\"></i> <span>Page Settings</span>\n                        </a>\n                    </li>\n                                                        </ul>\n                <a href=\"/administrator/index.php?option=com_gantry5&amp;view=themes\" aria-hidden=\"true\" tabindex=\"-1\">\n                    <svg version=\"1.1\" id=\"gantry-logo\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"81px\" height=\"28.239px\" viewBox=\"0 0 81 28.239\" style=\"enable-background:new 0 0 81 28.239;\" xml:space=\"preserve\">\n                <g>\n                    <path style=\"fill:#a0a0a0;\" d=\"M8.101,26.332c2.639-0.358,4.636-2.603,4.672-5.311l0.008-1.451l-1.184,0.847\n                        c-1.255,0.903-2.734,1.38-4.27,1.38C3.288,21.797,0,18.511,0,14.471c0-4.039,3.286-7.325,7.325-7.325\n                        c1.633,0,3.182,0.483,4.481,1.491l0.198,0.104h2.694V20.95c0,3.792-2.969,6.92-6.597,7.289V26.332z M7.325,9.039\n                        c-2.995,0-5.432,2.437-5.432,5.432c0,2.996,2.437,5.433,5.432,5.433s5.432-2.437,5.432-5.433\n                        C12.757,11.476,10.32,9.039,7.325,9.039 M74.403,26.332c2.639-0.358,4.683-2.603,4.719-5.311l0.032-1.451l-1.172,0.847\n                        c-1.256,0.903-2.725,1.38-4.26,1.38c-3.914,0-7.07-3.024-7.235-6.938V14.37V8.741H68.3v6.418c0.275,2.577,2.682,4.768,5.413,4.768\n                        c2.692,0,5.331-2.28,5.467-4.589h0.005V8.741H81v12.507l-0.014,0.395c-0.169,1.807-1.016,3.48-2.359,4.711\n                        c-1.171,1.073-2.575,1.728-4.224,1.885V26.332z M24.114,21.797c-4.039,0-7.325-3.286-7.325-7.326c0-4.039,3.286-7.325,7.325-7.325\n                        c4.037,0,7.404,3.282,7.407,7.319v0.014c-0.002,0.033,0,0.838,0,0.838v4.641h-2.683l-0.199,0.212\n                        C27.333,21.198,25.768,21.797,24.114,21.797 M24.114,9.039c-2.996,0-5.433,2.437-5.433,5.432c0,2.996,2.437,5.433,5.433,5.433\n                        s5.432-2.437,5.432-5.433C29.546,11.476,27.109,9.039,24.114,9.039 M57.415,19.957V8.741h2.732l0.167-0.111\n                        c1.099-0.846,2.379-1.313,3.698-1.448v1.906c-2.474,0.332-4.319,2.328-4.598,4.799l-0.015,0.228l-0.005,0.473v5.37H57.415z\n                         M51.808,19.957V7.422h-2.309V5.443h2.309V0h1.979v5.443h2.144v1.979h-2.144v12.535H51.808z M46.695,19.957v-6.103\n                        c-0.16-2.616-2.559-4.816-5.347-4.816c-2.787,0-5.539,2.518-5.539,4.828v0.836v0.74v4.515h-1.814V8.576h2.868l0.192-0.085\n                        c1.261-0.915,2.746-1.372,4.292-1.372c4.037,0,7.32,3.294,7.326,7.329l0.002,0.016c-0.003,0.038-0.002,0.083-0.002,0.124v0.768\n                        v4.602H46.695z\"></path>\n                </g>\n            </svg>\n                </a>\n            </section>\n        </nav>\n    </div>\n</div>\n                <div class=\"g-grid\">\n                    <div class=\"g-block main-block\">\n                        <section id=\"g-main\">\n                            <div class=\"g-content\" data-g5-content=\"\">\n                                    <h1>404 Not Found</h1>\n\n    <p>Oops, Page not found.</p>\n                            </div>\n                        </section>\n                    </div>\n                </div>\n            </div>\n            </div>\n\n        <footer id=\"footer\">\n        <div>\n            <a href=\"http://gantry.org\">Gantry Administration</a> by <a href=\"http://www.rockettheme.com\">RocketTheme</a>\n        </div>\n            </footer>\n</div>\n\n\n                </div>\n            </div>\n                        <!-- End Content -->\n    </section>\n\n    </div>\n    <!-- Begin Status Module -->\n    <div id=\"status\" class=\"navbar navbar-fixed-bottom hidden-phone\">\n        <div class=\"btn-toolbar\">\n            <div class=\"btn-group pull-right\">\n                <div id=\"bars\" class=\"btn-group \">\n                                    </div>\n                \n                CMS 24.1.2 (Rev. 162)            </div>\n            <div class=\"btn-group viewsite\"><a href=\"https://defaults-agent.forge.solutiosoftware.com/\" target=\"_blank\"><span class=\"icon-out-2\" aria-hidden=\"true\"></span>View Site</a><span class=\"btn-group separator\"></span></div><div class=\"btn-group loggedin-users\"><span class=\"badge\">0</span>Visitors<span class=\"btn-group separator\"></span></div><div class=\"btn-group backloggedin-users\"><span class=\"badge\">5</span>Administrators<span class=\"btn-group separator\"></span></div><div class=\"btn-group no-unread-messages\"><a href=\"/administrator/index.php?option=com_messages\"><span class=\"badge\">0</span>Messages</a><span class=\"btn-group separator\"></span></div><div class=\"btn-group logout\"><a href=\"/administrator/index.php?option=com_login&amp;task=logout&amp;cbbee79b5120e7a4824d59e1ab11cc3c=1\"><span class=\"icon-minus-2\" aria-hidden=\"true\"></span>Log out</a></div>\n        </div>\n    </div>\n    <!-- End Status Module -->\n\n\n\n</body></html>"
+}

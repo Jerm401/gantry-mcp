@@ -1,0 +1,46 @@
+{
+  "theme": "rt_studius",
+  "base": "https://defaults-agent.forge.solutiosoftware.com",
+  "captured": [
+    {
+      "label": "after-configure",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/layout&theme=rt_studius&cbbee79b5120e7a4824d59e1ab11cc3c=1"
+    },
+    {
+      "label": "themes-list",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=themes"
+    },
+    {
+      "label": "outlines",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=outlines&theme=rt_studius"
+    },
+    {
+      "label": "default-layout",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/layout&theme=rt_studius"
+    },
+    {
+      "label": "default-page-settings",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/page-settings&theme=rt_studius"
+    },
+    {
+      "label": "default-assignments",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/assignments&theme=rt_studius"
+    },
+    {
+      "label": "default-styles",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/styles&theme=rt_studius"
+    },
+    {
+      "label": "home-layout",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/home/layout&theme=rt_studius"
+    },
+    {
+      "label": "menu-editor",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=menu/mainmenu&theme=rt_studius"
+    },
+    {
+      "label": "particles-defaults",
+      "url": "https://defaults-agent.forge.solutiosoftware.com/administrator/index.php?option=com_gantry5&view=configurations/default/particles&theme=rt_studius"
+    }
+  ]
+}

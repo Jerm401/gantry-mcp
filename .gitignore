@@ -1,0 +1,8 @@
+node_modules/
+.env
+sites.json
+.puppeteer-profile/
+screenshots/
+backups/
+*.log
+.DS_Store
