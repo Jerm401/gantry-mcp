@@ -1,14 +1,13 @@
 name: Sync Upstream
 on:
   schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch:   
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   sync_latest_from_upstream:
     runs-on: ubuntu-latest
     name: Sync latest commits from upstream repo
-    # This line below fixes the warning you're seeing:
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -21,8 +20,8 @@ jobs:
     - name: Sync upstream changes
       uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
       with:
-        target_sync_branch: master
+        target_sync_branch: main
         target_repo_token: ${{ secrets.GITHUB_TOKEN }}
         upstream_sync_repo: solutiojoel/gantry-mcp
-        upstream_sync_branch: master
+        upstream_sync_branch: main
         test_mode: false
