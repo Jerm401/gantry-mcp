@@ -5,9 +5,13 @@
   "main": "gantry.js",
   "scripts": {
     "start": "node gantry.js",
+    "inspect": "npx @modelcontextprotocol/inspector node mcp-server.js",
     "lint": "node --check gantry.js && node --check lib/session.js && node --check lib/layout.js && node --check lib/menu.js && node --check lib/util.js"
   },
   "type": "commonjs",
+  "devDependencies": {
+    "@modelcontextprotocol/inspector": "^0.21.2"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
     "commander": "^12.1.0",
