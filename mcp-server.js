@@ -14,8 +14,11 @@
 
 require('dotenv').config();
 
+const http = require('http');
+const { randomUUID } = require('crypto');
 const { Server } = require('@modelcontextprotocol/sdk/server/index.js');
 const { StdioServerTransport } = require('@modelcontextprotocol/sdk/server/stdio.js');
+const { StreamableHTTPServerTransport } = require('@modelcontextprotocol/sdk/server/streamableHttp.js');
 const {
   CallToolRequestSchema,
   ListToolsRequestSchema,
@@ -682,44 +685,47 @@ const TOOLS = [
 
 /* --------------------------- server bootstrap ------------------------- */
 
-const server = new Server(
-  { name: 'gantry5-mcp', version: '0.1.0' },
-  { capabilities: { tools: {} } }
-);
+function buildServer() {
+  const srv = new Server(
+    { name: 'gantry5-mcp', version: '0.1.0' },
+    { capabilities: { tools: {} } }
+  );
 
-server.setRequestHandler(ListToolsRequestSchema, async () => ({
-  tools: TOOLS.map((t) => ({
-    name: t.name,
-    description: t.description,
-    inputSchema: t.schema,
-  })),
-}));
+  srv.setRequestHandler(ListToolsRequestSchema, async () => ({
+    tools: TOOLS.map((t) => ({
+      name: t.name,
+      description: t.description,
+      inputSchema: t.schema,
+    })),
+  }));
 
-server.setRequestHandler(CallToolRequestSchema, async (request) => {
-  const tool = TOOLS.find((t) => t.name === request.params.name);
-  if (!tool) {
-    return {
-      isError: true,
-      content: [{ type: 'text', text: `Unknown tool: ${request.params.name}` }],
-    };
-  }
-  try {
-    const result = await tool.handler(request.params.arguments || {});
-    return {
-      content: [{ type: 'text', text: JSON.stringify(result, null, 2) }],
-    };
-  } catch (err) {
-    // If auth seems to have expired, drop the cached ctx so the next call re-logs in.
-    if (/401|403|login|cookie/i.test(err.message || '')) {
-      const args = request.params.arguments || {};
-      invalidateCtx(args.site, args.theme || '');
+  srv.setRequestHandler(CallToolRequestSchema, async (request) => {
+    const tool = TOOLS.find((t) => t.name === request.params.name);
+    if (!tool) {
+      return {
+        isError: true,
+        content: [{ type: 'text', text: `Unknown tool: ${request.params.name}` }],
+      };
     }
-    return {
-      isError: true,
-      content: [{ type: 'text', text: `Error: ${err.message || String(err)}` }],
-    };
-  }
-});
+    try {
+      const result = await tool.handler(request.params.arguments || {});
+      return {
+        content: [{ type: 'text', text: JSON.stringify(result, null, 2) }],
+      };
+    } catch (err) {
+      if (/401|403|login|cookie/i.test(err.message || '')) {
+        const args = request.params.arguments || {};
+        invalidateCtx(args.site, args.theme || '');
+      }
+      return {
+        isError: true,
+        content: [{ type: 'text', text: `Error: ${err.message || String(err)}` }],
+      };
+    }
+  });
+
+  return srv;
+}
 
 // Ensure cached ctxs get cleaned up on shutdown
 async function shutdown() {
@@ -733,8 +739,50 @@ process.on('SIGINT', shutdown);
 process.on('SIGTERM', shutdown);
 
 (async () => {
-  const transport = new StdioServerTransport();
-  await server.connect(transport);
-  // Don't print to stdout — that's the MCP channel. Use stderr if anything.
-  process.stderr.write('gantry5-mcp ready (stdio)\n');
+  const rawPort = process.env.HTTP_PORT || process.env.PORT;
+  const httpPort = rawPort ? parseInt(rawPort, 10) : null;
+
+  if (httpPort) {
+    const authToken = process.env.MCP_AUTH_TOKEN || null;
+    const sessions = new Map();
+
+    const httpServer = http.createServer(async (req, res) => {
+      if (authToken) {
+        const auth = req.headers['authorization'] || '';
+        const provided = auth.startsWith('Bearer ') ? auth.slice(7) : '';
+        if (provided !== authToken) {
+          res.writeHead(401, { 'Content-Type': 'application/json' }).end(JSON.stringify({ error: 'Unauthorized' }));
+          return;
+        }
+      }
+
+      try {
+        const sessionId = req.headers['mcp-session-id'];
+        let transport = sessionId ? sessions.get(sessionId) : null;
+
+        if (!transport) {
+          const srv = buildServer();
+          transport = new StreamableHTTPServerTransport({
+            sessionIdGenerator: () => randomUUID(),
+            onsessioninitialized: (id) => sessions.set(id, transport),
+          });
+          await srv.connect(transport);
+        }
+
+        await transport.handleRequest(req, res);
+      } catch (err) {
+        if (!res.headersSent) {
+          res.writeHead(500, { 'Content-Type': 'application/json' }).end(JSON.stringify({ error: err.message }));
+        }
+      }
+    });
+
+    await new Promise((resolve) => httpServer.listen(httpPort, resolve));
+    process.stderr.write(`gantry5-mcp ready (HTTP port ${httpPort})\n`);
+  } else {
+    const srv = buildServer();
+    const transport = new StdioServerTransport();
+    await srv.connect(transport);
+    process.stderr.write('gantry5-mcp ready (stdio)\n');
+  }
 })();
