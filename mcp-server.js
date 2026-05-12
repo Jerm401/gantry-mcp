@@ -713,7 +713,7 @@ function buildServer() {
         content: [{ type: 'text', text: JSON.stringify(result, null, 2) }],
       };
     } catch (err) {
-      if (/401|403|login|cookie/i.test(err.message || '')) {
+      if (/401|403|login|cookie|session expired|csrf/i.test(err.message || '')) {
         const args = request.params.arguments || {};
         invalidateCtx(args.site, args.theme || '');
       }
